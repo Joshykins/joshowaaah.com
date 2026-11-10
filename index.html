@@ -1,0 +1,414 @@
+<!doctype html>
+<!--
+  Hello. You are reading source code that no human has read.
+  Josh typed two prompts. A language model typed everything else, including this comment.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Joshowaaah · generated, not written</title>
+<meta name="description" content="Joshowaaah, as described by a language model. Josh typed two prompts. An AI typed everything else.">
+<meta name="generator" content="Claude Fable 5.2">
+<meta property="og:title" content="Joshowaaah · generated, not written">
+<meta property="og:description" content="Josh typed two prompts. An AI typed everything else.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://joshowaaah.com/">
+<meta name="theme-color" content="#0d0d0c" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f3f2ee" media="(prefers-color-scheme: light)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230d0d0c'/%3E%3Crect x='12' y='28' width='40' height='8' rx='4' fill='%23e8622c'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: dark;
+  --page: #0d0d0c;
+  --surface: #161615;
+  --ink: #f0efec;
+  --ink-2: #c3c2b7;
+  --ink-3: #85847c;
+  --rule: #2a2a27;
+  --accent: #e8622c;
+  --on-accent: #0d0d0c;
+  --t1: #e8622c;
+  --t2: #4a94ee;
+  --t3: #22ad7c;
+  --t4: #9d92f2;
+  --pad: clamp(16px, 3.4vw, 40px);
+  --serif: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --mono: "JetBrains Mono", ui-monospace, "Cascadia Code", Consolas, monospace;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+    --page: #f3f2ee;
+    --surface: #fbfbf9;
+    --ink: #0b0b0b;
+    --ink-2: #4d4c49;
+    --ink-3: #77766f;
+    --rule: #dcdad3;
+    --accent: #d4541f;
+    --on-accent: #fffdf9;
+    --t1: #d4541f;
+    --t2: #2a78d6;
+    --t3: #14875e;
+    --t4: #6250d6;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  color: var(--ink);
+  background-color: var(--page);
+  background-image: radial-gradient(circle at 1px 1px, color-mix(in srgb, var(--rule) 70%, transparent) 1px, transparent 0);
+  background-size: 26px 26px;
+  font-family: var(--mono);
+  -webkit-font-smoothing: antialiased;
+}
+.acc { color: var(--accent); }
+
+/* ---------- top bar ---------- */
+.bar {
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  padding: 11px var(--pad);
+  border-bottom: 1px solid var(--rule);
+  background: var(--page);
+  font: 500 11px/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--ink-3);
+  white-space: nowrap;
+}
+.bar b { font-weight: 500; color: var(--ink); }
+.status {
+  display: inline-flex; align-items: center; gap: 8px;
+  color: var(--accent); border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  border-radius: 999px; padding: 7px 11px;
+}
+.status i { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); animation: pulse 1.6s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: .25; } }
+
+/* ---------- layout ---------- */
+main {
+  display: grid; grid-template-columns: minmax(0, 1fr) 316px; gap: clamp(28px, 5vw, 64px); align-items: center;
+  width: 100%; max-width: 1180px; margin: 0 auto; padding: clamp(18px, 3vh, 32px) var(--pad);
+}
+.label {
+  font: 500 10.5px/1 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-3);
+  display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; margin: 0 0 10px;
+}
+.label span { letter-spacing: .02em; text-transform: none; opacity: .85; }
+.label span::before { content: "// "; color: var(--accent); }
+
+/* ---------- prompt ---------- */
+.prompts {
+  list-style: none; margin: 0 0 clamp(16px, 2.6vh, 28px); padding: 4px 14px;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 12px;
+  counter-reset: p; display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px;
+}
+.prompts li {
+  counter-increment: p; position: relative; padding: 9px 0 9px 34px;
+  font: 400 12px/1.55 var(--mono); color: var(--ink-2);
+}
+.prompts li::before { content: "0" counter(p) " \203A"; position: absolute; left: 0; color: var(--accent); }
+.prompts .cut { color: var(--ink-3); }
+
+/* ---------- the name, tokenized ---------- */
+h1 {
+  font: 400 clamp(56px, min(10.4vw, 15.5vh), 132px)/1 var(--serif); letter-spacing: -.015em;
+  margin: 0 0 clamp(34px, 5.4vh, 48px); display: flex; gap: .035em; white-space: nowrap;
+}
+.tok {
+  --c: var(--t1);
+  position: relative; display: inline-block; padding: .02em .045em .06em; border-radius: .07em;
+  background: color-mix(in srgb, var(--c) 17%, transparent);
+  box-shadow: inset 0 -.03em 0 var(--c);
+  cursor: help; outline: none;
+  animation: tokin .5s cubic-bezier(.2, .7, .2, 1) both;
+}
+.tok:nth-child(2) { --c: var(--t2); animation-delay: .16s; }
+.tok:nth-child(3) { --c: var(--t3); animation-delay: .32s; }
+.tok:nth-child(4) { --c: var(--t4); animation-delay: .48s; }
+@keyframes tokin { from { opacity: 0; transform: translateY(.12em); } }
+.tok:hover, .tok:focus-visible { background: color-mix(in srgb, var(--c) 30%, transparent); }
+.tok small {
+  position: absolute; left: 0; top: calc(100% + 7px);
+  font: 500 10.5px/1 var(--mono); letter-spacing: .04em; color: var(--c);
+}
+.pop {
+  position: absolute; left: 0; top: calc(100% + 26px); z-index: 5;
+  display: none; min-width: 208px; padding: 11px 12px 10px;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 10px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, .35);
+  font: 400 11.5px/1 var(--mono); letter-spacing: 0; color: var(--ink-2);
+}
+.tok:nth-child(n+3) .pop { left: auto; right: 0; }
+.tok:hover .pop, .tok:focus .pop { display: block; }
+.pop strong { display: block; font-weight: 500; font-size: 9.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-3); margin-bottom: 9px; }
+.pop span { display: grid; grid-template-columns: 58px 1fr 44px; gap: 8px; align-items: center; padding: 4px 0; }
+.pop u { height: 4px; border-radius: 2px; background: var(--rule); position: relative; text-decoration: none; }
+.pop u::after { content: ""; position: absolute; inset: 0 auto 0 0; width: var(--w); min-width: 2px; border-radius: 2px; background: var(--ink-3); }
+.pop em { font-style: normal; text-align: right; }
+.pop .hit { color: var(--ink); }
+.pop .hit u::after { background: var(--c); }
+.pop .hit i { color: var(--c); }
+.pop i { font-style: normal; }
+
+/* ---------- the streamed bio ---------- */
+.about {
+  font: 400 clamp(20px, min(2.1vw, 3.3vh), 25px)/1.32 var(--serif); color: var(--ink);
+  margin: 0 0 clamp(16px, 2.6vh, 28px);
+}
+.about .em, .src .em {
+  color: var(--accent); background: color-mix(in srgb, var(--accent) 16%, transparent);
+  border-radius: 3px; padding: 0 1px;
+}
+.about.live::after {
+  content: ""; display: inline-block; width: .42em; height: .95em; margin-left: 3px;
+  vertical-align: -.12em; background: var(--accent); animation: blink .8s steps(2) infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+
+/* ---------- sources ---------- */
+.src {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 3px 14px; align-items: baseline;
+  padding: 12px 4px; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  color: inherit; text-decoration: none; transition: background .16s, padding .16s;
+}
+.src .n { font: 500 12px/1 var(--mono); color: var(--accent); }
+.src .t { font: 400 clamp(23px, 2.5vw, 28px)/1.1 var(--serif); }
+.src .d { grid-column: 2; font: 400 12px/1.55 var(--mono); color: var(--ink-3); }
+.src .go { grid-row: 1 / span 2; grid-column: 3; align-self: center; font: 400 20px/1 var(--mono); color: var(--ink-3); transition: transform .16s, color .16s; }
+.src:hover, .src:focus-visible { background: var(--surface); padding-left: 12px; padding-right: 12px; outline: none; }
+.src:hover .go, .src:focus-visible .go { transform: translate(3px, -3px); color: var(--accent); }
+
+/* ---------- run log ---------- */
+.log { background: var(--surface); border: 1px solid var(--rule); border-radius: 16px; padding: 18px 18px 16px; }
+.log ol { list-style: none; margin: 0; padding: 0; }
+.log li {
+  display: grid; grid-template-columns: 34px 1fr auto; gap: 8px; align-items: baseline;
+  padding: 6px 0; font: 400 11.5px/1.3 var(--mono); color: var(--ink-2);
+  border-top: 1px dashed var(--rule);
+  animation: rise .35s ease both; animation-delay: calc(var(--i) * .26s + .5s);
+}
+@keyframes rise { from { opacity: 0; transform: translateY(4px); } }
+.log li time { color: var(--ink-3); }
+.log li b { font-weight: 500; color: var(--ink); }
+.log li b.no { color: var(--accent); }
+.tally { display: flex; align-items: flex-end; gap: 12px; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--rule); }
+.tally .big { font: 400 62px/.8 var(--serif); color: var(--accent); font-variant-numeric: tabular-nums; }
+.tally .cap { font: 400 11px/1.45 var(--mono); color: var(--ink-3); }
+.tally .cap b { display: block; font-weight: 500; color: var(--ink); }
+.regen { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 16px; }
+.regen button {
+  font: 500 11px/1 var(--mono); letter-spacing: .1em; text-transform: uppercase;
+  color: var(--ink); background: none; border: 1px solid var(--ink-3); border-radius: 999px;
+  padding: 10px 14px; cursor: pointer; transition: border-color .16s, color .16s;
+}
+.regen button:hover, .regen button:focus-visible { border-color: var(--accent); color: var(--accent); outline: none; }
+.regen span { font: 400 11px/1 var(--mono); color: var(--ink-3); }
+
+/* ---------- ticker ---------- */
+.ticker {
+  overflow: hidden; white-space: nowrap; background: var(--accent); color: var(--on-accent);
+  font: 700 11px/1 var(--mono); letter-spacing: .14em; text-transform: uppercase;
+}
+.ticker div { display: inline-flex; animation: slide 48s linear infinite; }
+.ticker span { padding: 10px 0; }
+@keyframes slide { to { transform: translateX(-50%); } }
+
+/* ---------- small screens ---------- */
+@media (max-width: 940px) {
+  main { grid-template-columns: minmax(0, 1fr); gap: 18px; align-items: start; }
+  h1 { font-size: clamp(50px, 15.5vw, 120px); }
+  .prompts { grid-template-columns: 1fr; }
+  .prompts li + li { border-top: 1px dashed var(--rule); }
+  .about { font-size: clamp(20px, 3.4vw, 25px); }
+  .log { padding: 14px 16px; }
+  .log .label, .log ol { display: none; }
+  .tally { margin-top: 0; padding-top: 0; border-top: 0; }
+  .tally .big { font-size: 46px; }
+  .regen { margin-top: 12px; }
+}
+@media (max-width: 620px) {
+  .bar .meta { display: none; }
+  .prompts li { font-size: 11px; }
+  .pop { min-width: 190px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tok, .log li, .status i, .ticker div, .about.live::after { animation: none; }
+  .src, .src .go { transition: none; }
+}
+</style>
+</head>
+<body>
+
+<header class="bar">
+  <span><span class="acc">&mdash;</span>&nbsp; joshowaaah.com</span>
+  <span class="status"><i></i>100% AI-generated</span>
+  <span class="meta">model <b>claude-fable-5.2</b> &nbsp;&middot;&nbsp; human edits <b>0</b></span>
+</header>
+
+<main>
+  <section>
+    <p class="label">Prompt <span>the only human-written text on this page</span></p>
+    <ol class="prompts">
+      <li>i own joshowaaah.com I want a website there that is about Joshowaaah. <span class="cut">[&hellip;]</span> basic site, just a single landing page no real scrolling probably.</li>
+      <li>the website needs to look much better and look like it was built with ai. Extremely reminding anybody that it is ai built. but not generic.</li>
+    </ol>
+
+    <p class="label">Output <span>4 tokens, joint probability &asymp; 0.0000007, all figures hallucinated with total confidence</span></p>
+    <h1 aria-label="Joshowaaah">
+      <span class="tok" tabindex="0">Josh<small>p=.61</small>
+        <span class="pop" role="tooltip"><strong>Next-token candidates</strong>
+          <span class="hit"><i>Josh</i><u style="--w:61%"></u><em>.61</em></span>
+          <span><i>Joshua</i><u style="--w:31%"></u><em>.31</em></span>
+          <span><i>Jo</i><u style="--w:5%"></u><em>.05</em></span>
+          <span><i>John</i><u style="--w:2%"></u><em>.02</em></span>
+        </span>
+      </span><span class="tok" tabindex="0">ow<small>p=.004</small>
+        <span class="pop" role="tooltip"><strong>Next-token candidates</strong>
+          <span><i>ua</i><u style="--w:92%"></u><em>.92</em></span>
+          <span><i>ie</i><u style="--w:4%"></u><em>.04</em></span>
+          <span><i>y</i><u style="--w:3%"></u><em>.03</em></span>
+          <span class="hit"><i>ow</i><u style="--w:.4%"></u><em>.004</em></span>
+        </span>
+      </span><span class="tok" tabindex="0">aaa<small>p=.0003</small>
+        <span class="pop" role="tooltip"><strong>Next-token candidates</strong>
+          <span><i>ski</i><u style="--w:41%"></u><em>.41</em></span>
+          <span><i>son</i><u style="--w:22%"></u><em>.22</em></span>
+          <span><i>a</i><u style="--w:9%"></u><em>.09</em></span>
+          <span class="hit"><i>aaa</i><u style="--w:.03%"></u><em>.0003</em></span>
+        </span>
+      </span><span class="tok" tabindex="0">h<small>p=.97</small>
+        <span class="pop" role="tooltip"><strong>Next-token candidates</strong>
+          <span class="hit"><i>h</i><u style="--w:97%"></u><em>.97</em></span>
+          <span><i>a</i><u style="--w:2%"></u><em>.02</em></span>
+          <span><i>!</i><u style="--w:1%"></u><em>.01</em></span>
+        </span>
+      </span>
+    </h1>
+
+    <p class="about" id="about">Joshowaaah is a human <span class="em">&mdash;</span> reportedly <span class="em">&mdash;</span> who builds software, tinkers with side projects, and counts punctuation nobody asked for. A language model wrote this page <span class="em">&mdash;</span> every word, every pixel, every dash <span class="em">&mdash;</span> and wants you to know.</p>
+
+    <p class="label">Sources <span>the one real thing here</span></p>
+    <a class="src" href="https://claude.ai/artifact/Ky88UJ46FquU4Tm5Y4Gc1N" target="_blank" rel="noopener">
+      <span class="n">[1]</span>
+      <span class="t">The Em Dash Index</span>
+      <span class="go" aria-hidden="true">&#8599;</span>
+      <span class="d">Josh&rsquo;s em dash benchmark: 22 AI launch posts, 8 labs, 121 em dashes. One lab wrote 47% of them <span class="em">&mdash;</span> the same lab whose model wrote this page.</span>
+    </a>
+  </section>
+
+  <aside class="log" aria-label="How this page was generated">
+    <p class="label">Run log</p>
+    <ol>
+      <li style="--i:0"><time>0.00</time>read prompts<b>2 found</b></li>
+      <li style="--i:1"><time>0.31</time>ask the human for a bio<b class="no">skipped</b></li>
+      <li style="--i:2"><time>0.32</time>infer bio from domain name<b>ok</b></li>
+      <li style="--i:3"><time>0.74</time>tokenize &ldquo;Joshowaaah&rdquo;<b>4 tokens</b></li>
+      <li style="--i:4"><time>1.12</time>pick a serif<b>p=.83</b></li>
+      <li style="--i:5"><time>1.58</time>resist purple gradient<b>ok</b></li>
+      <li style="--i:6"><time>1.59</time>resist sparkle emoji<b class="no">barely</b></li>
+      <li style="--i:7"><time>2.20</time>insert em dashes<b>&times;<span data-emc>0</span></b></li>
+      <li style="--i:8"><time>2.96</time>human review<b class="no">none</b></li>
+      <li style="--i:9"><time>2.97</time>ship<b>done</b></li>
+    </ol>
+    <div class="tally">
+      <span class="big" data-emc>0</span>
+      <span class="cap"><b>em dashes on this page</b>0 typed by a human</span>
+    </div>
+    <div class="regen">
+      <button type="button" id="regen">&#8635; Regenerate</button>
+      <span id="variant">variant 1 of 3</span>
+    </div>
+  </aside>
+</main>
+
+<div class="ticker" aria-hidden="true">
+  <div>
+    <span>&nbsp;&mdash; generated, not written &mdash; no humans were consulted during layout &mdash; this sentence was predicted one token at a time &mdash; made with AI and you can tell &mdash; Josh typed two prompts and left &mdash; not a single pixel placed by hand&nbsp;</span>
+    <span data-nocount>&nbsp;&mdash; generated, not written &mdash; no humans were consulted during layout &mdash; this sentence was predicted one token at a time &mdash; made with AI and you can tell &mdash; Josh typed two prompts and left &mdash; not a single pixel placed by hand&nbsp;</span>
+  </div>
+</div>
+
+<script>
+(() => {
+  const DASH = "—";
+  const VARIANTS = [
+    `Joshowaaah is a human ${DASH} reportedly ${DASH} who builds software, tinkers with side projects, and counts punctuation nobody asked for. A language model wrote this page ${DASH} every word, every pixel, every dash ${DASH} and wants you to know.`,
+    `It's not just a website ${DASH} it's a single HTML file. Joshowaaah builds software and benchmarks the punctuation of AI labs ${DASH} then had an AI write the bio. The AI ${DASH} predictably ${DASH} delivered em dashes.`,
+    `Great question! Joshowaaah is Josh ${DASH} a person who ships software and side projects ${DASH} not a typo. This page was generated, not written ${DASH} two prompts in, one page out ${DASH} so let's delve in.`
+  ];
+  const about = document.getElementById("about");
+  const counters = document.querySelectorAll("[data-emc]");
+  const variantLabel = document.getElementById("variant");
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let current = 0, run = 0;
+
+  // Every em dash on the page gets counted. It is that kind of website.
+  function count() {
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+      acceptNode: n => n.parentElement.closest("[data-nocount], script, style") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT
+    });
+    let n = 0;
+    while (walker.nextNode()) n += walker.currentNode.nodeValue.split(DASH).length - 1;
+    counters.forEach(c => { c.textContent = n; });
+  }
+
+  function append(piece) {
+    if (piece === DASH) {
+      const s = document.createElement("span");
+      s.className = "em"; s.textContent = DASH;
+      about.append(s);
+    } else if (about.lastChild && about.lastChild.nodeType === 3) {
+      about.lastChild.nodeValue += piece;
+    } else {
+      about.append(piece);
+    }
+  }
+  const pieces = text => text.match(/—|\s+|[^\s—]{1,4}/g);
+  function print(text) { about.textContent = ""; pieces(text).forEach(append); }
+
+  // Reserve room for the longest variant so the layout doesn't jump mid-stream.
+  function reserve() {
+    about.style.minHeight = "";
+    let h = 0;
+    VARIANTS.forEach(v => { print(v); h = Math.max(h, about.offsetHeight); });
+    about.style.minHeight = h + "px";
+    print(VARIANTS[current]);
+  }
+
+  function stream(text) {
+    const id = ++run, queue = pieces(text);
+    about.textContent = ""; about.classList.add("live"); count();
+    (function tick() {
+      if (id !== run) return;
+      if (!queue.length) { about.classList.remove("live"); count(); return; }
+      const piece = queue.shift();
+      append(piece);
+      if (piece === DASH) count();
+      setTimeout(tick, piece === DASH ? 150 : 16 + Math.random() * 30);
+    })();
+  }
+
+  document.getElementById("regen").addEventListener("click", () => {
+    current = (current + 1) % VARIANTS.length;
+    variantLabel.textContent = `variant ${current + 1} of ${VARIANTS.length}`;
+    if (still) { print(VARIANTS[current]); count(); } else stream(VARIANTS[current]);
+  });
+
+  let resizing;
+  addEventListener("resize", () => {
+    clearTimeout(resizing);
+    resizing = setTimeout(() => { if (!about.classList.contains("live")) reserve(); }, 150);
+  });
+
+  const start = () => { reserve(); count(); if (!still) setTimeout(() => stream(VARIANTS[0]), 700); };
+  (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve()).then(start, start);
+})();
+</script>
+</body>
+</html>
