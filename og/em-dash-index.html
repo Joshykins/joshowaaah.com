@@ -1,0 +1,47 @@
+<!doctype html>
+<!-- Source for og/em-dash-index.png (the link preview card). Render at 1200x630. -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>Em Dash Index preview card</title>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  width: 1200px; height: 630px; overflow: hidden;
+  background-color: #0e0e0d;
+  background-image: radial-gradient(circle at 1px 1px, #232321 1.5px, transparent 0);
+  background-size: 30px 30px;
+  color: #f0efec; font-family: "Inter", sans-serif; -webkit-font-smoothing: antialiased;
+  padding: 50px 64px 0;
+}
+.top { display: flex; justify-content: space-between; font: 500 19px/1 "JetBrains Mono", monospace; letter-spacing: .14em; text-transform: uppercase; color: #8f8e86; }
+.top b { color: #e8622c; font-weight: 500; letter-spacing: 0; margin-right: 10px; }
+h1 { font: 400 124px/1 "Instrument Serif", serif; letter-spacing: -.015em; margin: 26px 0 14px; }
+.dek { font: 400 29px/1.35 "Inter", sans-serif; color: #c3c2b7; margin: 0 0 36px; }
+.dek b { color: #f0efec; font-weight: 600; }
+.row { display: grid; grid-template-columns: 178px 1fr 70px; align-items: center; height: 62px; border-top: 1px solid #2d2d2a; }
+.name { display: flex; align-items: center; gap: 12px; font: 500 24px/1 "Inter", sans-serif; }
+.name i { width: 11px; height: 11px; border-radius: 50%; background: var(--c); }
+.strip { display: flex; align-items: center; }
+.strip u { width: 9px; height: 6px; border-radius: 2px; background: var(--c); margin-right: 3.5px; }
+.strip u:nth-child(5n) { margin-right: 9px; }
+.n { text-align: right; font: 400 42px/1 "Instrument Serif", serif; }
+.row:first-of-type .n { color: #e8622c; }
+</style>
+</head>
+<body>
+  <div class="top"><span><b>&mdash;</b>AI launch posts &middot; 10 Sep &ndash; 10 Nov 2026</span><span>joshowaaah.com</span></div>
+  <h1>The Em Dash Index</h1>
+  <p class="dek">Every em dash in 22 AI launch posts, counted. <b>One lab wrote 47% of them.</b></p>
+  <div id="rows"></div>
+<script>
+// Totals per lab, summed from the 22 posts in em-dash-index/index.html.
+const LABS = [["Anthropic", 57, "#e8622c"], ["OpenAI", 19, "#3987e5"], ["Google", 18, "#199e70"], ["Mistral", 12, "#c98500"]];
+document.getElementById("rows").innerHTML = LABS.map(([lab, n, c]) =>
+  `<div class="row" style="--c:${c}"><span class="name"><i></i>${lab}</span><span class="strip">${"<u></u>".repeat(n)}</span><span class="n">${n}</span></div>`).join("");
+</script>
+</body>
+</html>
