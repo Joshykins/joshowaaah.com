@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Em Dash Index · Joshowaaah</title>
+<meta name="description" content="How many em dashes each AI lab put in its model launch posts: 22 posts from 8 labs, 10 Sep to 10 Nov 2026.">
+<meta property="og:title" content="The Em Dash Index">
+<meta property="og:description" content="How many em dashes each AI lab put in its model launch posts: 22 posts from 8 labs.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://joshowaaah.com/em-dash-index/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: dark;
+  --page: #0e0e0d;
+  --surface: #1a1a19;
+  --ink: #f0efec;
+  --ink-2: #c3c2b7;
+  --ink-3: #8f8e86;
+  --rule: #2d2d2a;
+  --track: #232321;
+  --hover: #222220;
+  --accent: #d95926;
+  --anthropic: #d95926;
+  --openai: #3987e5;
+  --google: #199e70;
+  --mistral: #c98500;
+  --deepseek: #d55181;
+  --meta: #008300;
+  --moonshot: #9085e9;
+  --xai: #e66767;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    color-scheme: light;
+    --page: #f3f2ee;
+    --surface: #fcfcfb;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --ink-3: #7b7a75;
+    --rule: #e3e1db;
+    --track: #efeee9;
+    --hover: #f4f3ef;
+    --accent: #eb6834;
+    --anthropic: #eb6834;
+    --openai: #2a78d6;
+    --google: #1baf7a;
+    --mistral: #eda100;
+    --deepseek: #e87ba4;
+    --meta: #008300;
+    --moonshot: #6250d6;
+    --xai: #e34948;
+  }
+}
+:root[data-theme="light"] {
+  color-scheme: light;
+  --page: #f3f2ee; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --ink-3: #7b7a75;
+  --rule: #e3e1db; --track: #efeee9; --hover: #f4f3ef; --accent: #eb6834;
+  --anthropic: #eb6834; --openai: #2a78d6; --google: #1baf7a; --mistral: #eda100;
+  --deepseek: #e87ba4; --meta: #008300; --moonshot: #6250d6; --xai: #e34948;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  font-family: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "tnum" 1;
+}
+body.standalone { background: var(--page); padding: 40px 16px 64px; }
+/* embedded (no .standalone): sit on the host page and borrow its surfaces where it has them */
+body:not(.standalone) { --surface: var(--card, #1a1a19); --rule: var(--border, #2d2d2a); }
+.viz {
+  max-width: 880px;
+  margin: 0 auto;
+}
+body.standalone .viz {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 20px;
+  padding: 36px 36px 28px;
+}
+
+/* ---------- header ---------- */
+.kicker {
+  font: 500 11px/1 "JetBrains Mono", ui-monospace, monospace;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  display: flex; align-items: center; gap: 10px;
+}
+.kicker .glyph { color: var(--accent); font-size: 14px; letter-spacing: 0; }
+h1 {
+  font-family: "Instrument Serif", Georgia, serif;
+  font-weight: 400;
+  font-size: clamp(34px, 6vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.01em;
+  margin: 14px 0 10px;
+}
+h1 em { font-style: italic; color: var(--ink-2); }
+.dek { color: var(--ink-2); font-size: 15px; line-height: 1.55; max-width: 62ch; margin: 0; }
+
+/* ---------- stat tiles ---------- */
+.tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--rule);
+  border: 1px solid var(--rule); border-radius: 14px; overflow: hidden; margin: 26px 0 28px; }
+.tile { background: var(--surface); padding: 16px 18px 15px; }
+.tile .big { font: 400 34px/1 "Instrument Serif", Georgia, serif; letter-spacing: -.01em; }
+.tile .big small { font: 500 13px/1 "Inter", sans-serif; color: var(--ink-3); margin-left: 4px; letter-spacing: 0; }
+.tile .lbl { font-size: 12.5px; color: var(--ink-2); margin-top: 8px; line-height: 1.4; }
+
+/* ---------- controls ---------- */
+.controls { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+.seg { display: inline-flex; background: var(--track); border-radius: 999px; padding: 3px; }
+.seg button {
+  font: 500 12.5px/1 "Inter", sans-serif; color: var(--ink-2);
+  background: none; border: 0; border-radius: 999px; padding: 8px 14px; cursor: pointer;
+}
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.25); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: 500 12px/1 "Inter", sans-serif; color: var(--ink-2);
+  display: inline-flex; align-items: center; gap: 7px;
+  background: none; border: 1px solid var(--rule); border-radius: 999px; padding: 6px 10px 6px 8px; cursor: pointer;
+}
+.chip .sw { width: 14px; height: 3px; border-radius: 2px; background: var(--c); }
+.chip[aria-pressed="false"] { opacity: .42; }
+.chip[aria-pressed="false"] .sw { background: var(--ink-3); }
+.chip:hover { border-color: var(--ink-3); }
+
+/* ---------- ranked list ---------- */
+.axis {
+  display: grid; grid-template-columns: 64px 228px 1fr 56px; gap: 0 14px;
+  font: 500 10.5px/1 "JetBrains Mono", monospace; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--ink-3); padding: 14px 0 10px; border-bottom: 1px solid var(--rule);
+}
+.axis .r { text-align: right; }
+.list { position: relative; }
+.group {
+  display: grid; grid-template-columns: 64px 1fr; gap: 0 14px;
+  border-bottom: 1px solid var(--rule);
+  position: relative;
+}
+.group.tie { background: linear-gradient(90deg, color-mix(in srgb, var(--ink) 3.5%, transparent), transparent 70%); }
+.rank {
+  display: flex; flex-direction: column; align-items: flex-start; justify-content: center;
+  padding: 10px 0; position: relative;
+}
+.rank .num { font: 400 30px/1 "Instrument Serif", Georgia, serif; color: var(--ink-2); }
+.group.first .rank .num { color: var(--accent); }
+.tie .rank { padding-left: 14px; }
+.tie .rank::before {
+  content: ""; position: absolute; left: 0; top: 12px; bottom: 12px; width: 7px;
+  border: 1.5px solid var(--ink-3); border-right: 0; border-radius: 4px 0 0 4px; opacity: .8;
+}
+.tie .rank .tag {
+  margin-top: 6px; font: 500 9.5px/1 "JetBrains Mono", monospace; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--ink-2); background: var(--track); padding: 4px 6px; border-radius: 4px; white-space: nowrap;
+}
+.rows { display: flex; flex-direction: column; }
+.row {
+  display: grid; grid-template-columns: 228px 1fr 56px; gap: 0 14px; align-items: center;
+  min-height: 50px; padding: 7px 0; position: relative; cursor: default;
+}
+.row + .row { border-top: 1px dashed color-mix(in srgb, var(--rule) 70%, transparent); }
+.row::after { content: ""; position: absolute; inset: 0 -8px; border-radius: 8px; background: var(--hover); opacity: 0; z-index: -1; transition: opacity .12s; }
+.row:hover::after, .row.focus::after { opacity: 1; }
+.who { min-width: 0; }
+.who a { color: var(--ink); text-decoration: none; font-size: 14px; font-weight: 500; line-height: 1.25; display: block; }
+.who a:hover { text-decoration: underline; text-decoration-color: var(--ink-3); text-underline-offset: 3px; }
+.meta { font-size: 11.5px; color: var(--ink-3); margin-top: 3px; display: flex; align-items: center; gap: 6px; white-space: nowrap; }
+.meta .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); flex: none; }
+.meta .flag { color: var(--ink-3); border: 1px solid var(--rule); border-radius: 4px; padding: 1px 4px; font-size: 10px; }
+.strip { position: relative; height: 14px; }
+.strip i {
+  position: absolute; top: 5px; height: 4px; border-radius: 2px; background: var(--c);
+  transform-origin: left center; animation: grow .45s cubic-bezier(.2,.7,.2,1) both;
+}
+.strip .none { position: absolute; top: 0; font: 400 11.5px/14px "JetBrains Mono", monospace; color: var(--ink-3); }
+@keyframes grow { from { transform: scaleX(0); opacity: 0; } to { transform: scaleX(1); opacity: 1; } }
+.val { text-align: right; font: 400 26px/1 "Instrument Serif", Georgia, serif; color: var(--ink); }
+.val.dec { font-size: 22px; }
+
+/* ---------- tooltip ---------- */
+.tip {
+  position: fixed; pointer-events: none; z-index: 10; opacity: 0; transition: opacity .1s;
+  background: var(--surface); color: var(--ink); border: 1px solid var(--rule); border-radius: 10px;
+  padding: 10px 12px; font-size: 12.5px; line-height: 1.45; min-width: 210px;
+  box-shadow: 0 8px 28px rgba(0,0,0,.28);
+}
+.tip.on { opacity: 1; }
+.tip .t { font-weight: 600; font-size: 13px; }
+.tip .s { color: var(--ink-3); font-size: 11.5px; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+.tip .s .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
+.tip dl { display: grid; grid-template-columns: auto auto; gap: 2px 16px; margin: 0; }
+.tip dt { color: var(--ink-2); }
+.tip dd { margin: 0; text-align: right; font-family: "JetBrains Mono", monospace; font-size: 12px; }
+
+/* ---------- by lab ---------- */
+h2 { font: 400 26px/1.1 "Instrument Serif", Georgia, serif; margin: 40px 0 4px; }
+.sub { color: var(--ink-2); font-size: 13.5px; margin: 0 0 14px; }
+.labs { display: grid; grid-template-columns: 1fr; }
+.lab {
+  display: grid; grid-template-columns: 112px 1fr 120px; gap: 14px; align-items: center;
+  padding: 9px 0; border-bottom: 1px solid var(--rule); font-size: 13.5px;
+}
+.lab .nm { display: flex; align-items: center; gap: 8px; font-weight: 500; }
+.lab .nm .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.lab .bar { height: 10px; position: relative; }
+.lab .bar .fill { position: absolute; left: 0; top: 3px; height: 4px; border-radius: 2px; background: var(--c); }
+.lab .bar .avg { position: absolute; top: -1px; font: 400 11px/1 "JetBrains Mono", monospace; color: var(--ink-2); white-space: nowrap; }
+.lab .fig { text-align: right; color: var(--ink-3); font-size: 12px; }
+.lab .fig b { color: var(--ink); font-weight: 500; }
+
+/* ---------- notes ---------- */
+.notes { margin-top: 30px; color: var(--ink-3); font-size: 12px; line-height: 1.6; }
+.notes p { margin: 0 0 8px; }
+.notes b { color: var(--ink-2); font-weight: 500; }
+details { margin-top: 14px; border-top: 1px solid var(--rule); padding-top: 12px; }
+summary { cursor: pointer; color: var(--ink-2); font-size: 12.5px; font-weight: 500; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 12px; }
+th, td { text-align: left; padding: 6px 8px 6px 0; border-bottom: 1px solid var(--rule); }
+th { color: var(--ink-3); font-weight: 500; }
+td { color: var(--ink-2); }
+td.n { text-align: right; font-family: "JetBrains Mono", monospace; color: var(--ink); }
+td a { color: var(--ink-2); }
+
+@media (max-width: 640px) {
+  body.standalone { padding: 16px 16px 40px; }
+  body.standalone .viz { padding: 22px 16px 18px; border-radius: 16px; }
+  .tiles { grid-template-columns: 1fr; }
+  .axis { display: none; }
+  .group { grid-template-columns: 54px 1fr; gap: 0 10px; }
+  .rank .num { font-size: 24px; }
+  .tie .rank { padding-left: 11px; }
+  .tie .rank .tag { font-size: 8.5px; padding: 3px 4px; }
+  .row { grid-template-columns: 1fr 44px; grid-template-areas: "who val" "strip strip"; gap: 6px 10px; }
+  .who { grid-area: who; } .strip { grid-area: strip; } .val { grid-area: val; font-size: 24px; }
+  .lab { grid-template-columns: 92px 1fr; }
+  .lab .fig { grid-column: 1 / -1; text-align: left; margin-top: -4px; }
+}
+@media (prefers-reduced-motion: reduce) { .strip i { animation: none; } }
+</style>
+</head>
+<body class="standalone">
+<div class="viz">
+  <a href="../" style="display:inline-block;margin-bottom:22px;font:500 11px/1 'JetBrains Mono',ui-monospace,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);text-decoration:none">&larr; joshowaaah.com</a>
+  <div class="kicker"><span class="glyph">&mdash;</span> AI launch posts &middot; 10 Sep &ndash; 10 Nov 2026</div>
+  <h1>The Em Dash Index</h1>
+  <p class="dek">How many em dashes each AI lab put in its model launch posts over the last two months: 22 posts from 8 labs. Each mark below is one em dash. Bracketed ranks are ties.</p>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Measure">
+      <button type="button" data-mode="count" aria-pressed="true">Total em dashes</button>
+      <button type="button" data-mode="rate" aria-pressed="false">Per 1,000 words</button>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter labs"></div>
+  </div>
+
+  <div class="axis" aria-hidden="true"><span>Rank</span><span>Launch post</span><span id="axisLabel">One mark = one em dash</span><span class="r" id="axisUnit">Count</span></div>
+  <div class="list" id="list"></div>
+
+  <h2>By lab</h2>
+  <p class="sub">Average em dashes per launch post. Anthropic averages <span id="mult"></span> as many as the rest of the field.</p>
+  <div class="labs" id="labs"></div>
+
+  <div class="notes">
+    <p><b>Method.</b> Each post's article body was downloaded and its U+2014 characters counted by script; navigation, footers and cookie banners are excluded. En dashes (&ndash;) and hyphens don't count. Dashes inside customer quotes and table cells do. On the posts both cover, this method matches the original tally exactly: Fable 5 &amp; Mythos 5 = 26, Opus 5.5 = 18, Opus 4.7 = 17, Sonnet 4.5 = 14, Fable 5.1 = 12.</p>
+    <p><b>Window.</b> Model launch posts on each lab's own site from 10 Sep to 10 Nov 2026. Just outside: GPT-6 Astra (3 Sep, 5 dashes) and Claude Fable 5.1 &amp; Mythos 5.1 (1 Sep, 12). Labs without a launch post on their own site (Qwen, MiniMax, Z.ai) aren't included.</p>
+    <p><b>Per 1,000 words.</b> Posts under 500 words are marked <i>short</i>; one dash moves their rate a long way. xAI's pages have no article tag, so their word counts include some page chrome.</p>
+    <details>
+      <summary>Data table and sources</summary>
+      <table id="table"><thead><tr><th>Launch post</th><th>Lab</th><th>Date</th><th style="text-align:right">Em dashes</th><th style="text-align:right">Words</th><th style="text-align:right">Per 1k</th></tr></thead><tbody></tbody></table>
+    </details>
+  </div>
+</div>
+<div class="tip" id="tip" role="tooltip"></div>
+
+<script>
+const LABS = {
+  Anthropic: "var(--anthropic)", OpenAI: "var(--openai)", Google: "var(--google)", Mistral: "var(--mistral)",
+  Moonshot: "var(--moonshot)", DeepSeek: "var(--deepseek)", Meta: "var(--meta)", xAI: "var(--xai)"
+};
+const RAW = [["Anthropic","Claude Fable 5.2 & Mythos 5.2","2026-11-09",29,6512,"https://www.anthropic.com/claude-fable-and-mythos-5-2"],["Anthropic","Claude Opus 5.5","2026-09-22",18,6337,"https://www.anthropic.com/claude-opus-5-5"],["Anthropic","Claude Sonnet 5.5","2026-09-28",6,3002,"https://www.anthropic.com/claude-sonnet-5-5"],["Anthropic","Claude Haiku 5.5","2026-10-07",4,1798,"https://www.anthropic.com/claude-haiku-5-5"],["OpenAI","GPT-6 Sol & Luna","2026-09-22",7,2114,"https://openai.com/index/introducing-gpt-6-sol-and-luna/"],["OpenAI","GPT-6.1 Sol","2026-09-29",3,1255,"https://openai.com/index/introducing-gpt-6-1-sol/"],["OpenAI","GPT-6.1 Terra","2026-10-26",1,859,"https://openai.com/index/introducing-gpt-6-1-terra/"],["OpenAI","Images 2.6","2026-11-04",5,1073,"https://openai.com/index/introducing-images-2-6/"],["OpenAI","GPT-6 Cyber","2026-11-05",3,3003,"https://openai.com/index/introducing-gpt-6-cyber/"],["Google","Gemini 4 Argon","2026-09-30",1,1572,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"],["Google","Gemini 4 Argon, for everyone","2026-10-13",7,2801,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"],["Google","Genie 4","2026-10-27",0,269,"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"],["Google","Gemini 4 Carbon","2026-10-28",5,1011,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"],["Google","Gemini 4 Carbon, available","2026-11-10",5,2361,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"],["xAI","Grok 4.7","2026-09-21",0,1327,"https://x.ai/news/grok-4-7"],["xAI","Grok Voice 3.0","2026-10-14",1,724,"https://x.ai/news/grok-voice-3"],["Mistral","Mistral Large 4","2026-10-06",9,2240,"https://mistral.ai/news/mistral-large-4/"],["Mistral","Mistral Large 4, open weights","2026-10-29",3,3727,"https://mistral.ai/news/mistral-large-4-oss/"],["Meta","Muse Wonder","2026-10-12",1,625,"https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"],["Moonshot","Kimi K3.1 Pro","2026-10-23",10,3011,"https://www.kimi.com/en/blog/kimi-k3-1-pro"],["DeepSeek","DeepSeek V4.1 Flash","2026-09-10",0,368,"https://api-docs.deepseek.com/news/news260910"],["DeepSeek","DeepSeek V4.1 Flash 1017","2026-10-17",3,264,"https://api-docs.deepseek.com/news/news261017"]];
+const POSTS = RAW.map(([lab, name, date, n, words, url]) => ({ lab, name, date, n, words, url, rate: n / words * 1000, short: words < 500 }));
+
+const state = { mode: "count", labs: new Set(Object.keys(LABS)) };
+const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const fmtDate = d => { const [, m, day] = d.split("-"); return `${+day} ${MON[+m - 1]}`; };
+const val = p => state.mode === "count" ? p.n : p.rate;
+const show = v => state.mode === "count" ? String(v) : v.toFixed(1);
+const key = v => state.mode === "count" ? v : Math.round(v * 10); // ties at displayed precision
+
+/* ----- tiles ----- */
+(function tiles() {
+  const total = POSTS.reduce((s, p) => s + p.n, 0);
+  const anth = POSTS.filter(p => p.lab === "Anthropic");
+  const anthN = anth.reduce((s, p) => s + p.n, 0);
+  const top = [...POSTS].sort((a, b) => b.n - a.n)[0];
+  const rivals = ["OpenAI", "Google"].map(l => POSTS.filter(p => p.lab === l).reduce((s, p) => s + p.n, 0));
+  document.getElementById("tiles").innerHTML = `
+    <div class="tile"><div class="big">${total}<small>em dashes</small></div><div class="lbl">across ${POSTS.length} launch posts from ${Object.keys(LABS).length} labs</div></div>
+    <div class="tile"><div class="big">${Math.round(anthN / total * 100)}%<small>Anthropic</small></div><div class="lbl">of every dash, from ${anth.length} of the ${POSTS.length} posts</div></div>
+    <div class="tile"><div class="big">${top.n}<small>in one post</small></div><div class="lbl">${top.name.replace(" & ", " &amp; ")}: more than OpenAI's five posts (${rivals[0]}) or Google's five (${rivals[1]}) put together</div></div>`;
+})();
+
+/* ----- chips ----- */
+const chips = document.getElementById("chips");
+Object.entries(LABS).forEach(([lab, c]) => {
+  const b = document.createElement("button");
+  b.className = "chip"; b.type = "button"; b.style.setProperty("--c", c);
+  b.setAttribute("aria-pressed", "true"); b.dataset.lab = lab;
+  b.innerHTML = `<span class="sw"></span>${lab}`;
+  b.onclick = () => {
+    const on = state.labs.has(lab);
+    if (on && state.labs.size === Object.keys(LABS).length) { state.labs = new Set([lab]); } // first click isolates
+    else if (on) { state.labs.delete(lab); if (!state.labs.size) state.labs = new Set(Object.keys(LABS)); }
+    else state.labs.add(lab);
+    syncChips(); render();
+  };
+  chips.appendChild(b);
+});
+function syncChips() { chips.querySelectorAll(".chip").forEach(b => b.setAttribute("aria-pressed", state.labs.has(b.dataset.lab))); }
+
+document.querySelectorAll(".seg button").forEach(b => b.onclick = () => {
+  state.mode = b.dataset.mode;
+  document.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+});
+
+/* ----- dash strip geometry: groups of five with a wider gap ----- */
+const GAP5 = 0.55;           // extra space after every fifth mark, in mark units
+const units = k => k + Math.floor(Math.max(k - 1, 0) / 5) * GAP5;
+function strip(p, maxCount, maxRate, delayBase) {
+  // In count mode each mark is one em dash. In rate mode the same marks are scaled so the
+  // longest strip matches the top rate, and the last mark is cut to the exact length.
+  const span = units(maxCount);
+  const marks = state.mode === "count" ? p.n : p.rate / maxRate * maxCount;
+  if (marks === 0) return `<span class="none">none</span>`;
+  const whole = Math.floor(marks), frac = marks - whole;
+  let out = "";
+  const pos = i => (i + Math.floor(i / 5) * GAP5) / span * 100;
+  const w = 0.72 / span * 100;
+  const n = whole + (frac > 0.05 ? 1 : 0);
+  for (let i = 0; i < n; i++) {
+    const width = i === whole ? w * frac : w;
+    out += `<i style="left:${pos(i).toFixed(3)}%;width:${width.toFixed(3)}%;animation-delay:${delayBase + i * 14}ms"></i>`;
+  }
+  return out;
+}
+
+/* ----- ranked list ----- */
+const list = document.getElementById("list");
+function render() {
+  const posts = POSTS.filter(p => state.labs.has(p.lab))
+    .sort((a, b) => val(b) - val(a) || b.date.localeCompare(a.date));
+  const maxCount = Math.max(...POSTS.map(p => p.n));
+  const maxRate = Math.max(...posts.map(p => p.rate), 0.001);
+  document.getElementById("axisLabel").textContent = state.mode === "count" ? "One mark = one em dash" : "Em dashes per 1,000 words";
+  document.getElementById("axisUnit").textContent = state.mode === "count" ? "Count" : "Per 1k";
+
+  // competition ranking: ties share a rank, the next rank skips (1, 2, 3=, 3=, 5)
+  const groups = [];
+  posts.forEach((p, i) => {
+    const g = groups[groups.length - 1];
+    if (g && g.key === key(val(p))) g.items.push(p);
+    else groups.push({ key: key(val(p)), rank: i + 1, items: [p] });
+  });
+
+  let rowIndex = 0;
+  list.innerHTML = groups.map((g, gi) => {
+    const tie = g.items.length > 1;
+    const rows = g.items.map(p => {
+      const html = `<div class="row" data-i="${POSTS.indexOf(p)}" style="--c:${LABS[p.lab]}">
+        <div class="who"><a href="${p.url}" target="_blank" rel="noopener">${p.name.replace(" & ", " &amp; ")}</a>
+          <div class="meta"><span class="dot"></span>${p.lab} &middot; ${fmtDate(p.date)}${state.mode === "rate" && p.short ? ` <span class="flag">short</span>` : ""}</div></div>
+        <div class="strip">${strip(p, maxCount, maxRate, rowIndex * 28)}</div>
+        <div class="val${state.mode === "rate" ? " dec" : ""}">${show(val(p))}</div></div>`;
+      rowIndex++;
+      return html;
+    }).join("");
+    return `<div class="group${tie ? " tie" : ""}${gi === 0 ? " first" : ""}">
+      <div class="rank"><span class="num">${g.rank}</span>${tie ? `<span class="tag">tie &times;${g.items.length}</span>` : ""}</div>
+      <div class="rows">${rows}</div></div>`;
+  }).join("");
+}
+
+/* ----- tooltip ----- */
+const tip = document.getElementById("tip");
+list.addEventListener("pointermove", e => {
+  const row = e.target.closest(".row");
+  list.querySelectorAll(".row.focus").forEach(r => r !== row && r.classList.remove("focus"));
+  if (!row) { tip.classList.remove("on"); return; }
+  row.classList.add("focus");
+  const p = POSTS[+row.dataset.i];
+  tip.style.setProperty("--c", LABS[p.lab]);
+  tip.innerHTML = `<div class="t">${p.name.replace(" & ", " &amp; ")}</div>
+    <div class="s"><span class="dot"></span>${p.lab} &middot; ${fmtDate(p.date)} 2026</div>
+    <dl><dt>Em dashes</dt><dd>${p.n}</dd><dt>Words</dt><dd>${p.words.toLocaleString("en-US")}</dd>
+    <dt>Per 1,000 words</dt><dd>${p.rate.toFixed(2)}</dd><dt>One every</dt><dd>${p.n ? Math.round(p.words / p.n).toLocaleString("en-US") + " words" : "never"}</dd></dl>`;
+  const r = tip.getBoundingClientRect();
+  let x = e.clientX + 16, y = e.clientY + 16;
+  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 16;
+  if (y + r.height > innerHeight - 8) y = e.clientY - r.height - 16;
+  tip.style.left = Math.max(8, x) + "px"; tip.style.top = Math.max(8, y) + "px";
+  tip.classList.add("on");
+});
+list.addEventListener("pointerleave", () => { tip.classList.remove("on"); list.querySelectorAll(".row.focus").forEach(r => r.classList.remove("focus")); });
+
+/* ----- by lab ----- */
+(function labs() {
+  const rows = Object.keys(LABS).map(lab => {
+    const ps = POSTS.filter(p => p.lab === lab);
+    const n = ps.reduce((s, p) => s + p.n, 0), w = ps.reduce((s, p) => s + p.words, 0);
+    return { lab, posts: ps.length, n, avg: n / ps.length, rate: n / w * 1000 };
+  }).sort((a, b) => b.avg - a.avg);
+  const max = rows[0].avg;
+  const rest = POSTS.filter(p => p.lab !== "Anthropic");
+  const restAvg = rest.reduce((s, p) => s + p.n, 0) / rest.length;
+  document.getElementById("mult").textContent = (rows.find(r => r.lab === "Anthropic").avg / restAvg).toFixed(1) + "×";
+  document.getElementById("labs").innerHTML = rows.map(r => `
+    <div class="lab" style="--c:${LABS[r.lab]}">
+      <div class="nm"><span class="dot"></span>${r.lab}</div>
+      <div class="bar"><span class="fill" style="width:${(r.avg / max * 82).toFixed(2)}%"></span><span class="avg" style="left:calc(${(r.avg / max * 82).toFixed(2)}% + 8px)">${r.avg.toFixed(1)}</span></div>
+      <div class="fig"><b>${r.n}</b> in ${r.posts} post${r.posts > 1 ? "s" : ""}</div>
+    </div>`).join("");
+})();
+
+/* ----- table ----- */
+document.querySelector("#table tbody").innerHTML = [...POSTS].sort((a, b) => b.n - a.n || b.rate - a.rate).map(p => `
+  <tr><td><a href="${p.url}" target="_blank" rel="noopener">${p.name.replace(" & ", " &amp; ")}</a></td><td>${p.lab}</td><td>${fmtDate(p.date)}</td>
+  <td class="n">${p.n}</td><td class="n">${p.words.toLocaleString("en-US")}</td><td class="n">${p.rate.toFixed(2)}</td></tr>`).join("");
+
+render();
+</script>
+</body>
+</html>
