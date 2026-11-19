@@ -33,13 +33,13 @@ h1 { font: 400 124px/1 "Instrument Serif", serif; letter-spacing: -.015em; margi
 </style>
 </head>
 <body>
-  <div class="top"><span><b>&mdash;</b>AI launch posts &middot; 10 Sep &ndash; 10 Nov 2026</span><span>joshowaaah.com</span></div>
+  <div class="top"><span><b>&mdash;</b>AI launch posts &middot; 10 Sep &ndash; 19 Nov 2026</span><span>joshowaaah.com</span></div>
   <h1>The Em Dash Index</h1>
-  <p class="dek">Every em dash in 22 AI launch posts, counted. <b>One lab wrote 47% of them.</b></p>
+  <p class="dek">Every em dash in 27 AI launch posts, counted. <b>One lab wrote 38% of them.</b></p>
   <div id="rows"></div>
 <script>
-// Totals per lab, summed from the 22 posts in em-dash-index/index.html.
-const LABS = [["Anthropic", 57, "#e8622c"], ["OpenAI", 19, "#3987e5"], ["Google", 18, "#199e70"], ["Mistral", 12, "#c98500"]];
+// Totals per lab, summed from the 27 posts in em-dash-index/index.html.
+const LABS = [["Anthropic", 57, "#e8622c"], ["Google", 44, "#199e70"], ["OpenAI", 21, "#3987e5"], ["Mistral", 12, "#c98500"]];
 document.getElementById("rows").innerHTML = LABS.map(([lab, n, c]) =>
   `<div class="row" style="--c:${c}"><span class="name"><i></i>${lab}</span><span class="strip">${"<u></u>".repeat(n)}</span><span class="n">${n}</span></div>`).join("");
 </script>

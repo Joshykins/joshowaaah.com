@@ -4,22 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Em Dash Index · Joshowaaah</title>
-<meta name="description" content="Every em dash in 22 AI model launch posts from 8 labs, counted and ranked. One lab wrote 47% of them.">
+<meta name="description" content="Every em dash in 27 AI model launch posts from 8 labs, counted and ranked. One lab wrote 38% of them.">
 <link rel="canonical" href="https://joshowaaah.com/em-dash-index/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230d0d0c'/%3E%3Crect x='12' y='28' width='40' height='8' rx='4' fill='%23e8622c'/%3E%3C/svg%3E">
 <meta property="og:site_name" content="joshowaaah.com">
 <meta property="og:title" content="The Em Dash Index">
-<meta property="og:description" content="Every em dash in 22 AI model launch posts from 8 labs, counted and ranked. One lab wrote 47% of them.">
+<meta property="og:description" content="Every em dash in 27 AI model launch posts from 8 labs, counted and ranked. One lab wrote 38% of them.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://joshowaaah.com/em-dash-index/">
 <meta property="og:image" content="https://joshowaaah.com/og/em-dash-index.png">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="2400">
 <meta property="og:image:height" content="1260">
-<meta property="og:image:alt" content="The Em Dash Index: em dashes per lab across 22 AI launch posts. Anthropic 57, OpenAI 19, Google 18, Mistral 12.">
+<meta property="og:image:alt" content="The Em Dash Index: em dashes per lab across 27 AI launch posts. Anthropic 57, Google 44, OpenAI 21, Mistral 12.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The Em Dash Index">
-<meta name="twitter:description" content="Every em dash in 22 AI model launch posts from 8 labs, counted and ranked. One lab wrote 47% of them.">
+<meta name="twitter:description" content="Every em dash in 27 AI model launch posts from 8 labs, counted and ranked. One lab wrote 38% of them.">
 <meta name="twitter:image" content="https://joshowaaah.com/og/em-dash-index.png">
 <!-- The two "not all" tags never apply in a browser; they give link-preview embeds an accent colour. -->
 <meta name="theme-color" content="#e8622c" media="not all">
@@ -266,9 +266,9 @@ td a { color: var(--ink-2); }
 <body class="standalone">
 <div class="viz">
   <a href="../" style="display:inline-block;margin-bottom:22px;font:500 11px/1 'JetBrains Mono',ui-monospace,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);text-decoration:none">&larr; joshowaaah.com</a>
-  <div class="kicker"><span class="glyph">&mdash;</span> AI launch posts &middot; 10 Sep &ndash; 10 Nov 2026</div>
+  <div class="kicker"><span class="glyph">&mdash;</span> AI launch posts &middot; 10 Sep &ndash; 19 Nov 2026</div>
   <h1>The Em Dash Index</h1>
-  <p class="dek">How many em dashes each AI lab put in its model launch posts over the last two months: 22 posts from 8 labs. Each mark below is one em dash. Bracketed ranks are ties.</p>
+  <p class="dek">How many em dashes each AI lab put in its model launch posts from 10 Sep to 19 Nov 2026: 27 posts from 8 labs. Each mark below is one em dash. Bracketed ranks are ties.</p>
 
   <div class="tiles" id="tiles"></div>
 
@@ -289,7 +289,7 @@ td a { color: var(--ink-2); }
 
   <div class="notes">
     <p><b>Method.</b> Each post's article body was downloaded and its U+2014 characters counted by script; navigation, footers and cookie banners are excluded. En dashes (&ndash;) and hyphens don't count. Dashes inside customer quotes and table cells do. On the posts both cover, this method matches the original tally exactly: Fable 5 &amp; Mythos 5 = 26, Opus 5.5 = 18, Opus 4.7 = 17, Sonnet 4.5 = 14, Fable 5.1 = 12.</p>
-    <p><b>Window.</b> Model launch posts on each lab's own site from 10 Sep to 10 Nov 2026. Just outside: GPT-6 Astra (3 Sep, 5 dashes) and Claude Fable 5.1 &amp; Mythos 5.1 (1 Sep, 12). Labs without a launch post on their own site (Qwen, MiniMax, Z.ai) aren't included.</p>
+    <p><b>Window.</b> Model launch posts on each lab's own site from 10 Sep to 19 Nov 2026. Just outside: GPT-6 Astra (3 Sep, 5 dashes) and Claude Fable 5.1 &amp; Mythos 5.1 (1 Sep, 12). Labs without a launch post on their own site (Qwen, MiniMax, Z.ai) aren't included, and neither are product posts with no new model (Grok Bot 1.0, the DeepSeek App API).</p>
     <p><b>Per 1,000 words.</b> Posts under 500 words are marked <i>short</i>; one dash moves their rate a long way. xAI's pages have no article tag, so their word counts include some page chrome.</p>
     <details>
       <summary>Data table and sources</summary>
@@ -304,7 +304,7 @@ const LABS = {
   Anthropic: "var(--anthropic)", OpenAI: "var(--openai)", Google: "var(--google)", Mistral: "var(--mistral)",
   Moonshot: "var(--moonshot)", DeepSeek: "var(--deepseek)", Meta: "var(--meta)", xAI: "var(--xai)"
 };
-const RAW = [["Anthropic","Claude Fable 5.2 & Mythos 5.2","2026-11-09",29,6512,"https://www.anthropic.com/claude-fable-and-mythos-5-2"],["Anthropic","Claude Opus 5.5","2026-09-22",18,6337,"https://www.anthropic.com/claude-opus-5-5"],["Anthropic","Claude Sonnet 5.5","2026-09-28",6,3002,"https://www.anthropic.com/claude-sonnet-5-5"],["Anthropic","Claude Haiku 5.5","2026-10-07",4,1798,"https://www.anthropic.com/claude-haiku-5-5"],["OpenAI","GPT-6 Sol & Luna","2026-09-22",7,2114,"https://openai.com/index/introducing-gpt-6-sol-and-luna/"],["OpenAI","GPT-6.1 Sol","2026-09-29",3,1255,"https://openai.com/index/introducing-gpt-6-1-sol/"],["OpenAI","GPT-6.1 Terra","2026-10-26",1,859,"https://openai.com/index/introducing-gpt-6-1-terra/"],["OpenAI","Images 2.6","2026-11-04",5,1073,"https://openai.com/index/introducing-images-2-6/"],["OpenAI","GPT-6 Cyber","2026-11-05",3,3003,"https://openai.com/index/introducing-gpt-6-cyber/"],["Google","Gemini 4 Argon","2026-09-30",1,1572,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"],["Google","Gemini 4 Argon, for everyone","2026-10-13",7,2801,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"],["Google","Genie 4","2026-10-27",0,269,"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"],["Google","Gemini 4 Carbon","2026-10-28",5,1011,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"],["Google","Gemini 4 Carbon, available","2026-11-10",5,2361,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"],["xAI","Grok 4.7","2026-09-21",0,1327,"https://x.ai/news/grok-4-7"],["xAI","Grok Voice 3.0","2026-10-14",1,724,"https://x.ai/news/grok-voice-3"],["Mistral","Mistral Large 4","2026-10-06",9,2240,"https://mistral.ai/news/mistral-large-4/"],["Mistral","Mistral Large 4, open weights","2026-10-29",3,3727,"https://mistral.ai/news/mistral-large-4-oss/"],["Meta","Muse Wonder","2026-10-12",1,625,"https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"],["Moonshot","Kimi K3.1 Pro","2026-10-23",10,3011,"https://www.kimi.com/en/blog/kimi-k3-1-pro"],["DeepSeek","DeepSeek V4.1 Flash","2026-09-10",0,368,"https://api-docs.deepseek.com/news/news260910"],["DeepSeek","DeepSeek V4.1 Flash 1017","2026-10-17",3,264,"https://api-docs.deepseek.com/news/news261017"]];
+const RAW = [["Anthropic","Claude Fable 5.2 & Mythos 5.2","2026-11-09",29,6512,"https://www.anthropic.com/claude-fable-and-mythos-5-2"],["Anthropic","Claude Opus 5.5","2026-09-22",18,6337,"https://www.anthropic.com/claude-opus-5-5"],["Anthropic","Claude Sonnet 5.5","2026-09-28",6,3002,"https://www.anthropic.com/claude-sonnet-5-5"],["Anthropic","Claude Haiku 5.5","2026-10-07",4,1798,"https://www.anthropic.com/claude-haiku-5-5"],["OpenAI","GPT-6 Sol & Luna","2026-09-22",7,2114,"https://openai.com/index/introducing-gpt-6-sol-and-luna/"],["OpenAI","GPT-6.1 Sol","2026-09-29",3,1255,"https://openai.com/index/introducing-gpt-6-1-sol/"],["OpenAI","GPT-6.1 Terra","2026-10-26",1,859,"https://openai.com/index/introducing-gpt-6-1-terra/"],["OpenAI","Images 2.6","2026-11-04",5,1073,"https://openai.com/index/introducing-images-2-6/"],["OpenAI","GPT-6 Cyber","2026-11-05",3,3003,"https://openai.com/index/introducing-gpt-6-cyber/"],["OpenAI","GPT-6.2 Astra & Sol","2026-11-17",2,3111,"https://openai.com/index/introducing-gpt-6-2-astra-sol"],["Google","Gemini 4 Argon","2026-09-30",1,1572,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"],["Google","Gemini 4 Argon, for everyone","2026-10-13",7,2801,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"],["Google","Genie 4","2026-10-27",0,269,"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"],["Google","Gemini 4 Carbon","2026-10-28",5,1011,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"],["Google","Gemini 4 Carbon, available","2026-11-10",5,2361,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"],["Google","Gemini 4 Hydrogen","2026-11-12",15,2354,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"],["Google","Gemini 4 Neon","2026-11-18",10,2128,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"],["Google","Genie 4, now available","2026-11-18",1,1388,"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"],["xAI","Grok 4.7","2026-09-21",0,1327,"https://x.ai/news/grok-4-7"],["xAI","Grok Voice 3.0","2026-10-14",1,724,"https://x.ai/news/grok-voice-3"],["Mistral","Mistral Large 4","2026-10-06",9,2240,"https://mistral.ai/news/mistral-large-4/"],["Mistral","Mistral Large 4, open weights","2026-10-29",3,3727,"https://mistral.ai/news/mistral-large-4-oss/"],["Meta","Muse Wonder","2026-10-12",1,625,"https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"],["Meta","Muse Ember","2026-11-09",0,1741,"https://research.meta.ai/blog/muse-ember"],["Moonshot","Kimi K3.1 Pro","2026-10-23",10,3011,"https://www.kimi.com/en/blog/kimi-k3-1-pro"],["DeepSeek","DeepSeek V4.1 Flash","2026-09-10",0,368,"https://api-docs.deepseek.com/news/news260910"],["DeepSeek","DeepSeek V4.1 Flash 1017","2026-10-17",3,264,"https://api-docs.deepseek.com/news/news261017"]];
 const POSTS = RAW.map(([lab, name, date, n, words, url]) => ({ lab, name, date, n, words, url, rate: n / words * 1000, short: words < 500 }));
 
 const state = { mode: "count", labs: new Set(Object.keys(LABS)) };
@@ -320,11 +320,12 @@ const key = v => state.mode === "count" ? v : Math.round(v * 10); // ties at dis
   const anth = POSTS.filter(p => p.lab === "Anthropic");
   const anthN = anth.reduce((s, p) => s + p.n, 0);
   const top = [...POSTS].sort((a, b) => b.n - a.n)[0];
-  const rivals = ["OpenAI", "Google"].map(l => POSTS.filter(p => p.lab === l).reduce((s, p) => s + p.n, 0));
+  const oai = POSTS.filter(p => p.lab === "OpenAI");
+  const oaiN = oai.reduce((s, p) => s + p.n, 0);
   document.getElementById("tiles").innerHTML = `
     <div class="tile"><div class="big">${total}<small>em dashes</small></div><div class="lbl">across ${POSTS.length} launch posts from ${Object.keys(LABS).length} labs</div></div>
     <div class="tile"><div class="big">${Math.round(anthN / total * 100)}%<small>Anthropic</small></div><div class="lbl">of every dash, from ${anth.length} of the ${POSTS.length} posts</div></div>
-    <div class="tile"><div class="big">${top.n}<small>in one post</small></div><div class="lbl">${top.name.replace(" & ", " &amp; ")}: more than OpenAI's five posts (${rivals[0]}) or Google's five (${rivals[1]}) put together</div></div>`;
+    <div class="tile"><div class="big">${top.n}<small>in one post</small></div><div class="lbl">${top.name.replace(" & ", " &amp; ")}: more than all ${oai.length} OpenAI posts put together (${oaiN})</div></div>`;
 })();
 
 /* ----- chips ----- */
