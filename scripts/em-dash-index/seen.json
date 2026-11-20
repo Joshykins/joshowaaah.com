@@ -1,0 +1,5681 @@
+{
+ "about.fb.com/news/2023/07/llama-2-statement-of-support": {
+  "lab": "Meta",
+  "title": "Statement of Support for Meta’s Open Approach to Today’s AI",
+  "why": "title"
+ },
+ "about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development": {
+  "lab": "Meta",
+  "title": "Introducing Purple Llama for Safe and Responsible AI Development",
+  "why": "title"
+ },
+ "about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3": {
+  "lab": "Meta",
+  "title": "Meet Your New Assistant: Meta AI, Built With Llama 3",
+  "why": "title"
+ },
+ "about.fb.com/news/2024/05/how-companies-are-using-meta-llama": {
+  "lab": "Meta",
+  "title": "How Companies Are Using Meta Llama",
+  "why": "title"
+ },
+ "about.fb.com/news/2024/08/encouraging-impactful-uses-of-ai-llama-impact-grants": {
+  "lab": "Meta",
+  "title": "Encouraging Impactful Uses of AI Through Llama Impact Grants Program",
+  "why": "title"
+ },
+ "about.fb.com/news/2024/09/llama-grant-recipients-are-tackling-global-issues": {
+  "lab": "Meta",
+  "title": "How Our Llama Grant Recipients Are Tackling Global Issues",
+  "why": "title"
+ },
+ "about.fb.com/news/2024/11/metas-llama-impact-hackathon-pioneering-ai-solutions-for-public-good": {
+  "lab": "Meta",
+  "title": "Meta's Llama Impact Hackathon: Pioneering AI Solutions for Public Good",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/01/organizations-using-llama-solve-industry-challenges": {
+  "lab": "Meta",
+  "title": "How Organizations Are Using Llama to Solve Industry Challenges",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/02/sevilla-football-club-llama-ibm-watsonx-scout-players": {
+  "lab": "Meta",
+  "title": "How Sevilla Football Club Uses Llama and IBM watsonx to Scout Players",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/03/celebrating-1-billion-downloads-llama": {
+  "lab": "Meta",
+  "title": "Celebrating 1 Billion Downloads of Llama",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/04/llama-impact-grant-recipients": {
+  "lab": "Meta",
+  "title": "Fostering Innovation and Economic Opportunity: The Llama Impact Grant Recipients",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/04/space-llama-metas-open-source-ai-model-heading-into-orbit": {
+  "lab": "Meta",
+  "title": "Space Llama: Meta’s Open Source AI Model Is Heading Into Orbit",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/06/accelerating-open-source-innovation-across-sub-saharan-africa-introducing-the-llama-impact-accelerator-program": {
+  "lab": "Meta",
+  "title": "Accelerating Open-Source Innovation Across Sub-Saharan Africa: Introducing the Llama Impact Accelerator Program",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/08/accelerating-indias-ai-adoption-a-strategic-partnership-with-reliance-industries-to-build-llama-based-enterprise-ai-solutions": {
+  "lab": "Meta",
+  "title": "Accelerating India’s AI Adoption: A Strategic Partnership With Reliance Industries To Build Llama-based Enterprise AI Solutions",
+  "why": "title"
+ },
+ "about.fb.com/news/2025/09/strengthening-us-national-security-by-making-llama-available-to-key-allies": {
+  "lab": "Meta",
+  "title": "Strengthening US National Security by Making Llama Available to Key Allies",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts": {
+  "lab": "Meta",
+  "title": "Meta AI Doesn’t Just Think, It Acts",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/09/introducing-muse-personal-ai-agent": {
+  "lab": "Meta",
+  "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/09/introducing-muse-small-business": {
+  "lab": "Meta",
+  "title": "The Future Is for Everyone: Muse for Small Business",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse": {
+  "lab": "Meta",
+  "title": "Introducing Ray-Ban Meta Audio and More AI Glasses Styles",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone": {
+  "lab": "Meta",
+  "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars": {
+  "lab": "Meta",
+  "title": "Give Your Muse a Voice",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/11/introducing-spaces-customize-muse-app": {
+  "lab": "Meta",
+  "title": "Design the Muse App, Just for You",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse": {
+  "lab": "Meta",
+  "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/11/muse-is-now-available-in-australia": {
+  "lab": "Meta",
+  "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news0725": {
+  "lab": "DeepSeek",
+  "title": "DeepSeek API Upgrade | DeepSeek API Docs",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news0802": {
+  "lab": "DeepSeek",
+  "title": "DeepSeek API introduces Context Caching on Disk, cutting prices by an order of magnitude | DeepSeek API Docs",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news1120": {
+  "lab": "DeepSeek",
+  "title": "🚀 DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power! | DeepSeek API Docs",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news1210": {
+  "lab": "DeepSeek",
+  "title": "🚀 DeepSeek V2.5: The Grand Finale 🎉 | DeepSeek API Docs",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news1226": {
+  "lab": "DeepSeek",
+  "title": "🚀 Introducing DeepSeek-V3 | DeepSeek API Docs",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news250115": {
+  "lab": "DeepSeek",
+  "title": "Introducing DeepSeek App | DeepSeek API Docs",
+  "why": "title"
+ },
+ "api-docs.deepseek.com/news/news250325": {
+  "lab": "DeepSeek",
+  "title": "DeepSeek-V3-0324 Release | DeepSeek API Docs",
+  "why": "only 86 words found",
+  "tries": 3
+ },
+ "api-docs.deepseek.com/news/news250528": {
+  "lab": "DeepSeek",
+  "title": "DeepSeek-R1-0528 Release | DeepSeek API Docs",
+  "why": "only 78 words found",
+  "tries": 3
+ },
+ "api-docs.deepseek.com/news/news250922": {
+  "lab": "DeepSeek",
+  "title": "DeepSeek-V3.1-Terminus | DeepSeek API Docs",
+  "why": "only 79 words found",
+  "tries": 3
+ },
+ "api-docs.deepseek.com/news/news261113": {
+  "lab": "DeepSeek",
+  "title": "The full DeepSeek App experience, now via API | DeepSeek API Docs",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe": {
+  "lab": "Google",
+  "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers": {
+  "lab": "Google",
+  "title": "See what 4 builders are making with Gemini 3.8 Flash",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar": {
+  "lab": "Google",
+  "title": "Introducing Gemini 3.8 Live with Live Avatar",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech": {
+  "lab": "Google",
+  "title": "Gemini 3.8 text-to-speech says hello",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate": {
+  "lab": "Google",
+  "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni": {
+  "lab": "Google",
+  "title": "Introducing Gemini Omni",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos": {
+  "lab": "Google",
+  "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders": {
+  "lab": "Google",
+  "title": "See what 5 builders are making with Gemini Omni",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable": {
+  "lab": "Google",
+  "title": "Omni experts share what excites them most about the model.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite": {
+  "lab": "Google",
+  "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana": {
+  "lab": "Google",
+  "title": "Simplify your morning with this vibe-coded schedule app.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini": {
+  "lab": "Google",
+  "title": "Introducing agentic video understanding with Gemini",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash": {
+  "lab": "Google",
+  "title": "Introducing computer use in Gemini 3.5 Flash",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark": {
+  "lab": "Google",
+  "title": "Introducing the Multimodal Knowledge Agent benchmark",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research": {
+  "lab": "Google",
+  "title": "Deep Research Max: a step change for autonomous research agents",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm": {
+  "lab": "Google",
+  "title": "How Gemini Flash agents are helping a Michigan dairy farmer",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means": {
+  "lab": "Google",
+  "title": "What does “full-stack” AI actually mean?",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/aeneas": {
+  "lab": "Google",
+  "title": "Google DeepMind’s new AI model helps historians interpret ancient texts.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/agi-safety-paper": {
+  "lab": "Google",
+  "title": "Read Google DeepMind’s new paper on responsible artificial general intelligence (AGI).",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-classroom-northern-ireland": {
+  "lab": "Google",
+  "title": "How AI is giving Northern Ireland teachers time back",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-for-math": {
+  "lab": "Google",
+  "title": "Accelerating discovery with the AI for Math Initiative",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac": {
+  "lab": "Google",
+  "title": "Backing 16 green AI projects in Asia-Pacific",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-release-notes-podcast-demis-hassabis": {
+  "lab": "Google",
+  "title": "Hear Google DeepMind CEO Demis Hassabis discuss how world model capabilities are helping AI understand reality.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-release-notes-science": {
+  "lab": "Google",
+  "title": "Listen to a discussion on how AI can power scientific breakthroughs.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas": {
+  "lab": "Google",
+  "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research": {
+  "lab": "Google",
+  "title": "How genome mapping can help researchers better understand disease",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/alphaqubit-quantum-error-correction": {
+  "lab": "Google",
+  "title": "AlphaQubit tackles one of quantum computing’s biggest challenges",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ancestra-behind-the-scenes": {
+  "lab": "Google",
+  "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors": {
+  "lab": "Google",
+  "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership": {
+  "lab": "Google",
+  "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-2-5-native-audio": {
+  "lab": "Google",
+  "title": "Advanced audio dialog and generation with Gemini 2.5",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-diffusion": {
+  "lab": "Google",
+  "title": "Gemini Diffusion is our new experimental research model.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-gold-icpc": {
+  "lab": "Google",
+  "title": "Gemini achieved gold-medal performance at the International Collegiate Programming Contest World Finals.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6": {
+  "lab": "Google",
+  "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-universal-ai-assistant": {
+  "lab": "Google",
+  "title": "Our vision for building a universal AI assistant",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/imagine-if": {
+  "lab": "Google",
+  "title": "Gen AI is bringing New Yorkers' imagination to life",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates": {
+  "lab": "Google",
+  "title": "Advancing AI benchmarking with Game Arena",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework": {
+  "lab": "Google",
+  "title": "Measuring progress toward AGI: A cognitive framework",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/perch-ai-model": {
+  "lab": "Google",
+  "title": "The AI model Perch, updated today, uses audio to help protect endangered species.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie": {
+  "lab": "Google",
+  "title": "Project Genie: Experimenting with infinite, interactive worlds",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands": {
+  "lab": "Google",
+  "title": "Simulate real-world places with Project Genie and Street View",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal": {
+  "lab": "Google",
+  "title": "Reconstructing Pelé’s “lost” goal",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/release-notes-podcast-long-context": {
+  "lab": "Google",
+  "title": "Listen to a podcast deep dive on long context in Gemini models.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/ross-lovegrove-design": {
+  "lab": "Google",
+  "title": "From sketches to prototype: Designing with generative AI",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent": {
+  "lab": "Google",
+  "title": "Running Guide agent: A step towards running unbounded",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content": {
+  "lab": "Google",
+  "title": "We're making it easier to identify AI-generated content globally.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio": {
+  "lab": "Google",
+  "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions": {
+  "lab": "Google",
+  "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/the-thinking-game": {
+  "lab": "Google",
+  "title": "Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie": {
+  "lab": "Google",
+  "title": "Create new worlds in Project Genie with these 4 tips",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/weather-lab": {
+  "lab": "Google",
+  "title": "Weather Lab is an interactive website for sharing Google’s AI weather models.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/weather-lab-ai-cyclone-prediction-tracking": {
+  "lab": "Google",
+  "title": "How we’re using AI to help track and predict cyclones",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones": {
+  "lab": "Google",
+  "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions": {
+  "lab": "Google",
+  "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models": {
+  "lab": "Google",
+  "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+  "why": "title"
+ },
+ "openai.com/index/1-million-businesses-putting-ai-to-work": {
+  "lab": "OpenAI",
+  "title": "1 million business customers putting AI to work",
+  "why": "title"
+ },
+ "openai.com/index/10bedicu": {
+  "lab": "OpenAI",
+  "title": "Improving India’s critical care infrastructure",
+  "why": "title"
+ },
+ "openai.com/index/1password": {
+  "lab": "OpenAI",
+  "title": "1Password increases engineering productivity 21% with Codex",
+  "why": "title"
+ },
+ "openai.com/index/50-million-fund-to-build-with-communities": {
+  "lab": "OpenAI",
+  "title": "A $50 million fund to build with communities",
+  "why": "title"
+ },
+ "openai.com/index/a-business-that-scales-with-the-value-of-intelligence": {
+  "lab": "OpenAI",
+  "title": "A business that scales with the value of intelligence",
+  "why": "title"
+ },
+ "openai.com/index/a-content-and-product-partnership-with-vox-media": {
+  "lab": "OpenAI",
+  "title": "A Content and Product Partnership with Vox Media",
+  "why": "title"
+ },
+ "openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world": {
+  "lab": "OpenAI",
+  "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+  "why": "title"
+ },
+ "openai.com/index/a-scorecard-for-the-ai-age": {
+  "lab": "OpenAI",
+  "title": "A scorecard for the AI age",
+  "why": "title"
+ },
+ "openai.com/index/a-thousand-fewer-paths-to-root": {
+  "lab": "OpenAI",
+  "title": "A thousand fewer paths to root",
+  "why": "title"
+ },
+ "openai.com/index/aarp-partnership-older-adults-online-safety": {
+  "lab": "OpenAI",
+  "title": "Partnering with AARP to help keep older adults safe online",
+  "why": "title"
+ },
+ "openai.com/index/academy-courses-applying-ai-at-work": {
+  "lab": "OpenAI",
+  "title": "New OpenAI Academy courses for the next era of work",
+  "why": "title"
+ },
+ "openai.com/index/accelerating-biological-research-in-the-wet-lab": {
+  "lab": "OpenAI",
+  "title": "Measuring AI’s capability to accelerate biological research",
+  "why": "title"
+ },
+ "openai.com/index/accelerating-cyber-defense-ecosystem": {
+  "lab": "OpenAI",
+  "title": "Accelerating the cyber defense ecosystem that protects us all",
+  "why": "title"
+ },
+ "openai.com/index/accelerating-engineering-for-the-physical-world": {
+  "lab": "OpenAI",
+  "title": "Accelerating engineering for the physical world",
+  "why": "title"
+ },
+ "openai.com/index/accelerating-life-sciences-research-with-retro-biosciences": {
+  "lab": "OpenAI",
+  "title": "Accelerating life sciences research",
+  "why": "title"
+ },
+ "openai.com/index/accelerating-science-gpt-5": {
+  "lab": "OpenAI",
+  "title": "Early experiments in accelerating science with GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/accelerating-the-next-phase-ai": {
+  "lab": "OpenAI",
+  "title": "Accelerating the next phase of AI",
+  "why": "title"
+ },
+ "openai.com/index/accenture-partnership": {
+  "lab": "OpenAI",
+  "title": "Accenture and OpenAI accelerate enterprise AI success",
+  "why": "title"
+ },
+ "openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors": {
+  "lab": "OpenAI",
+  "title": "Adebayo Ogunlesi joins OpenAI’s Board of Directors",
+  "why": "title"
+ },
+ "openai.com/index/advanced-account-security": {
+  "lab": "OpenAI",
+  "title": "Introducing Advanced Account Security",
+  "why": "title"
+ },
+ "openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
+  "lab": "OpenAI",
+  "title": "The US is advancing AI safety through state and federal action",
+  "why": "title"
+ },
+ "openai.com/index/advancing-chip-design-with-our-models": {
+  "lab": "OpenAI",
+  "title": "Advancing chip design with OpenAI models",
+  "why": "title"
+ },
+ "openai.com/index/advancing-computer-use-for-healthcare-teams": {
+  "lab": "OpenAI",
+  "title": "Advancing computer-use agents for healthcare teams",
+  "why": "title"
+ },
+ "openai.com/index/advancing-computer-use-with-ironclad": {
+  "lab": "OpenAI",
+  "title": "Advancing computer use with Ironclad",
+  "why": "title"
+ },
+ "openai.com/index/advancing-content-provenance": {
+  "lab": "OpenAI",
+  "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+  "why": "title"
+ },
+ "openai.com/index/advancing-independent-research-ai-alignment": {
+  "lab": "OpenAI",
+  "title": "Advancing independent research on AI alignment",
+  "why": "title"
+ },
+ "openai.com/index/advancing-red-teaming-with-people-and-ai": {
+  "lab": "OpenAI",
+  "title": "Advancing red teaming with people and AI",
+  "why": "title"
+ },
+ "openai.com/index/advancing-responsible-ai-across-europe": {
+  "lab": "OpenAI",
+  "title": "Advancing responsible AI across Europe",
+  "why": "title"
+ },
+ "openai.com/index/advancing-the-next-era-of-national-science": {
+  "lab": "OpenAI",
+  "title": "Advancing the next era of national science",
+  "why": "title"
+ },
+ "openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+  "lab": "OpenAI",
+  "title": "Advancing the price-performance frontier with GPT-5.6",
+  "why": "title"
+ },
+ "openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api": {
+  "lab": "OpenAI",
+  "title": "Advancing voice intelligence with new models in the API",
+  "why": "title"
+ },
+ "openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+  "lab": "OpenAI",
+  "title": "Advancing youth safety and opportunity through global leadership",
+  "why": "title"
+ },
+ "openai.com/index/advancing-youth-safety-in-emea": {
+  "lab": "OpenAI",
+  "title": "Advancing youth safety and wellbeing in EMEA",
+  "why": "title"
+ },
+ "openai.com/index/adventhealth": {
+  "lab": "OpenAI",
+  "title": "AdventHealth advances whole-person care with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/advisory-group-on-mathematics-and-ai": {
+  "lab": "OpenAI",
+  "title": "Advisory Group on Mathematics and Artificial Intelligence",
+  "why": "title"
+ },
+ "openai.com/index/affective-use-study": {
+  "lab": "OpenAI",
+  "title": "Early methods for studying affective use and emotional well-being on ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/agentic-ai-foundation": {
+  "lab": "OpenAI",
+  "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+  "why": "title"
+ },
+ "openai.com/index/ai-agent-link-safety": {
+  "lab": "OpenAI",
+  "title": "Keeping your data safe when an AI agent clicks a link",
+  "why": "title"
+ },
+ "openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all": {
+  "lab": "OpenAI",
+  "title": "AI as the greatest source of empowerment for all",
+  "why": "title"
+ },
+ "openai.com/index/ai-chemist-improves-reaction": {
+  "lab": "OpenAI",
+  "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+  "why": "title"
+ },
+ "openai.com/index/ai-clinical-copilot-penda-health": {
+  "lab": "OpenAI",
+  "title": "Pioneering an AI clinical copilot with Penda Health",
+  "why": "title"
+ },
+ "openai.com/index/ai-education-opportunity": {
+  "lab": "OpenAI",
+  "title": "Ensuring AI use in education leads to opportunity",
+  "why": "title"
+ },
+ "openai.com/index/ai-effect-on-freelance-work": {
+  "lab": "OpenAI",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "why": "title"
+ },
+ "openai.com/index/ai-first-hire-small-business": {
+  "lab": "OpenAI",
+  "title": "AI is becoming a first hire for small businesses",
+  "why": "title"
+ },
+ "openai.com/index/ai-literacy-resources-for-teens-and-parents": {
+  "lab": "OpenAI",
+  "title": "AI literacy resources for teens and parents",
+  "why": "title"
+ },
+ "openai.com/index/ai-mental-health-research-grants": {
+  "lab": "OpenAI",
+  "title": "Funding grants for new research into AI and mental health",
+  "why": "title"
+ },
+ "openai.com/index/ai-native-company-workflows": {
+  "lab": "OpenAI",
+  "title": "How AI-native companies turn workflows into operating capability",
+  "why": "title"
+ },
+ "openai.com/index/ai-policy-window": {
+  "lab": "OpenAI",
+  "title": "The AI policy window is open. We need to act.",
+  "why": "title"
+ },
+ "openai.com/index/ai-progress-and-recommendations": {
+  "lab": "OpenAI",
+  "title": "AI progress and recommendations",
+  "why": "title"
+ },
+ "openai.com/index/airbnb-gpt-6-astra": {
+  "lab": "OpenAI",
+  "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+  "why": "title"
+ },
+ "openai.com/index/albertsons-reimagining-retail": {
+  "lab": "OpenAI",
+  "title": "How Albertsons Companies is reimagining retail from the inside out",
+  "why": "title"
+ },
+ "openai.com/index/altera": {
+  "lab": "OpenAI",
+  "title": "Creating agent and human collaboration with GPT 4o",
+  "why": "title"
+ },
+ "openai.com/index/amazon-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Amazon announce strategic partnership",
+  "why": "title"
+ },
+ "openai.com/index/amp-beyond-coding": {
+  "lab": "OpenAI",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "why": "title"
+ },
+ "openai.com/index/an-alien-mind": {
+  "lab": "OpenAI",
+  "title": "An Alien Mind",
+  "why": "title"
+ },
+ "openai.com/index/anima": {
+  "lab": "OpenAI",
+  "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+  "why": "title"
+ },
+ "openai.com/index/announcing-devday-2025": {
+  "lab": "OpenAI",
+  "title": "Announcing OpenAI DevDay 2025",
+  "why": "title"
+ },
+ "openai.com/index/announcing-openai-devday": {
+  "lab": "OpenAI",
+  "title": "Join us for OpenAI’s first developer conference on November 6 in San Francisco",
+  "why": "title"
+ },
+ "openai.com/index/announcing-the-stargate-project": {
+  "lab": "OpenAI",
+  "title": "Announcing The Stargate Project",
+  "why": "title"
+ },
+ "openai.com/index/api-model-distillation": {
+  "lab": "OpenAI",
+  "title": "Model Distillation in the API",
+  "why": "title"
+ },
+ "openai.com/index/api-partnership-with-stack-overflow": {
+  "lab": "OpenAI",
+  "title": "API Partnership with Stack Overflow",
+  "why": "title"
+ },
+ "openai.com/index/api-prompt-caching": {
+  "lab": "OpenAI",
+  "title": "Prompt Caching in the API",
+  "why": "title"
+ },
+ "openai.com/index/apple-is-getting-this-wrong": {
+  "lab": "OpenAI",
+  "title": "Apple is getting this wrong",
+  "why": "title"
+ },
+ "openai.com/index/approach-to-data-and-ai": {
+  "lab": "OpenAI",
+  "title": "Our approach to data and AI",
+  "why": "title"
+ },
+ "openai.com/index/arco-education": {
+  "lab": "OpenAI",
+  "title": "Using GPT-4 to improve teaching and learning in Brazil",
+  "why": "title"
+ },
+ "openai.com/index/arvind-kc-chief-people-officer": {
+  "lab": "OpenAI",
+  "title": "Arvind KC appointed Chief People Officer",
+  "why": "title"
+ },
+ "openai.com/index/asana": {
+  "lab": "OpenAI",
+  "title": "Asana completed a years-long code migration in 2 weeks with Codex",
+  "why": "title"
+ },
+ "openai.com/index/asana-browser-agent": {
+  "lab": "OpenAI",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "why": "title"
+ },
+ "openai.com/index/astra-for-law": {
+  "lab": "OpenAI",
+  "title": "Introducing Astra for Law",
+  "why": "title"
+ },
+ "openai.com/index/astra-law-6-2": {
+  "lab": "OpenAI",
+  "title": "Astra for Law leads in legal intelligence",
+  "why": "title"
+ },
+ "openai.com/index/asu": {
+  "lab": "OpenAI",
+  "title": "Personalizing education with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/atlassian-partnership": {
+  "lab": "OpenAI",
+  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "why": "title"
+ },
+ "openai.com/index/att-legal": {
+  "lab": "OpenAI",
+  "title": "How AT&T is rethinking in-house legal work with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/atv-big-air-tour": {
+  "lab": "OpenAI",
+  "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/australian-payments-plus": {
+  "lab": "OpenAI",
+  "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+  "why": "title"
+ },
+ "openai.com/index/australian-universities-ai-native-graduates": {
+  "lab": "OpenAI",
+  "title": "Australian universities are creating AI-native graduates",
+  "why": "title"
+ },
+ "openai.com/index/australian-youth-safety-blueprint": {
+  "lab": "OpenAI",
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "why": "title"
+ },
+ "openai.com/index/autoscout24": {
+  "lab": "OpenAI",
+  "title": "AutoScout24 scales engineering with AI-powered workflows",
+  "why": "title"
+ },
+ "openai.com/index/avatarin": {
+  "lab": "OpenAI",
+  "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+  "why": "title"
+ },
+ "openai.com/index/aws-and-openai-partnership": {
+  "lab": "OpenAI",
+  "title": "AWS and OpenAI announce multi-year strategic partnership",
+  "why": "title"
+ },
+ "openai.com/index/axel-springer-partnership": {
+  "lab": "OpenAI",
+  "title": "Partnership with Axel Springer to deepen beneficial use of AI in journalism",
+  "why": "title"
+ },
+ "openai.com/index/axios-allison-murphy": {
+  "lab": "OpenAI",
+  "title": "How Axios uses AI to help deliver high-impact local journalism",
+  "why": "title"
+ },
+ "openai.com/index/axios-developer-tool-compromise": {
+  "lab": "OpenAI",
+  "title": "Our response to the Axios developer tool compromise",
+  "why": "title"
+ },
+ "openai.com/index/balyasny-asset-management": {
+  "lab": "OpenAI",
+  "title": "How Balyasny Asset Management built an AI research engine",
+  "why": "title"
+ },
+ "openai.com/index/basis": {
+  "lab": "OpenAI",
+  "title": "Scaling accounting capacity with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/basis-tax-workbook-with-astra": {
+  "lab": "OpenAI",
+  "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/bbva": {
+  "lab": "OpenAI",
+  "title": "BBVA puts AI at the core of banking with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/bbva-collaboration-expansion": {
+  "lab": "OpenAI",
+  "title": "BBVA and OpenAI collaborate to transform global banking",
+  "why": "title"
+ },
+ "openai.com/index/be-my-eyes": {
+  "lab": "OpenAI",
+  "title": "Transforming visual accessibility",
+  "why": "title"
+ },
+ "openai.com/index/benefit-street-partners": {
+  "lab": "OpenAI",
+  "title": "Benefit Street Partners answers questions faster with Codex",
+  "why": "title"
+ },
+ "openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai": {
+  "lab": "OpenAI",
+  "title": "Bertelsmann powers creativity and productivity with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/better-prompt-caching-for-gpt-6": {
+  "lab": "OpenAI",
+  "title": "Better prompt caching for GPT-6",
+  "why": "title"
+ },
+ "openai.com/index/beyond-rate-limits": {
+  "lab": "OpenAI",
+  "title": "Beyond rate limits: scaling access to Codex and Sora",
+  "why": "title"
+ },
+ "openai.com/index/bio-bug-bounty": {
+  "lab": "OpenAI",
+  "title": "GPT-5.5 Bio Bug Bounty",
+  "why": "title"
+ },
+ "openai.com/index/biodefense-in-the-intelligence-age": {
+  "lab": "OpenAI",
+  "title": "Biodefense in the Intelligence Age",
+  "why": "title"
+ },
+ "openai.com/index/block-ai-powered-security": {
+  "lab": "OpenAI",
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "why": "title"
+ },
+ "openai.com/index/bny": {
+  "lab": "OpenAI",
+  "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/booking-com": {
+  "lab": "OpenAI",
+  "title": "Personalizing travel at scale with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/boston-childrens-hospital": {
+  "lab": "OpenAI",
+  "title": "Boston Children’s uses AI to unlock new diagnoses",
+  "why": "title"
+ },
+ "openai.com/index/braintrust": {
+  "lab": "OpenAI",
+  "title": "How Braintrust turns customer requests into code with Codex",
+  "why": "title"
+ },
+ "openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+  "lab": "OpenAI",
+  "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+  "why": "title"
+ },
+ "openai.com/index/bringing-chatgpt-to-genaimil": {
+  "lab": "OpenAI",
+  "title": "Bringing ChatGPT to GenAI.mil",
+  "why": "title"
+ },
+ "openai.com/index/broad-access-through-consistent-standards": {
+  "lab": "OpenAI",
+  "title": "Broad access through consistent standards",
+  "why": "title"
+ },
+ "openai.com/index/browsecomp": {
+  "lab": "OpenAI",
+  "title": "BrowseComp: a benchmark for browsing agents",
+  "why": "title"
+ },
+ "openai.com/index/bug-bounty-program": {
+  "lab": "OpenAI",
+  "title": "Announcing OpenAI’s Bug Bounty Program",
+  "why": "title"
+ },
+ "openai.com/index/builders-guide-to-gpt-5-6": {
+  "lab": "OpenAI",
+  "title": "The builder’s guide to GPT‑5.6",
+  "why": "title"
+ },
+ "openai.com/index/building-abundant-intelligence": {
+  "lab": "OpenAI",
+  "title": "Building abundant intelligence",
+  "why": "title"
+ },
+ "openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": {
+  "lab": "OpenAI",
+  "title": "Building AI infrastructure with the Effingham County community",
+  "why": "title"
+ },
+ "openai.com/index/building-an-ai-native-finance-function": {
+  "lab": "OpenAI",
+  "title": "What building an AI-native finance function taught me",
+  "why": "title"
+ },
+ "openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation": {
+  "lab": "OpenAI",
+  "title": "Building an early warning system for LLM-aided biological threat creation",
+  "why": "title"
+ },
+ "openai.com/index/building-chatgpt-ad-stack": {
+  "lab": "OpenAI",
+  "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+  "why": "title"
+ },
+ "openai.com/index/building-chatgpt-atlas": {
+  "lab": "OpenAI",
+  "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+  "why": "title"
+ },
+ "openai.com/index/building-codex-windows-sandbox": {
+  "lab": "OpenAI",
+  "title": "Building a safe, effective sandbox to enable Codex on Windows",
+  "why": "title"
+ },
+ "openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone": {
+  "lab": "OpenAI",
+  "title": "Building more helpful ChatGPT experiences for everyone",
+  "why": "title"
+ },
+ "openai.com/index/building-openai-with-openai": {
+  "lab": "OpenAI",
+  "title": "Building OpenAI with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/building-scientific-understanding-with-academic-communities": {
+  "lab": "OpenAI",
+  "title": "Working with academic communities to build scientific understanding",
+  "why": "title"
+ },
+ "openai.com/index/building-self-improving-tax-agents-with-codex": {
+  "lab": "OpenAI",
+  "title": "Building self-improving tax agents with Codex",
+  "why": "title"
+ },
+ "openai.com/index/building-standards-next-phase-ai": {
+  "lab": "OpenAI",
+  "title": "Building standards for the next phase of AI",
+  "why": "title"
+ },
+ "openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age": {
+  "lab": "OpenAI",
+  "title": "Building the compute infrastructure for the Intelligence Age",
+  "why": "title"
+ },
+ "openai.com/index/building-towards-age-prediction": {
+  "lab": "OpenAI",
+  "title": "Building towards age prediction",
+  "why": "title"
+ },
+ "openai.com/index/built-to-benefit-everyone": {
+  "lab": "OpenAI",
+  "title": "Built to benefit everyone",
+  "why": "title"
+ },
+ "openai.com/index/built-to-benefit-everyone-our-plan": {
+  "lab": "OpenAI",
+  "title": "Built to benefit everyone: our plan",
+  "why": "title"
+ },
+ "openai.com/index/buy-it-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+  "why": "title"
+ },
+ "openai.com/index/canva": {
+  "lab": "OpenAI",
+  "title": "Creating an AI-powered Magic Studio",
+  "why": "title"
+ },
+ "openai.com/index/canva-cam-adams": {
+  "lab": "OpenAI",
+  "title": "Canva enables creativity with AI",
+  "why": "title"
+ },
+ "openai.com/index/cars24": {
+  "lab": "OpenAI",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/cerebras-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI partners with Cerebras",
+  "why": "title"
+ },
+ "openai.com/index/chain-of-thought-monitoring": {
+  "lab": "OpenAI",
+  "title": "Detecting misbehavior in frontier reasoning models",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-ads-expands-26-new-countries": {
+  "lab": "OpenAI",
+  "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-ads-expands-across-europe": {
+  "lab": "OpenAI",
+  "title": "ChatGPT Ads expands across Europe",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+  "lab": "OpenAI",
+  "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-agent-system-card": {
+  "lab": "OpenAI",
+  "title": "ChatGPT agent System Card",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-can-now-see-hear-and-speak": {
+  "lab": "OpenAI",
+  "title": "ChatGPT can now see, hear, and speak",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+  "lab": "OpenAI",
+  "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-enterprise-aws-marketplace": {
+  "lab": "OpenAI",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-enterprise-spend-controls": {
+  "lab": "OpenAI",
+  "title": "New usage analytics and updated spend controls for enterprises",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-expanding-world-of-work": {
+  "lab": "OpenAI",
+  "title": "ChatGPT’s expanding world of work",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-for-academic-researchers": {
+  "lab": "OpenAI",
+  "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-for-excel": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT for Excel and new financial data integrations",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-for-teachers": {
+  "lab": "OpenAI",
+  "title": "A free version of ChatGPT built for teachers",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-for-teens": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-for-veterans": {
+  "lab": "OpenAI",
+  "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-for-your-most-ambitious-work": {
+  "lab": "OpenAI",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-memory-dreaming": {
+  "lab": "OpenAI",
+  "title": "Dreaming: Better memory for a more helpful ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-plugins": {
+  "lab": "OpenAI",
+  "title": "ChatGPT plugins",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-plus": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Plus",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-plus-for-veterans": {
+  "lab": "OpenAI",
+  "title": "ChatGPT Plus for veterans and servicemembers",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
+  "lab": "OpenAI",
+  "title": "Helping ChatGPT better recognize context in sensitive conversations",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-shopping-research": {
+  "lab": "OpenAI",
+  "title": "Introducing shopping research in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-study-mode": {
+  "lab": "OpenAI",
+  "title": "Introducing study mode in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/chatgpt-whatsapp-transition": {
+  "lab": "OpenAI",
+  "title": "Continue your ChatGPT experience beyond WhatsApp",
+  "why": "title"
+ },
+ "openai.com/index/chatham-financial": {
+  "lab": "OpenAI",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/check-point-daybreak": {
+  "lab": "OpenAI",
+  "title": "How Check Point accelerates vulnerability research with Daybreak",
+  "why": "title"
+ },
+ "openai.com/index/child-safety-adopting-sbd-principles": {
+  "lab": "OpenAI",
+  "title": "OpenAI’s commitment to child safety: adopting safety by design principles",
+  "why": "title"
+ },
+ "openai.com/index/children-first-declaration": {
+  "lab": "OpenAI",
+  "title": "Supporting research on AI and children’s safety",
+  "why": "title"
+ },
+ "openai.com/index/chime-vineet-mehra": {
+  "lab": "OpenAI",
+  "title": "How Chime is redefining marketing through AI",
+  "why": "title"
+ },
+ "openai.com/index/choco": {
+  "lab": "OpenAI",
+  "title": "Choco automates food distribution with AI agents",
+  "why": "title"
+ },
+ "openai.com/index/circles": {
+  "lab": "OpenAI",
+  "title": "Circles powers telco personalization with OpenAI technology",
+  "why": "title"
+ },
+ "openai.com/index/cisco": {
+  "lab": "OpenAI",
+  "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+  "why": "title"
+ },
+ "openai.com/index/cisco-cyber": {
+  "lab": "OpenAI",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/clay": {
+  "lab": "OpenAI",
+  "title": "Achieving 10x growth with agentic sales prospecting",
+  "why": "title"
+ },
+ "openai.com/index/closing-ai-guidance-gap-education": {
+  "lab": "OpenAI",
+  "title": "Closing the AI guidance gap in education",
+  "why": "title"
+ },
+ "openai.com/index/cloudflare-cyber": {
+  "lab": "OpenAI",
+  "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/cloudflare-openai-agent-cloud": {
+  "lab": "OpenAI",
+  "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/cna-walter-fernandez": {
+  "lab": "OpenAI",
+  "title": "CNA is transforming its newsroom with AI",
+  "why": "title"
+ },
+ "openai.com/index/coderabbit": {
+  "lab": "OpenAI",
+  "title": "Shipping code faster with o3, o4-mini, and GPT-4.1",
+  "why": "title"
+ },
+ "openai.com/index/coderabbit-codex-daybreak": {
+  "lab": "OpenAI",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "why": "title"
+ },
+ "openai.com/index/codex-collaborator-creative-team": {
+  "lab": "OpenAI",
+  "title": "How Codex became a collaborator for OpenAI’s creative team",
+  "why": "title"
+ },
+ "openai.com/index/codex-flexible-pricing-for-teams": {
+  "lab": "OpenAI",
+  "title": "Codex now offers more flexible pricing for teams",
+  "why": "title"
+ },
+ "openai.com/index/codex-for-almost-everything": {
+  "lab": "OpenAI",
+  "title": "Codex for (almost) everything",
+  "why": "title"
+ },
+ "openai.com/index/codex-for-every-role-tool-workflow": {
+  "lab": "OpenAI",
+  "title": "Codex for every role, tool, and workflow",
+  "why": "title"
+ },
+ "openai.com/index/codex-for-knowledge-work": {
+  "lab": "OpenAI",
+  "title": "Codex is becoming a productivity tool for everyone",
+  "why": "title"
+ },
+ "openai.com/index/codex-maxxing-long-running-work": {
+  "lab": "OpenAI",
+  "title": "Codex-maxxing for long-running work",
+  "why": "title"
+ },
+ "openai.com/index/codex-now-generally-available": {
+  "lab": "OpenAI",
+  "title": "Codex is now generally available",
+  "why": "title"
+ },
+ "openai.com/index/codex-quantum-computing-experiments": {
+  "lab": "OpenAI",
+  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "why": "title"
+ },
+ "openai.com/index/codex-security-now-in-research-preview": {
+  "lab": "OpenAI",
+  "title": "Codex Security: now in research preview",
+  "why": "title"
+ },
+ "openai.com/index/cogent-security": {
+  "lab": "OpenAI",
+  "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "why": "title"
+ },
+ "openai.com/index/cognition-devin-testing-with-astra": {
+  "lab": "OpenAI",
+  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/collective-alignment-aug-2025-updates": {
+  "lab": "OpenAI",
+  "title": "Collective alignment: public input on our Model Spec",
+  "why": "title"
+ },
+ "openai.com/index/color-health": {
+  "lab": "OpenAI",
+  "title": "Using GPT-4o reasoning to transform cancer care",
+  "why": "title"
+ },
+ "openai.com/index/combating-online-child-sexual-exploitation-abuse": {
+  "lab": "OpenAI",
+  "title": "Combating online child sexual exploitation & abuse",
+  "why": "title"
+ },
+ "openai.com/index/commonwealth-bank-of-australia": {
+  "lab": "OpenAI",
+  "title": "Commonwealth Bank of Australia builds AI fluency at scale",
+  "why": "title"
+ },
+ "openai.com/index/community-safety-report-and-new-protections-for-teens": {
+  "lab": "OpenAI",
+  "title": "Community safety report and new protections for teens",
+  "why": "title"
+ },
+ "openai.com/index/computer-using-agent": {
+  "lab": "OpenAI",
+  "title": "Computer-Using Agent",
+  "why": "title"
+ },
+ "openai.com/index/conde-nast": {
+  "lab": "OpenAI",
+  "title": "OpenAI partners with Condé Nast",
+  "why": "title"
+ },
+ "openai.com/index/confidence-building-measures-for-artificial-intelligence": {
+  "lab": "OpenAI",
+  "title": "Confidence-Building Measures for Artificial Intelligence: Workshop proceedings",
+  "why": "title"
+ },
+ "openai.com/index/consensus": {
+  "lab": "OpenAI",
+  "title": "Consensus accelerates research with GPT-5 and Responses API",
+  "why": "title"
+ },
+ "openai.com/index/consistency-models": {
+  "lab": "OpenAI",
+  "title": "Consistency Models",
+  "why": "title"
+ },
+ "openai.com/index/content-partnership-with-financial-times": {
+  "lab": "OpenAI",
+  "title": "We’re bringing the Financial Times’ world-class journalism to ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/continuing-microsoft-partnership": {
+  "lab": "OpenAI",
+  "title": "Joint Statement from OpenAI and Microsoft",
+  "why": "title"
+ },
+ "openai.com/index/continuous-voice-interaction-with-gpt-live": {
+  "lab": "OpenAI",
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "why": "title"
+ },
+ "openai.com/index/control-room": {
+  "lab": "OpenAI",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "why": "title"
+ },
+ "openai.com/index/cooley-gopublic": {
+  "lab": "OpenAI",
+  "title": "How Cooley is accelerating IPO work with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+  "lab": "OpenAI",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "why": "title"
+ },
+ "openai.com/index/core-dump-epidemiology-data-infrastructure-bug": {
+  "lab": "OpenAI",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "why": "title"
+ },
+ "openai.com/index/court-rejects-elon": {
+  "lab": "OpenAI",
+  "title": "The court rejects Elon’s latest attempt to slow OpenAI down",
+  "why": "title"
+ },
+ "openai.com/index/creating-with-sora-safely": {
+  "lab": "OpenAI",
+  "title": "Creating with Sora Safely",
+  "why": "title"
+ },
+ "openai.com/index/cred-swamy-seetharaman": {
+  "lab": "OpenAI",
+  "title": "How CRED is tapping AI to deliver premium customer experiences",
+  "why": "title"
+ },
+ "openai.com/index/credit-saison": {
+  "lab": "OpenAI",
+  "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+  "why": "title"
+ },
+ "openai.com/index/cultfit-builds-with-codex": {
+  "lab": "OpenAI",
+  "title": "Cult.fit builds operational muscle with Codex",
+  "why": "title"
+ },
+ "openai.com/index/custom-instructions-for-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Custom instructions for ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/cyberagent": {
+  "lab": "OpenAI",
+  "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+  "why": "title"
+ },
+ "openai.com/index/cybersecurity-in-the-intelligence-age": {
+  "lab": "OpenAI",
+  "title": "Cybersecurity in the Intelligence Age",
+  "why": "title"
+ },
+ "openai.com/index/dai-nippon-printing": {
+  "lab": "OpenAI",
+  "title": "Advancing organizational transformation for business innovation",
+  "why": "title"
+ },
+ "openai.com/index/dali-rajic-chief-revenue-officer": {
+  "lab": "OpenAI",
+  "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+  "why": "title"
+ },
+ "openai.com/index/dall-e-3-system-card": {
+  "lab": "OpenAI",
+  "title": "DALL·E 3 system card",
+  "why": "title"
+ },
+ "openai.com/index/dan-driscoll-joins-openai": {
+  "lab": "OpenAI",
+  "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+  "why": "title"
+ },
+ "openai.com/index/data-partnerships": {
+  "lab": "OpenAI",
+  "title": "OpenAI Data Partnerships",
+  "why": "title"
+ },
+ "openai.com/index/databricks": {
+  "lab": "OpenAI",
+  "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+  "why": "title"
+ },
+ "openai.com/index/datadog": {
+  "lab": "OpenAI",
+  "title": "Datadog uses Codex for system-level code review",
+  "why": "title"
+ },
+ "openai.com/index/david-velez-robin-vince-join-openai-boards": {
+  "lab": "OpenAI",
+  "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+  "why": "title"
+ },
+ "openai.com/index/daybreak-for-frontline-defenders": {
+  "lab": "OpenAI",
+  "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+  "why": "title"
+ },
+ "openai.com/index/daybreak-models-are-now-available-on-aws": {
+  "lab": "OpenAI",
+  "title": "Daybreak models are now available on AWS",
+  "why": "title"
+ },
+ "openai.com/index/daybreak-red-aws-govcloud": {
+  "lab": "OpenAI",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "why": "title"
+ },
+ "openai.com/index/daybreak-securing-the-world": {
+  "lab": "OpenAI",
+  "title": "Daybreak: Tools for securing every organization in the world",
+  "why": "title"
+ },
+ "openai.com/index/decagon": {
+  "lab": "OpenAI",
+  "title": "Delivering high-performance customer support",
+  "why": "title"
+ },
+ "openai.com/index/decisions-api": {
+  "lab": "OpenAI",
+  "title": "Build more responsive apps with the Decisions API",
+  "why": "title"
+ },
+ "openai.com/index/deep-research": {
+  "lab": "OpenAI",
+  "title": "Understanding complex trends with deep research",
+  "why": "title"
+ },
+ "openai.com/index/deep-research-system-card": {
+  "lab": "OpenAI",
+  "title": "Deep research System Card",
+  "why": "title"
+ },
+ "openai.com/index/defining-and-evaluating-political-bias-in-llms": {
+  "lab": "OpenAI",
+  "title": "Defining and evaluating political bias in LLMs",
+  "why": "title"
+ },
+ "openai.com/index/deliberative-alignment": {
+  "lab": "OpenAI",
+  "title": "Deliberative alignment: reasoning enables safer language models",
+  "why": "title"
+ },
+ "openai.com/index/delivering-low-latency-voice-ai-at-scale": {
+  "lab": "OpenAI",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "why": "title"
+ },
+ "openai.com/index/dell-codex-enterprise-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+  "why": "title"
+ },
+ "openai.com/index/democratic-inputs-to-ai": {
+  "lab": "OpenAI",
+  "title": "Democratic inputs to AI",
+  "why": "title"
+ },
+ "openai.com/index/democratic-inputs-to-ai-grant-program-update": {
+  "lab": "OpenAI",
+  "title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
+  "why": "title"
+ },
+ "openai.com/index/deployment-simulation": {
+  "lab": "OpenAI",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "why": "title"
+ },
+ "openai.com/index/descript": {
+  "lab": "OpenAI",
+  "title": "How Descript engineers multilingual video dubbing at scale",
+  "why": "title"
+ },
+ "openai.com/index/designing-agents-to-resist-prompt-injection": {
+  "lab": "OpenAI",
+  "title": "Designing AI agents to resist prompt injection",
+  "why": "title"
+ },
+ "openai.com/index/detecting-and-reducing-scheming-in-ai-models": {
+  "lab": "OpenAI",
+  "title": "Detecting and reducing scheming in AI models",
+  "why": "title"
+ },
+ "openai.com/index/deutsche-telekom": {
+  "lab": "OpenAI",
+  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "why": "title"
+ },
+ "openai.com/index/deutsche-telekom-collaboration": {
+  "lab": "OpenAI",
+  "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+  "why": "title"
+ },
+ "openai.com/index/devday-2026-recap": {
+  "lab": "OpenAI",
+  "title": "DevDay 2026 Recap",
+  "why": "title"
+ },
+ "openai.com/index/developers-can-now-submit-apps-to-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Developers can now submit apps to ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/devrev-enterprise-self-service": {
+  "lab": "OpenAI",
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "why": "title"
+ },
+ "openai.com/index/diagnose-rare-childhood-diseases": {
+  "lab": "OpenAI",
+  "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+  "why": "title"
+ },
+ "openai.com/index/digital-green": {
+  "lab": "OpenAI",
+  "title": "Building agricultural database for farmers",
+  "why": "title"
+ },
+ "openai.com/index/disney-sora-agreement": {
+  "lab": "OpenAI",
+  "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+  "lab": "OpenAI",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-a-covert-iranian-influence-operation": {
+  "lab": "OpenAI",
+  "title": "Disrupting a covert Iranian influence operation",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-ai-enabled-false-front-operations": {
+  "lab": "OpenAI",
+  "title": "Disrupting AI-enabled “false front” operations",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations": {
+  "lab": "OpenAI",
+  "title": "Disrupting deceptive uses of AI by covert influence operations",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-ai-uses": {
+  "lab": "OpenAI",
+  "title": "Disrupting malicious uses of AI | February 2026",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-a2z": {
+  "lab": "OpenAI",
+  "title": "Operation “A2Z”: Multilingual influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar": {
+  "lab": "OpenAI",
+  "title": "\"Bad Grammar\": Russian-linked Telegram comment activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-bet-bot": {
+  "lab": "OpenAI",
+  "title": "Bet Bot: Gambling spam network",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors": {
+  "lab": "OpenAI",
+  "title": "Disrupting malicious uses of AI by state-affiliated threat actors",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment": {
+  "lab": "OpenAI",
+  "title": "Corrupt Comment: Anti-corruption foundation criticism",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
+  "lab": "OpenAI",
+  "title": "Disrupting a Cambodia-based criminal scam operation",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations": {
+  "lab": "OpenAI",
+  "title": "“Cyber Special Operations”: China-linked influence planning",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-cyber-threat-actors": {
+  "lab": "OpenAI",
+  "title": "Cyber threat actors: AI-assisted intrusion research",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-cyberav3ngers": {
+  "lab": "OpenAI",
+  "title": "CyberAv3ngers: Iran-linked cyber research activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon": {
+  "lab": "OpenAI",
+  "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-date-bait": {
+  "lab": "OpenAI",
+  "title": "Operation “Date Bait”: AI-enabled scam targeting loveseekers",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme": {
+  "lab": "OpenAI",
+  "title": "Deceptive Employment Scheme: AI-assisted hiring deception",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-doppelganger": {
+  "lab": "OpenAI",
+  "title": "Operation \"Doppelganger\": Russian influence activity targeting Ukraine",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-false-witness": {
+  "lab": "OpenAI",
+  "title": "Operation “False Witness”: Fake recovery service impersonating authorities",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-fish-food": {
+  "lab": "OpenAI",
+  "title": "Operation “Fish Food”: Russia-origin content farm activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-ghana-election": {
+  "lab": "OpenAI",
+  "title": "Covert influence operation: Ghana election activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-helgoland-bite": {
+  "lab": "OpenAI",
+  "title": "Operation “Helgoland Bite”: German-language influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-high-five": {
+  "lab": "OpenAI",
+  "title": "Operation “High Five”: Philippines political comments",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll": {
+  "lab": "OpenAI",
+  "title": "Hoax: Fake Russian “troll” error message",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
+  "lab": "OpenAI",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus": {
+  "lab": "OpenAI",
+  "title": "Iranian influence nexus: Cross-platform activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-it-workers": {
+  "lab": "OpenAI",
+  "title": "Deceptive Employment Scheme: IT worker activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-iuvm": {
+  "lab": "OpenAI",
+  "title": "IUVM: Iran-linked influence content network",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-korean-language-malware-support": {
+  "lab": "OpenAI",
+  "title": "Cyber Operation: Korean-language malware support",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-nine-emdash-line": {
+  "lab": "OpenAI",
+  "title": "Operation “Nine–emdash Line”: Regional influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-no-bell": {
+  "lab": "OpenAI",
+  "title": "Operation “No Bell”: Coordinated criticism of the US and allies",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-peer-review": {
+  "lab": "OpenAI",
+  "title": "Operation “Peer Review”: AI-assisted surveillance planning",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support": {
+  "lab": "OpenAI",
+  "title": "Cyber Operation: Phishing and scripting support",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse": {
+  "lab": "OpenAI",
+  "title": "PRC-linked abuse: Surveillance and influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-romance-baiting-scam": {
+  "lab": "OpenAI",
+  "title": "Romance-baiting scam: AI-assisted pig butchering workflows",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-romance-scam": {
+  "lab": "OpenAI",
+  "title": "Romance scams: AI-enabled romance scam workflows",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling": {
+  "lab": "OpenAI",
+  "title": "Cyber Operation: Russian-speaking malware tooling",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content": {
+  "lab": "OpenAI",
+  "title": "Rwandan election content: Political commenting network",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-scam-operations": {
+  "lab": "OpenAI",
+  "title": "Scam operations: Online fraud networks",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-scopecreep": {
+  "lab": "OpenAI",
+  "title": "Operation “ScopeCreep”: Russian-speaking malware development",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook": {
+  "lab": "OpenAI",
+  "title": "Silver lining playbook: Likely China-origin activity targeting US persons",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-sneer-review": {
+  "lab": "OpenAI",
+  "title": "Operation “Sneer Review”: China-origin influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-spamouflage": {
+  "lab": "OpenAI",
+  "title": "Operation \"Spamouflage\": China-linked influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-sponsored-discontent": {
+  "lab": "OpenAI",
+  "title": "Operation “Sponsored Discontent”: Influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024": {
+  "lab": "OpenAI",
+  "title": "Operation “Stop News”: Russia-origin influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025": {
+  "lab": "OpenAI",
+  "title": "Operation “Stop News”: Recidivist influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-storm-0817": {
+  "lab": "OpenAI",
+  "title": "STORM-0817: Iran-linked malware and scraping activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024": {
+  "lab": "OpenAI",
+  "title": "Operation “STORM-2035”: Iran-origin influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2025": {
+  "lab": "OpenAI",
+  "title": "STORM-2035: Recidivist influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-sweetspecter": {
+  "lab": "OpenAI",
+  "title": "SweetSpecter: China-linked cyber activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-task-scam": {
+  "lab": "OpenAI",
+  "title": "Task scam: AI-assisted fake review jobs",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs": {
+  "lab": "OpenAI",
+  "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-tort-report": {
+  "lab": "OpenAI",
+  "title": "Tort Report: Abusive reporting activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone": {
+  "lab": "OpenAI",
+  "title": "Operation “Trolling Stone”: Russia-linked influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-uncle-spam": {
+  "lab": "OpenAI",
+  "title": "Operation “Uncle Spam”: US polarization influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-vague-focus": {
+  "lab": "OpenAI",
+  "title": "Operation “VAGue Focus”: Social engineering and influence activity",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda": {
+  "lab": "OpenAI",
+  "title": "Vixen and Keyhole Panda: China-linked cyber operations",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-wrong-number": {
+  "lab": "OpenAI",
+  "title": "Operation “Wrong Number”: AI-assisted task scam",
+  "why": "title"
+ },
+ "openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno": {
+  "lab": "OpenAI",
+  "title": "Operation \"Zero Zeno\": Israel-linked influence activity",
+  "why": "title"
+ },
+ "openai.com/index/doordash-mariana-garavaglia": {
+  "lab": "OpenAI",
+  "title": "Q&A with DoorDash’s CPO, Mariana Garavaglia",
+  "why": "title"
+ },
+ "openai.com/index/doppel": {
+  "lab": "OpenAI",
+  "title": "Doppel’s AI defense system stops attacks before they spread",
+  "why": "title"
+ },
+ "openai.com/index/duolingo": {
+  "lab": "OpenAI",
+  "title": "Filling crucial language learning gaps",
+  "why": "title"
+ },
+ "openai.com/index/edu-for-countries": {
+  "lab": "OpenAI",
+  "title": "Introducing Edu for Countries",
+  "why": "title"
+ },
+ "openai.com/index/election-safeguards-2026": {
+  "lab": "OpenAI",
+  "title": "Election information and safeguards in 2026",
+  "why": "title"
+ },
+ "openai.com/index/eliseai-minna-song": {
+  "lab": "OpenAI",
+  "title": "EliseAI improves housing and healthcare efficiency with AI",
+  "why": "title"
+ },
+ "openai.com/index/elon-musk-wanted-an-openai-for-profit": {
+  "lab": "OpenAI",
+  "title": "Elon Musk wanted an OpenAI for-profit",
+  "why": "title"
+ },
+ "openai.com/index/emea-youth-and-wellbeing-grant": {
+  "lab": "OpenAI",
+  "title": "EMEA Youth & Wellbeing Grant",
+  "why": "title"
+ },
+ "openai.com/index/emergent-misalignment": {
+  "lab": "OpenAI",
+  "title": "Toward understanding and preventing misalignment generalization",
+  "why": "title"
+ },
+ "openai.com/index/empowering-cyber-defenders": {
+  "lab": "OpenAI",
+  "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "why": "title"
+ },
+ "openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program": {
+  "lab": "OpenAI",
+  "title": "Empowering defenders through our Cybersecurity Grant Program",
+  "why": "title"
+ },
+ "openai.com/index/endava": {
+  "lab": "OpenAI",
+  "title": "How Endava builds an agentic organization with Codex",
+  "why": "title"
+ },
+ "openai.com/index/endava-frontiers": {
+  "lab": "OpenAI",
+  "title": "How Endava is redesigning software delivery around AI agents",
+  "why": "title"
+ },
+ "openai.com/index/endex": {
+  "lab": "OpenAI",
+  "title": "Building an autonomous financial analyst with o1 and o3-mini",
+  "why": "title"
+ },
+ "openai.com/index/eneos-materials": {
+  "lab": "OpenAI",
+  "title": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
+  "why": "title"
+ },
+ "openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic": {
+  "lab": "OpenAI",
+  "title": "Enhancing news in ChatGPT with The Atlantic",
+  "why": "title"
+ },
+ "openai.com/index/equip-responses-api-computer-environment": {
+  "lab": "OpenAI",
+  "title": "From model to agent: Equipping the Responses API with a computer environment",
+  "why": "title"
+ },
+ "openai.com/index/equipping-workers-with-insights-about-compensation": {
+  "lab": "OpenAI",
+  "title": "Equipping workers with insights about compensation",
+  "why": "title"
+ },
+ "openai.com/index/estee-lauder": {
+  "lab": "OpenAI",
+  "title": "Data-driven beauty and creativity with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms": {
+  "lab": "OpenAI",
+  "title": "Estimating worst case frontier risks of open weight LLMs",
+  "why": "title"
+ },
+ "openai.com/index/eu-text-provenance": {
+  "lab": "OpenAI",
+  "title": "Our approach to EU text provenance rules",
+  "why": "title"
+ },
+ "openai.com/index/evals-drive-next-chapter-of-ai": {
+  "lab": "OpenAI",
+  "title": "How evals drive the next chapter in AI for businesses",
+  "why": "title"
+ },
+ "openai.com/index/evaluating-chain-of-thought-monitorability": {
+  "lab": "OpenAI",
+  "title": "Evaluating chain-of-thought monitorability",
+  "why": "title"
+ },
+ "openai.com/index/evaluating-fairness-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Evaluating fairness in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/evolving-our-structure": {
+  "lab": "OpenAI",
+  "title": "Evolving OpenAI’s structure",
+  "why": "title"
+ },
+ "openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+  "lab": "OpenAI",
+  "title": "A milestone in expanding access to AI",
+  "why": "title"
+ },
+ "openai.com/index/expanding-ai-access-us-government": {
+  "lab": "OpenAI",
+  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+  "why": "title"
+ },
+ "openai.com/index/expanding-chatgpt-for-academic-researchers": {
+  "lab": "OpenAI",
+  "title": "Broadening access to AI for scientists",
+  "why": "title"
+ },
+ "openai.com/index/expanding-data-residency-access-to-business-customers-worldwide": {
+  "lab": "OpenAI",
+  "title": "Expanding data residency access to business customers worldwide",
+  "why": "title"
+ },
+ "openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+  "lab": "OpenAI",
+  "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+  "why": "title"
+ },
+ "openai.com/index/expanding-economic-opportunity-with-ai": {
+  "lab": "OpenAI",
+  "title": "Expanding economic opportunity with AI",
+  "why": "title"
+ },
+ "openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research": {
+  "lab": "OpenAI",
+  "title": "Expanding on how Voice Engine works and our safety research",
+  "why": "title"
+ },
+ "openai.com/index/expanding-on-sycophancy": {
+  "lab": "OpenAI",
+  "title": "Expanding on what we missed with sycophancy",
+  "why": "title"
+ },
+ "openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+  "lab": "OpenAI",
+  "title": "Expanding OpenAI Academy with new learning paths",
+  "why": "title"
+ },
+ "openai.com/index/expanding-our-presence-in-brazil": {
+  "lab": "OpenAI",
+  "title": "Expanding OpenAI’s presence in Brazil",
+  "why": "title"
+ },
+ "openai.com/index/expanding-stargate-to-michigan": {
+  "lab": "OpenAI",
+  "title": "Expanding Stargate to Michigan",
+  "why": "title"
+ },
+ "openai.com/index/expedia-jochen-koedijk": {
+  "lab": "OpenAI",
+  "title": "AI powers Expedia’s marketing evolution",
+  "why": "title"
+ },
+ "openai.com/index/expert-council-on-well-being-and-ai": {
+  "lab": "OpenAI",
+  "title": "Expert Council on Well-Being and AI",
+  "why": "title"
+ },
+ "openai.com/index/extending-single-minus-amplitudes-to-gravitons": {
+  "lab": "OpenAI",
+  "title": "Extending single-minus amplitudes to gravitons",
+  "why": "title"
+ },
+ "openai.com/index/extracting-concepts-from-gpt-4": {
+  "lab": "OpenAI",
+  "title": "Extracting Concepts from GPT-4",
+  "why": "title"
+ },
+ "openai.com/index/factory": {
+  "lab": "OpenAI",
+  "title": "Accelerating engineering cycles 20% with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/fair-use-benefits-everyone": {
+  "lab": "OpenAI",
+  "title": "Fair use benefits everyone",
+  "why": "title"
+ },
+ "openai.com/index/fanatics-betting-gaming-andrea-ellis": {
+  "lab": "OpenAI",
+  "title": "Fanatics Betting and Gaming uses AI to focus on the big picture",
+  "why": "title"
+ },
+ "openai.com/index/fanatics-streamline-fan-experience": {
+  "lab": "OpenAI",
+  "title": "How Fanatics and OpenAI streamline the fan experience",
+  "why": "title"
+ },
+ "openai.com/index/fighting-nyt-user-privacy-invasion": {
+  "lab": "OpenAI",
+  "title": "Fighting the New York Times’ invasion of user privacy",
+  "why": "title"
+ },
+ "openai.com/index/figma-david-kossnick": {
+  "lab": "OpenAI",
+  "title": "Figma uses AI to transform digital design",
+  "why": "title"
+ },
+ "openai.com/index/figma-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+  "why": "title"
+ },
+ "openai.com/index/finding-gpt4s-mistakes-with-gpt-4": {
+  "lab": "OpenAI",
+  "title": "Finding GPT-4’s mistakes with GPT-4",
+  "why": "title"
+ },
+ "openai.com/index/first-proof-submissions": {
+  "lab": "OpenAI",
+  "title": "Our First Proof submissions",
+  "why": "title"
+ },
+ "openai.com/index/fishing-for-first-timers": {
+  "lab": "OpenAI",
+  "title": "Catching halibut with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/five-new-stargate-sites": {
+  "lab": "OpenAI",
+  "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+  "why": "title"
+ },
+ "openai.com/index/forecasting-misuse": {
+  "lab": "OpenAI",
+  "title": "Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk",
+  "why": "title"
+ },
+ "openai.com/index/forward-deployed-engineering-means": {
+  "lab": "OpenAI",
+  "title": "What FDE means at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/franklin-templeton": {
+  "lab": "OpenAI",
+  "title": "Franklin Templeton uses OpenAI to support investment research",
+  "why": "title"
+ },
+ "openai.com/index/frontier-ai-regulation": {
+  "lab": "OpenAI",
+  "title": "Frontier AI regulation: Managing emerging risks to public safety",
+  "why": "title"
+ },
+ "openai.com/index/frontier-alliance-partners": {
+  "lab": "OpenAI",
+  "title": "OpenAI announces Frontier Alliance Partners",
+  "why": "title"
+ },
+ "openai.com/index/frontier-model-forum": {
+  "lab": "OpenAI",
+  "title": "Frontier Model Forum",
+  "why": "title"
+ },
+ "openai.com/index/frontier-model-forum-updates": {
+  "lab": "OpenAI",
+  "title": "Frontier Model Forum updates",
+  "why": "title"
+ },
+ "openai.com/index/frontier-risk-and-preparedness": {
+  "lab": "OpenAI",
+  "title": "Frontier risk and preparedness",
+  "why": "title"
+ },
+ "openai.com/index/frontier-safety-blueprint": {
+  "lab": "OpenAI",
+  "title": "A blueprint for democratic governance of frontier AI",
+  "why": "title"
+ },
+ "openai.com/index/frontierscience": {
+  "lab": "OpenAI",
+  "title": "Evaluating AI’s ability to perform scientific research tasks",
+  "why": "title"
+ },
+ "openai.com/index/function-calling-and-other-api-updates": {
+  "lab": "OpenAI",
+  "title": "Function calling and other API updates",
+  "why": "title"
+ },
+ "openai.com/index/fyxer": {
+  "lab": "OpenAI",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "why": "title"
+ },
+ "openai.com/index/gartner-2025-emerging-leader": {
+  "lab": "OpenAI",
+  "title": "OpenAI named Emerging Leader in Generative AI",
+  "why": "title"
+ },
+ "openai.com/index/gartner-2026-agentic-coding-leader": {
+  "lab": "OpenAI",
+  "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+  "why": "title"
+ },
+ "openai.com/index/gdpval": {
+  "lab": "OpenAI",
+  "title": "Measuring the performance of our models on real-world tasks",
+  "why": "title"
+ },
+ "openai.com/index/gedi": {
+  "lab": "OpenAI",
+  "title": "OpenAI and GEDI partner for Italian news content",
+  "why": "title"
+ },
+ "openai.com/index/genebench-pro/case-studies": {
+  "lab": "OpenAI",
+  "title": "Inside Genebench-Pro",
+  "why": "title"
+ },
+ "openai.com/index/genmab": {
+  "lab": "OpenAI",
+  "title": "Genmab launches “AI Everywhere”",
+  "why": "title"
+ },
+ "openai.com/index/genspark": {
+  "lab": "OpenAI",
+  "title": "No-code personal agents, powered by GPT-4.1 and Realtime API",
+  "why": "title"
+ },
+ "openai.com/index/gilbert-tobin": {
+  "lab": "OpenAI",
+  "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/gilbert-tobin-sam-nickless": {
+  "lab": "OpenAI",
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "why": "title"
+ },
+ "openai.com/index/global-news-partnerships-le-monde-and-prisa-media": {
+  "lab": "OpenAI",
+  "title": "Global news partnerships: Le Monde and Prisa Media",
+  "why": "title"
+ },
+ "openai.com/index/governance-of-superintelligence": {
+  "lab": "OpenAI",
+  "title": "Governance of superintelligence",
+  "why": "title"
+ },
+ "openai.com/index/government-national-security-partnerships": {
+  "lab": "OpenAI",
+  "title": "Our approach to government and national security partnerships",
+  "why": "title"
+ },
+ "openai.com/index/government-of-iceland": {
+  "lab": "OpenAI",
+  "title": "Preserving languages for the future",
+  "why": "title"
+ },
+ "openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates": {
+  "lab": "OpenAI",
+  "title": "GPT-3.5 Turbo fine-tuning and API updates",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4-1": {
+  "lab": "OpenAI",
+  "title": "Introducing GPT-4.1 in the API",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4-5-system-card": {
+  "lab": "OpenAI",
+  "title": "OpenAI GPT-4.5 System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4-api-general-availability": {
+  "lab": "OpenAI",
+  "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free": {
+  "lab": "OpenAI",
+  "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4o-fine-tuning": {
+  "lab": "OpenAI",
+  "title": "Fine-tuning now available for GPT-4o",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4o-image-generation-system-card-addendum": {
+  "lab": "OpenAI",
+  "title": "Addendum to GPT-4o System Card: 4o image generation",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4o-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-4o System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-4v-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-4V(ision) system card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-1-codex-max": {
+  "lab": "OpenAI",
+  "title": "Building more with GPT-5.1-Codex-Max",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-1-codex-max-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5.1-Codex-Max System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-1-for-developers": {
+  "lab": "OpenAI",
+  "title": "Introducing GPT-5.1 for developers",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-2-codex-system-card": {
+  "lab": "OpenAI",
+  "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-2-for-science-and-math": {
+  "lab": "OpenAI",
+  "title": "Advancing science and math with GPT-5.2",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-3-codex-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5.3-Codex System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-3-instant-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5.3 Instant System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-4-thinking-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5.4 Thinking System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-5-instant-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5.5 Instant System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-5-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5.5 System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-5-with-trusted-access-for-cyber": {
+  "lab": "OpenAI",
+  "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+  "lab": "OpenAI",
+  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-6-in-kiro": {
+  "lab": "OpenAI",
+  "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-amgen": {
+  "lab": "OpenAI",
+  "title": "How Amgen uses GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-coding-design": {
+  "lab": "OpenAI",
+  "title": "Coding and design with GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-creative-writing": {
+  "lab": "OpenAI",
+  "title": "Creative writing with GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-cursor": {
+  "lab": "OpenAI",
+  "title": "How Cursor uses GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-first-look": {
+  "lab": "OpenAI",
+  "title": "First look at GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-immunology-mystery": {
+  "lab": "OpenAI",
+  "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-lowers-protein-synthesis-cost": {
+  "lab": "OpenAI",
+  "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-mathematical-discovery": {
+  "lab": "OpenAI",
+  "title": "GPT-5 and the future of mathematical discovery",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-medical-research": {
+  "lab": "OpenAI",
+  "title": "Medical research with GPT-5",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-new-era-of-work": {
+  "lab": "OpenAI",
+  "title": "GPT-5 and the new era of work",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-safe-completions": {
+  "lab": "OpenAI",
+  "title": "From hard refusals to safe-completions: toward output-centric safety training",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-system-card": {
+  "lab": "OpenAI",
+  "title": "GPT-5 System Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-system-card-addendum-gpt-5-1": {
+  "lab": "OpenAI",
+  "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-system-card-addendum-gpt-5-codex": {
+  "lab": "OpenAI",
+  "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-system-card-sensitive-conversations": {
+  "lab": "OpenAI",
+  "title": "Addendum to GPT-5 System Card: Sensitive conversations",
+  "why": "title"
+ },
+ "openai.com/index/gpt-5-system-card-update-gpt-5-2": {
+  "lab": "OpenAI",
+  "title": "Update to GPT-5 System Card: GPT-5.2",
+  "why": "title"
+ },
+ "openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+  "lab": "OpenAI",
+  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "why": "title"
+ },
+ "openai.com/index/gpt-6-for-everyone": {
+  "lab": "OpenAI",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "why": "title"
+ },
+ "openai.com/index/gpt-oss-model-card": {
+  "lab": "OpenAI",
+  "title": "gpt-oss-120b & gpt-oss-20b Model Card",
+  "why": "title"
+ },
+ "openai.com/index/gpt-oss-safeguard-technical-report": {
+  "lab": "OpenAI",
+  "title": "gpt-oss-safeguard technical report",
+  "why": "title"
+ },
+ "openai.com/index/gpts-are-gpts": {
+  "lab": "OpenAI",
+  "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
+  "why": "title"
+ },
+ "openai.com/index/grab": {
+  "lab": "OpenAI",
+  "title": "Building smarter maps with GPT-4o vision fine-tuning",
+  "why": "title"
+ },
+ "openai.com/index/grab-openai-ai-skills-southeast-asia": {
+  "lab": "OpenAI",
+  "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+  "why": "title"
+ },
+ "openai.com/index/gradient-labs": {
+  "lab": "OpenAI",
+  "title": "Gradient Labs gives every bank customer an AI account manager",
+  "why": "title"
+ },
+ "openai.com/index/greptile-code-review-codex-astra": {
+  "lab": "OpenAI",
+  "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/grid-protectors-program": {
+  "lab": "OpenAI",
+  "title": "Introducing the Grid Protectors Program",
+  "why": "title"
+ },
+ "openai.com/index/group-chats-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Introducing group chats in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/grupo-boticario": {
+  "lab": "OpenAI",
+  "title": "How Grupo Boticário uses AI to strengthen human connections",
+  "why": "title"
+ },
+ "openai.com/index/grupo-folha-grupo-uol-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+  "why": "title"
+ },
+ "openai.com/index/hardening-atlas-against-prompt-injection": {
+  "lab": "OpenAI",
+  "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+  "why": "title"
+ },
+ "openai.com/index/harness-engineering": {
+  "lab": "OpenAI",
+  "title": "Harness engineering: leveraging Codex in an agent-first world",
+  "why": "title"
+ },
+ "openai.com/index/harvey": {
+  "lab": "OpenAI",
+  "title": "Customizing models for legal professionals",
+  "why": "title"
+ },
+ "openai.com/index/harvey-from-context-to-confidence-with-astra": {
+  "lab": "OpenAI",
+  "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/health-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Launching Health in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/healthbench": {
+  "lab": "OpenAI",
+  "title": "Introducing HealthBench",
+  "why": "title"
+ },
+ "openai.com/index/healthify": {
+  "lab": "OpenAI",
+  "title": "Saving lives with AI health coaching",
+  "why": "title"
+ },
+ "openai.com/index/hearst": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Hearst Content Partnership",
+  "why": "title"
+ },
+ "openai.com/index/hebbia": {
+  "lab": "OpenAI",
+  "title": "Automating 90% of finance and legal work with agents",
+  "why": "title"
+ },
+ "openai.com/index/heimstaden": {
+  "lab": "OpenAI",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "why": "title"
+ },
+ "openai.com/index/helping-build-shared-standards-for-advanced-ai": {
+  "lab": "OpenAI",
+  "title": "Helping build shared standards for advanced AI",
+  "why": "title"
+ },
+ "openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+  "lab": "OpenAI",
+  "title": "Helping caregivers use AI in everyday life",
+  "why": "title"
+ },
+ "openai.com/index/helping-disaster-response-teams-asia": {
+  "lab": "OpenAI",
+  "title": "Helping disaster response teams turn AI into action across Asia",
+  "why": "title"
+ },
+ "openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+  "lab": "OpenAI",
+  "title": "Helping older adults use AI in everyday life",
+  "why": "title"
+ },
+ "openai.com/index/helping-people-when-they-need-it-most": {
+  "lab": "OpenAI",
+  "title": "Helping people when they need it most",
+  "why": "title"
+ },
+ "openai.com/index/helping-small-businesses-put-ai-to-work": {
+  "lab": "OpenAI",
+  "title": "Helping small businesses put AI to work",
+  "why": "title"
+ },
+ "openai.com/index/helping-websites-express-ai-training-preferences": {
+  "lab": "OpenAI",
+  "title": "Making it easier for websites to express AI training preferences",
+  "why": "title"
+ },
+ "openai.com/index/hex-gpt-6-astra": {
+  "lab": "OpenAI",
+  "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/hibob": {
+  "lab": "OpenAI",
+  "title": "HiBob turns 2,500 GPTs into product and team growth",
+  "why": "title"
+ },
+ "openai.com/index/higgsfield": {
+  "lab": "OpenAI",
+  "title": "How Higgsfield turns simple ideas into cinematic social videos",
+  "why": "title"
+ },
+ "openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+  "lab": "OpenAI",
+  "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/higgsfield-longer-videos-voice": {
+  "lab": "OpenAI",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "why": "title"
+ },
+ "openai.com/index/holiday-extras": {
+  "lab": "OpenAI",
+  "title": "Building a data-driven, efficient culture with AI",
+  "why": "title"
+ },
+ "openai.com/index/horizon-1000": {
+  "lab": "OpenAI",
+  "title": "Horizon 1000: Advancing AI for primary healthcare",
+  "why": "title"
+ },
+ "openai.com/index/how-agents-are-transforming-work": {
+  "lab": "OpenAI",
+  "title": "How agents are transforming work",
+  "why": "title"
+ },
+ "openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
+  "lab": "OpenAI",
+  "title": "How AI is expanding what people do at work",
+  "why": "title"
+ },
+ "openai.com/index/how-chatgpt-adoption-has-expanded": {
+  "lab": "OpenAI",
+  "title": "How ChatGPT adoption has expanded",
+  "why": "title"
+ },
+ "openai.com/index/how-chatgpt-protects-privacy": {
+  "lab": "OpenAI",
+  "title": "How ChatGPT learns about the world while protecting privacy",
+  "why": "title"
+ },
+ "openai.com/index/how-confessions-can-keep-language-models-honest": {
+  "lab": "OpenAI",
+  "title": "How confessions can keep language models honest",
+  "why": "title"
+ },
+ "openai.com/index/how-countries-can-end-the-capability-overhang": {
+  "lab": "OpenAI",
+  "title": "How countries can end the capability overhang",
+  "why": "title"
+ },
+ "openai.com/index/how-enterprises-put-ai-to-work": {
+  "lab": "OpenAI",
+  "title": "From assistance to execution: How enterprises put AI to work",
+  "why": "title"
+ },
+ "openai.com/index/how-news-organizations-are-using-ai": {
+  "lab": "OpenAI",
+  "title": "How news organizations are using AI to advance their vital missions",
+  "why": "title"
+ },
+ "openai.com/index/how-openai-is-approaching-2024-worldwide-elections": {
+  "lab": "OpenAI",
+  "title": "How OpenAI is approaching 2024 worldwide elections",
+  "why": "title"
+ },
+ "openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+  "lab": "OpenAI",
+  "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "why": "title"
+ },
+ "openai.com/index/how-people-are-using-chatgpt": {
+  "lab": "OpenAI",
+  "title": "How people are using ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/how-should-ai-systems-behave": {
+  "lab": "OpenAI",
+  "title": "How should AI systems behave, and who should decide?",
+  "why": "title"
+ },
+ "openai.com/index/how-the-voices-for-chatgpt-were-chosen": {
+  "lab": "OpenAI",
+  "title": "How the voices for ChatGPT were chosen",
+  "why": "title"
+ },
+ "openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
+  "lab": "OpenAI",
+  "title": "From asking to doing: How the world is putting ChatGPT to work",
+  "why": "title"
+ },
+ "openai.com/index/how-to-connect-ai-usage-to-business-value": {
+  "lab": "OpenAI",
+  "title": "How to connect AI usage to business value",
+  "why": "title"
+ },
+ "openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+  "lab": "OpenAI",
+  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "why": "title"
+ },
+ "openai.com/index/how-we-detect-frontier-model-misalignment": {
+  "lab": "OpenAI",
+  "title": "How we detect frontier model misalignment",
+  "why": "title"
+ },
+ "openai.com/index/how-we-monitor-internal-coding-agents-misalignment": {
+  "lab": "OpenAI",
+  "title": "How we monitor internal coding agents for misalignment",
+  "why": "title"
+ },
+ "openai.com/index/how-we-will-do-better-for-australia": {
+  "lab": "OpenAI",
+  "title": "How we will do better for Australia",
+  "why": "title"
+ },
+ "openai.com/index/hp-frontier-partnership": {
+  "lab": "OpenAI",
+  "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/hsp-gruppe": {
+  "lab": "OpenAI",
+  "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+  "why": "title"
+ },
+ "openai.com/index/hugging-face-incident-and-the-road-ahead": {
+  "lab": "OpenAI",
+  "title": "The Hugging Face incident and the road ahead",
+  "why": "title"
+ },
+ "openai.com/index/hugging-face-model-evaluation-security-incident": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+  "why": "title"
+ },
+ "openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise": {
+  "lab": "OpenAI",
+  "title": "OpenAI helps Hyatt advance AI among colleagues",
+  "why": "title"
+ },
+ "openai.com/index/hygh": {
+  "lab": "OpenAI",
+  "title": "HYGH speeds development and campaigns with ChatGPT Business",
+  "why": "title"
+ },
+ "openai.com/index/image-generation-api": {
+  "lab": "OpenAI",
+  "title": "Introducing our latest image generation model in the API",
+  "why": "title"
+ },
+ "openai.com/index/improved-techniques-for-training-consistency-models": {
+  "lab": "OpenAI",
+  "title": "Improved Techniques for Training Consistency Models",
+  "why": "title"
+ },
+ "openai.com/index/improvements-to-data-analysis-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Improvements to data analysis in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+  "why": "title"
+ },
+ "openai.com/index/improving-health-intelligence-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Improving health intelligence in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/improving-mathematical-reasoning-with-process-supervision": {
+  "lab": "OpenAI",
+  "title": "Improving mathematical reasoning with process supervision",
+  "why": "title"
+ },
+ "openai.com/index/improving-model-safety-behavior-with-rule-based-rewards": {
+  "lab": "OpenAI",
+  "title": "Improving Model Safety Behavior with Rule-Based Rewards",
+  "why": "title"
+ },
+ "openai.com/index/indeed": {
+  "lab": "OpenAI",
+  "title": "Delivering contextual job matching for millions with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/indeed-maggie-hulce": {
+  "lab": "OpenAI",
+  "title": "How Indeed uses AI to help evolve the job search",
+  "why": "title"
+ },
+ "openai.com/index/industrial-policy-for-the-intelligence-age": {
+  "lab": "OpenAI",
+  "title": "Industrial policy for the Intelligence Age",
+  "why": "title"
+ },
+ "openai.com/index/inside-our-in-house-data-agent": {
+  "lab": "OpenAI",
+  "title": "Inside OpenAI’s in-house data agent",
+  "why": "title"
+ },
+ "openai.com/index/inside-the-codex-sandbox": {
+  "lab": "OpenAI",
+  "title": "Inside the Codex sandbox",
+  "why": "title"
+ },
+ "openai.com/index/insights-from-global-conversations": {
+  "lab": "OpenAI",
+  "title": "Insights from global conversations",
+  "why": "title"
+ },
+ "openai.com/index/instacart-partnership": {
+  "lab": "OpenAI",
+  "title": "Instacart and OpenAI partner on AI shopping experiences",
+  "why": "title"
+ },
+ "openai.com/index/instruction-hierarchy-challenge": {
+  "lab": "OpenAI",
+  "title": "Improving instruction hierarchy in frontier LLMs",
+  "why": "title"
+ },
+ "openai.com/index/intercom": {
+  "lab": "OpenAI",
+  "title": "Three lessons for creating a sustainable AI advantage",
+  "why": "title"
+ },
+ "openai.com/index/introducing-aardvark": {
+  "lab": "OpenAI",
+  "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
+  "why": "title"
+ },
+ "openai.com/index/introducing-admin-plugin": {
+  "lab": "OpenAI",
+  "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+  "why": "title"
+ },
+ "openai.com/index/introducing-agentkit": {
+  "lab": "OpenAI",
+  "title": "Introducing AgentKit, new Evals, and RFT for agents",
+  "why": "title"
+ },
+ "openai.com/index/introducing-apps-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Introducing apps in ChatGPT and the new Apps SDK",
+  "why": "title"
+ },
+ "openai.com/index/introducing-b2b-signals": {
+  "lab": "OpenAI",
+  "title": "How frontier firms are pulling ahead",
+  "why": "title"
+ },
+ "openai.com/index/introducing-businesses-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Introducing Businesses in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/introducing-canvas": {
+  "lab": "OpenAI",
+  "title": "Introducing canvas, a new way to write and code with ChatGPT.",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-agent": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT agent",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-and-whisper-apis": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT and Whisper APIs",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-atlas": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-edu": {
+  "lab": "OpenAI",
+  "title": "OpenAI for Education",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-enterprise": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Enterprise",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-financial-services": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT for Financial Services",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-for-sales": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT for Sales",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-futures-class-of-2026": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Futures: Class of 2026",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-go": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Go, now available worldwide",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-health": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Health",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-images-2-0": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Images 2.0",
+  "why": "only 55 words found",
+  "tries": 3
+ },
+ "openai.com/index/introducing-chatgpt-pro": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Pro",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-pulse": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Pulse",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-search": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT search",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-small-business-program": {
+  "lab": "OpenAI",
+  "title": "Introducing the ChatGPT for small business program",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-team": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Team",
+  "why": "title"
+ },
+ "openai.com/index/introducing-chatgpt-wallet": {
+  "lab": "OpenAI",
+  "title": "Introducing ChatGPT Wallet",
+  "why": "title"
+ },
+ "openai.com/index/introducing-child-safety-blueprint": {
+  "lab": "OpenAI",
+  "title": "Introducing the Child Safety Blueprint",
+  "why": "title"
+ },
+ "openai.com/index/introducing-codex": {
+  "lab": "OpenAI",
+  "title": "Introducing Codex",
+  "why": "title"
+ },
+ "openai.com/index/introducing-company-knowledge": {
+  "lab": "OpenAI",
+  "title": "Work smarter with your company knowledge in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/introducing-data-residency-in-asia": {
+  "lab": "OpenAI",
+  "title": "Introducing data residency in Asia",
+  "why": "title"
+ },
+ "openai.com/index/introducing-data-residency-in-europe": {
+  "lab": "OpenAI",
+  "title": "Introducing data residency in Europe",
+  "why": "title"
+ },
+ "openai.com/index/introducing-deep-research": {
+  "lab": "OpenAI",
+  "title": "Introducing deep research",
+  "why": "title"
+ },
+ "openai.com/index/introducing-dots": {
+  "lab": "OpenAI",
+  "title": "Introducing dots",
+  "why": "title"
+ },
+ "openai.com/index/introducing-evmbench": {
+  "lab": "OpenAI",
+  "title": "Introducing EVMbench",
+  "why": "title"
+ },
+ "openai.com/index/introducing-genebench-pro": {
+  "lab": "OpenAI",
+  "title": "Introducing GeneBench-Pro",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-5-for-developers": {
+  "lab": "OpenAI",
+  "title": "Introducing GPT-5 for developers",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-live": {
+  "lab": "OpenAI",
+  "title": "Introducing GPT-Live",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-live-1-in-the-api": {
+  "lab": "OpenAI",
+  "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-oss": {
+  "lab": "OpenAI",
+  "title": "Introducing gpt-oss",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-oss-safeguard": {
+  "lab": "OpenAI",
+  "title": "Introducing gpt-oss-safeguard",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-realtime": {
+  "lab": "OpenAI",
+  "title": "Introducing gpt-realtime and Realtime API updates",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpt-rosalind": {
+  "lab": "OpenAI",
+  "title": "Introducing GPT-Rosalind for life sciences research",
+  "why": "title"
+ },
+ "openai.com/index/introducing-gpts": {
+  "lab": "OpenAI",
+  "title": "Introducing GPTs",
+  "why": "title"
+ },
+ "openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program": {
+  "lab": "OpenAI",
+  "title": "Introducing improvements to the fine-tuning API and expanding our custom models program",
+  "why": "title"
+ },
+ "openai.com/index/introducing-indqa": {
+  "lab": "OpenAI",
+  "title": "Introducing IndQA",
+  "why": "title"
+ },
+ "openai.com/index/introducing-intelligence-age": {
+  "lab": "OpenAI",
+  "title": "Introducing Intelligence Age",
+  "why": "title"
+ },
+ "openai.com/index/introducing-life-sci-bench": {
+  "lab": "OpenAI",
+  "title": "Introducing LifeSciBench",
+  "why": "title"
+ },
+ "openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/introducing-mentalhealthbench": {
+  "lab": "OpenAI",
+  "title": "Introducing MentalHealthBench",
+  "why": "title"
+ },
+ "openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+  "lab": "OpenAI",
+  "title": "Introducing new capabilities to GPT-Rosalind",
+  "why": "title"
+ },
+ "openai.com/index/introducing-nextgenai": {
+  "lab": "OpenAI",
+  "title": "Introducing NextGenAI",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-dublin": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI Dublin",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-for-chile": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI for Chile",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-for-nonprofits": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI for Nonprofits",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-for-singapore": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI for Singapore",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-frontier": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI Frontier",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-japan": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI Japan",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-london": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI London",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-partner-network": {
+  "lab": "OpenAI",
+  "title": "Introducing the OpenAI Partner Network",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-presence": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI Presence",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-privacy-filter": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI Privacy Filter",
+  "why": "title"
+ },
+ "openai.com/index/introducing-openai-safety-fellowship": {
+  "lab": "OpenAI",
+  "title": "Announcing the OpenAI Safety Fellowship",
+  "why": "title"
+ },
+ "openai.com/index/introducing-operator": {
+  "lab": "OpenAI",
+  "title": "Introducing Operator",
+  "why": "title"
+ },
+ "openai.com/index/introducing-our-next-generation-audio-models": {
+  "lab": "OpenAI",
+  "title": "Introducing next-generation audio models in the API",
+  "why": "title"
+ },
+ "openai.com/index/introducing-parental-controls": {
+  "lab": "OpenAI",
+  "title": "Introducing parental controls",
+  "why": "title"
+ },
+ "openai.com/index/introducing-prism": {
+  "lab": "OpenAI",
+  "title": "Introducing Prism",
+  "why": "title"
+ },
+ "openai.com/index/introducing-simpleqa": {
+  "lab": "OpenAI",
+  "title": "Introducing SimpleQA",
+  "why": "title"
+ },
+ "openai.com/index/introducing-stargate-norway": {
+  "lab": "OpenAI",
+  "title": "Introducing Stargate Norway",
+  "why": "title"
+ },
+ "openai.com/index/introducing-stargate-uae": {
+  "lab": "OpenAI",
+  "title": "Introducing Stargate UAE",
+  "why": "title"
+ },
+ "openai.com/index/introducing-stargate-uk": {
+  "lab": "OpenAI",
+  "title": "Introducing Stargate UK",
+  "why": "title"
+ },
+ "openai.com/index/introducing-structured-outputs-in-the-api": {
+  "lab": "OpenAI",
+  "title": "Introducing Structured Outputs in the API",
+  "why": "title"
+ },
+ "openai.com/index/introducing-swe-bench-verified": {
+  "lab": "OpenAI",
+  "title": "Introducing SWE-bench Verified",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-adoption-news-channel": {
+  "lab": "OpenAI",
+  "title": "Introducing the Adoption news channel",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-agents-api": {
+  "lab": "OpenAI",
+  "title": "Introducing the Agents API",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-chatgpt-app-for-ios": {
+  "lab": "OpenAI",
+  "title": "Introducing the ChatGPT app for iOS",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-codex-app": {
+  "lab": "OpenAI",
+  "title": "Introducing the Codex app",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-gpt-store": {
+  "lab": "OpenAI",
+  "title": "Introducing the GPT Store",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-model-spec": {
+  "lab": "OpenAI",
+  "title": "Introducing the Model Spec",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-openai-economic-research-exchange": {
+  "lab": "OpenAI",
+  "title": "Introducing the OpenAI Economic Research Exchange",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-realtime-api": {
+  "lab": "OpenAI",
+  "title": "Introducing the Realtime API",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-rosalind-academic-plan": {
+  "lab": "OpenAI",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock": {
+  "lab": "OpenAI",
+  "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+  "why": "title"
+ },
+ "openai.com/index/introducing-the-teen-safety-blueprint": {
+  "lab": "OpenAI",
+  "title": "Introducing the Teen Safety Blueprint",
+  "why": "title"
+ },
+ "openai.com/index/introducing-trusted-contact-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Introducing Trusted Contact in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/introducing-upgrades-to-codex": {
+  "lab": "OpenAI",
+  "title": "Introducing upgrades to Codex",
+  "why": "title"
+ },
+ "openai.com/index/introducing-vision-to-the-fine-tuning-api": {
+  "lab": "OpenAI",
+  "title": "Introducing vision to the fine-tuning API",
+  "why": "title"
+ },
+ "openai.com/index/introducing-workspace-agents-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Introducing workspace agents in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/intuit-partnership": {
+  "lab": "OpenAI",
+  "title": "Intuit and OpenAI join forces on new AI-powered experiences",
+  "why": "title"
+ },
+ "openai.com/index/investing-in-merge-labs": {
+  "lab": "OpenAI",
+  "title": "Investing in Merge Labs",
+  "why": "title"
+ },
+ "openai.com/index/invideo-ai": {
+  "lab": "OpenAI",
+  "title": "Invideo AI uses OpenAI models to create videos 10x faster",
+  "why": "title"
+ },
+ "openai.com/index/invideo-builds-with-gpt-6-astra": {
+  "lab": "OpenAI",
+  "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/inworld-ai-do-not-publish": {
+  "lab": "OpenAI",
+  "title": "Creating next-gen characters",
+  "why": "title"
+ },
+ "openai.com/index/ironclad": {
+  "lab": "OpenAI",
+  "title": "Simplifying contract reviews with AI",
+  "why": "title"
+ },
+ "openai.com/index/itau-generative-ai": {
+  "lab": "OpenAI",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "why": "title"
+ },
+ "openai.com/index/jakub-pachocki-announced-as-chief-scientist": {
+  "lab": "OpenAI",
+  "title": "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist",
+  "why": "title"
+ },
+ "openai.com/index/jalapeno-first-results": {
+  "lab": "OpenAI",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "why": "title"
+ },
+ "openai.com/index/japan-economic-blueprint": {
+  "lab": "OpenAI",
+  "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+  "why": "title"
+ },
+ "openai.com/index/japan-teen-safety-blueprint": {
+  "lab": "OpenAI",
+  "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+  "why": "title"
+ },
+ "openai.com/index/jetbrains": {
+  "lab": "OpenAI",
+  "title": "Embedding AI into developer software",
+  "why": "title"
+ },
+ "openai.com/index/jetbrains-2025": {
+  "lab": "OpenAI",
+  "title": "Inside JetBrains—the company reshaping how the world writes code",
+  "why": "title"
+ },
+ "openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+  "lab": "OpenAI",
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "why": "title"
+ },
+ "openai.com/index/jiostar-vijay-seshadri": {
+  "lab": "OpenAI",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "why": "title"
+ },
+ "openai.com/index/john-deere-justin-rose": {
+  "lab": "OpenAI",
+  "title": "AI helps John Deere transform agriculture",
+  "why": "title"
+ },
+ "openai.com/index/joint-statement-from-openai-and-microsoft": {
+  "lab": "OpenAI",
+  "title": "A joint statement from OpenAI and Microsoft",
+  "why": "title"
+ },
+ "openai.com/index/jump-trading": {
+  "lab": "OpenAI",
+  "title": "How Jump Trading is scaling quant research with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/k-12-educators-practical-skills": {
+  "lab": "OpenAI",
+  "title": "Helping K–12 educators build practical AI skills",
+  "why": "title"
+ },
+ "openai.com/index/khan-academy": {
+  "lab": "OpenAI",
+  "title": "Powering virtual education for the classroom",
+  "why": "title"
+ },
+ "openai.com/index/klarna": {
+  "lab": "OpenAI",
+  "title": "Klarna's AI assistant does the work of 700 full-time agents",
+  "why": "title"
+ },
+ "openai.com/index/kuken": {
+  "lab": "OpenAI",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "why": "title"
+ },
+ "openai.com/index/language-models-can-explain-neurons-in-language-models": {
+  "lab": "OpenAI",
+  "title": "Language models can explain neurons in language models",
+  "why": "title"
+ },
+ "openai.com/index/launchdarkly-claire-vo": {
+  "lab": "OpenAI",
+  "title": "LaunchDarkly's approach to AI-powered product management",
+  "why": "title"
+ },
+ "openai.com/index/launching-sora-responsibly": {
+  "lab": "OpenAI",
+  "title": "Launching Sora responsibly",
+  "why": "title"
+ },
+ "openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+  "lab": "OpenAI",
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/leadership-expansion-with-fidji-simo": {
+  "lab": "OpenAI",
+  "title": "OpenAI Expands Leadership with Fidji Simo",
+  "why": "title"
+ },
+ "openai.com/index/leadership-updates-march-2025": {
+  "lab": "OpenAI",
+  "title": "Leadership updates",
+  "why": "title"
+ },
+ "openai.com/index/learn-teach-chatgpt-work-codex": {
+  "lab": "OpenAI",
+  "title": "New ways to learn and teach with ChatGPT Work and Codex",
+  "why": "title"
+ },
+ "openai.com/index/learning-never-stops": {
+  "lab": "OpenAI",
+  "title": "Learning never stops: How AI makes learning continuous",
+  "why": "title"
+ },
+ "openai.com/index/learning-to-reason-with-llms": {
+  "lab": "OpenAI",
+  "title": "Learning to reason with LLMs",
+  "why": "title"
+ },
+ "openai.com/index/legalon-halves-codex-costs": {
+  "lab": "OpenAI",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "why": "title"
+ },
+ "openai.com/index/legora": {
+  "lab": "OpenAI",
+  "title": "Legora is building the agentic operating system for legal work",
+  "why": "title"
+ },
+ "openai.com/index/legora-financial-statement-review-with-astra": {
+  "lab": "OpenAI",
+  "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/lenfest-ai-collaborative-expansion": {
+  "lab": "OpenAI",
+  "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+  "why": "title"
+ },
+ "openai.com/index/lenfest-institute": {
+  "lab": "OpenAI",
+  "title": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
+  "why": "title"
+ },
+ "openai.com/index/lifespan": {
+  "lab": "OpenAI",
+  "title": "Improving health literacy and patient well-being",
+  "why": "title"
+ },
+ "openai.com/index/lifeval": {
+  "lab": "OpenAI",
+  "title": "LifeVal",
+  "why": "title"
+ },
+ "openai.com/index/localiza-generative-ai": {
+  "lab": "OpenAI",
+  "title": "How Localiza reorganized work around generative AI",
+  "why": "title"
+ },
+ "openai.com/index/loveholidays": {
+  "lab": "OpenAI",
+  "title": "How loveholidays is making everyone a builder with Codex",
+  "why": "title"
+ },
+ "openai.com/index/low-resource-programming-languages": {
+  "lab": "OpenAI",
+  "title": "Advancing coding in low‑resource programming languages",
+  "why": "title"
+ },
+ "openai.com/index/lowes": {
+  "lab": "OpenAI",
+  "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/lowes-chandhu-nair": {
+  "lab": "OpenAI",
+  "title": "Lowe’s leverages AI to power home improvement retail",
+  "why": "title"
+ },
+ "openai.com/index/lseg": {
+  "lab": "OpenAI",
+  "title": "From data to decisions: how LSEG is scaling trusted AI",
+  "why": "title"
+ },
+ "openai.com/index/lvmh-media-division-partnership": {
+  "lab": "OpenAI",
+  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/ly-corporation": {
+  "lab": "OpenAI",
+  "title": "Driving growth and ‘WOW’ moments with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/making-chatgpt-better-for-clinicians": {
+  "lab": "OpenAI",
+  "title": "Making ChatGPT better for clinicians",
+  "why": "title"
+ },
+ "openai.com/index/malta-chatgpt-plus-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+  "why": "title"
+ },
+ "openai.com/index/managing-ai-investments-in-agentic-era": {
+  "lab": "OpenAI",
+  "title": "How to manage AI investments in the agentic era",
+  "why": "title"
+ },
+ "openai.com/index/managing-frontier-ai-risk": {
+  "lab": "OpenAI",
+  "title": "Managing frontier AI risk: From training to deployment",
+  "why": "title"
+ },
+ "openai.com/index/mapping-ai-jobs-transition-eu": {
+  "lab": "OpenAI",
+  "title": "Mapping Europe’s AI Workforce Opportunity",
+  "why": "title"
+ },
+ "openai.com/index/march-20-chatgpt-outage": {
+  "lab": "OpenAI",
+  "title": "March 20 ChatGPT outage: Here’s what happened",
+  "why": "title"
+ },
+ "openai.com/index/march-funding-updates": {
+  "lab": "OpenAI",
+  "title": "New funding to build towards AGI",
+  "why": "title"
+ },
+ "openai.com/index/match-group": {
+  "lab": "OpenAI",
+  "title": "Sparking a more productive company with ChatGPT Enterprise",
+  "why": "title"
+ },
+ "openai.com/index/mattels-iconic-brands": {
+  "lab": "OpenAI",
+  "title": "Bringing the magic of AI to Mattel’s iconic brands",
+  "why": "title"
+ },
+ "openai.com/index/mavenagi": {
+  "lab": "OpenAI",
+  "title": "Automating customer support agents",
+  "why": "title"
+ },
+ "openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+  "lab": "OpenAI",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "why": "title"
+ },
+ "openai.com/index/memory-and-new-controls-for-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Memory and new controls for ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/mercado-libre": {
+  "lab": "OpenAI",
+  "title": "Introducing Verdi, an AI dev platform powered by GPT-4o",
+  "why": "title"
+ },
+ "openai.com/index/mercari": {
+  "lab": "OpenAI",
+  "title": "Supporting sellers with enhanced product listings",
+  "why": "title"
+ },
+ "openai.com/index/merge-builds-with-openai": {
+  "lab": "OpenAI",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "why": "title"
+ },
+ "openai.com/index/mirakl": {
+  "lab": "OpenAI",
+  "title": "Inside Mirakl's agentic commerce vision",
+  "why": "title"
+ },
+ "openai.com/index/mixi": {
+  "lab": "OpenAI",
+  "title": "Mixi reimagines communication with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/mixpanel-incident": {
+  "lab": "OpenAI",
+  "title": "Mixpanel security incident: what OpenAI users need to know",
+  "why": "title"
+ },
+ "openai.com/index/mle-bench": {
+  "lab": "OpenAI",
+  "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+  "why": "title"
+ },
+ "openai.com/index/model-disproves-discrete-geometry-conjecture": {
+  "lab": "OpenAI",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "why": "title"
+ },
+ "openai.com/index/model-misalignment-reporting-framework": {
+  "lab": "OpenAI",
+  "title": "Our framework for reporting model misalignment",
+  "why": "title"
+ },
+ "openai.com/index/model-ml": {
+  "lab": "OpenAI",
+  "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+  "why": "title"
+ },
+ "openai.com/index/model-ml-chaz-englander": {
+  "lab": "OpenAI",
+  "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+  "why": "title"
+ },
+ "openai.com/index/modeling-ai-jobs-transition": {
+  "lab": "OpenAI",
+  "title": "Modeling an AI jobs transition",
+  "why": "title"
+ },
+ "openai.com/index/moderna": {
+  "lab": "OpenAI",
+  "title": "Accelerating the development of life-saving treatments",
+  "why": "title"
+ },
+ "openai.com/index/more-enterprise-grade-features-for-api-customers": {
+  "lab": "OpenAI",
+  "title": "Introducing more enterprise-grade features for API customers",
+  "why": "title"
+ },
+ "openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+  "lab": "OpenAI",
+  "title": "More ways to move care forward with ChatGPT for Healthcare",
+  "why": "title"
+ },
+ "openai.com/index/more-ways-to-work-with-your-team": {
+  "lab": "OpenAI",
+  "title": "More ways to work with your team and tools in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/morgan-stanley": {
+  "lab": "OpenAI",
+  "title": "Morgan Stanley is shaping the future of financial services",
+  "why": "title"
+ },
+ "openai.com/index/moving-ai-governance-forward": {
+  "lab": "OpenAI",
+  "title": "Moving AI governance forward",
+  "why": "title"
+ },
+ "openai.com/index/mrc-supercomputer-networking": {
+  "lab": "OpenAI",
+  "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+  "why": "title"
+ },
+ "openai.com/index/mufg": {
+  "lab": "OpenAI",
+  "title": "MUFG aims to become AI-native with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/my-dog-the-math-tutor": {
+  "lab": "OpenAI",
+  "title": "Building a custom math tutor powered by ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/navier-stokes-solution": {
+  "lab": "OpenAI",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "why": "title"
+ },
+ "openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices": {
+  "lab": "OpenAI",
+  "title": "Navigating the challenges and opportunities of synthetic voices",
+  "why": "title"
+ },
+ "openai.com/index/netomi": {
+  "lab": "OpenAI",
+  "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+  "why": "title"
+ },
+ "openai.com/index/neurogum": {
+  "lab": "OpenAI",
+  "title": "Neuro drives national retail wins with ChatGPT Business",
+  "why": "title"
+ },
+ "openai.com/index/new-ai-classifier-for-indicating-ai-written-text": {
+  "lab": "OpenAI",
+  "title": "New AI classifier for indicating AI-written text",
+  "why": "title"
+ },
+ "openai.com/index/new-chatgpt-ads-format-and-measurement": {
+  "lab": "OpenAI",
+  "title": "Building advertising for the way people use AI",
+  "why": "title"
+ },
+ "openai.com/index/new-credit-facility-enhances-financial-flexibility": {
+  "lab": "OpenAI",
+  "title": "New Credit Facility Enhances Financial Flexibility",
+  "why": "title"
+ },
+ "openai.com/index/new-embedding-models-and-api-updates": {
+  "lab": "OpenAI",
+  "title": "New embedding models and API updates",
+  "why": "title"
+ },
+ "openai.com/index/new-models-and-developer-products-announced-at-devday": {
+  "lab": "OpenAI",
+  "title": "New models and developer products announced at DevDay",
+  "why": "title"
+ },
+ "openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+  "lab": "OpenAI",
+  "title": "New policy ideas for the Intelligence Age",
+  "why": "title"
+ },
+ "openai.com/index/new-result-theoretical-physics": {
+  "lab": "OpenAI",
+  "title": "GPT-5.2 derives a new result in theoretical physics",
+  "why": "title"
+ },
+ "openai.com/index/new-tools-and-features-in-the-responses-api": {
+  "lab": "OpenAI",
+  "title": "New tools and features in the Responses API",
+  "why": "title"
+ },
+ "openai.com/index/new-tools-for-building-agents": {
+  "lab": "OpenAI",
+  "title": "New tools for building agents",
+  "why": "title"
+ },
+ "openai.com/index/new-tools-for-chatgpt-enterprise": {
+  "lab": "OpenAI",
+  "title": "New compliance and administrative tools for ChatGPT Enterprise",
+  "why": "title"
+ },
+ "openai.com/index/new-ways-to-buy-chatgpt-ads": {
+  "lab": "OpenAI",
+  "title": "New ways to buy ChatGPT ads",
+  "why": "title"
+ },
+ "openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "New ways to learn math and science in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/new-ways-to-manage-your-data-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "New ways to manage your data in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership": {
+  "lab": "OpenAI",
+  "title": "A landmark multi-year global partnership with News Corp",
+  "why": "title"
+ },
+ "openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra": {
+  "lab": "OpenAI",
+  "title": "The Newsroom AI Catalyst: a global program with WAN-IFRA",
+  "why": "title"
+ },
+ "openai.com/index/next-chapter-of-microsoft-openai-partnership": {
+  "lab": "OpenAI",
+  "title": "The next chapter of the Microsoft–OpenAI partnership",
+  "why": "title"
+ },
+ "openai.com/index/next-phase-of-enterprise-ai": {
+  "lab": "OpenAI",
+  "title": "The next phase of enterprise AI",
+  "why": "title"
+ },
+ "openai.com/index/next-phase-of-microsoft-partnership": {
+  "lab": "OpenAI",
+  "title": "The next phase of the Microsoft OpenAI partnership",
+  "why": "title"
+ },
+ "openai.com/index/nextdoor": {
+  "lab": "OpenAI",
+  "title": "How engineers at Nextdoor use Codex to build without limits",
+  "why": "title"
+ },
+ "openai.com/index/nonprofit-commission-advisors": {
+  "lab": "OpenAI",
+  "title": "OpenAI announces nonprofit commission advisors",
+  "why": "title"
+ },
+ "openai.com/index/nonprofit-commission-guidance": {
+  "lab": "OpenAI",
+  "title": "New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit",
+  "why": "title"
+ },
+ "openai.com/index/nonprofit-commission-report": {
+  "lab": "OpenAI",
+  "title": "Statement from the OpenAI Board of Directors on the Nonprofit Commission Report",
+  "why": "title"
+ },
+ "openai.com/index/norad-holiday-collaboration": {
+  "lab": "OpenAI",
+  "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+  "why": "title"
+ },
+ "openai.com/index/notion": {
+  "lab": "OpenAI",
+  "title": "What Codex unlocks for Notion",
+  "why": "title"
+ },
+ "openai.com/index/ntt-data": {
+  "lab": "OpenAI",
+  "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+  "why": "title"
+ },
+ "openai.com/index/nubank": {
+  "lab": "OpenAI",
+  "title": "Nubank elevates customer experiences with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/nvidia": {
+  "lab": "OpenAI",
+  "title": "How NVIDIA engineers and researchers build with Codex",
+  "why": "title"
+ },
+ "openai.com/index/nvidia/chatgpt-work": {
+  "lab": "OpenAI",
+  "title": "How NVIDIA scales expertise with ChatGPT Work",
+  "why": "title"
+ },
+ "openai.com/index/o1-and-new-tools-for-developers": {
+  "lab": "OpenAI",
+  "title": "OpenAI o1 and new tools for developers",
+  "why": "title"
+ },
+ "openai.com/index/o1-coding": {
+  "lab": "OpenAI",
+  "title": "Coding with OpenAI o1",
+  "why": "title"
+ },
+ "openai.com/index/o1-economics": {
+  "lab": "OpenAI",
+  "title": "Economics and reasoning with OpenAI o1",
+  "why": "title"
+ },
+ "openai.com/index/o1-genetics": {
+  "lab": "OpenAI",
+  "title": "Decoding genetics with OpenAI o1",
+  "why": "title"
+ },
+ "openai.com/index/o1-quantum-physics": {
+  "lab": "OpenAI",
+  "title": "Answering quantum physics questions with OpenAI o1",
+  "why": "title"
+ },
+ "openai.com/index/o3-mini-system-card": {
+  "lab": "OpenAI",
+  "title": "OpenAI o3-mini System Card",
+  "why": "title"
+ },
+ "openai.com/index/o3-o4-mini-codex-system-card-addendum": {
+  "lab": "OpenAI",
+  "title": "Addendum to o3 and o4-mini system card: Codex",
+  "why": "title"
+ },
+ "openai.com/index/o3-o4-mini-system-card": {
+  "lab": "OpenAI",
+  "title": "OpenAI o3 and o4-mini System Card",
+  "why": "title"
+ },
+ "openai.com/index/o3-o4-mini-system-card-addendum-operator-o3": {
+  "lab": "OpenAI",
+  "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
+  "why": "title"
+ },
+ "openai.com/index/offering-zero-data-retention-for-frontier-models": {
+  "lab": "OpenAI",
+  "title": "Offering Zero Data Retention for frontier models",
+  "why": "title"
+ },
+ "openai.com/index/omio": {
+  "lab": "OpenAI",
+  "title": "How Omio is building the future of conversational travel",
+  "why": "title"
+ },
+ "openai.com/index/one-in-a-million-customers": {
+  "lab": "OpenAI",
+  "title": "One in a million: celebrating the customers shaping AI’s future",
+  "why": "title"
+ },
+ "openai.com/index/open-source-codex-orchestration-symphony": {
+  "lab": "OpenAI",
+  "title": "An open-source spec for orchestration: Symphony",
+  "why": "title"
+ },
+ "openai.com/index/openai-academy-for-news-organizations": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI Academy for News Organizations",
+  "why": "title"
+ },
+ "openai.com/index/openai-acquires-global-illumination": {
+  "lab": "OpenAI",
+  "title": "OpenAI acquires Global Illumination",
+  "why": "title"
+ },
+ "openai.com/index/openai-acquires-rockset": {
+  "lab": "OpenAI",
+  "title": "OpenAI acquires Rockset",
+  "why": "title"
+ },
+ "openai.com/index/openai-acquires-software-applications-incorporated": {
+  "lab": "OpenAI",
+  "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+  "why": "title"
+ },
+ "openai.com/index/openai-acquires-tbpn": {
+  "lab": "OpenAI",
+  "title": "OpenAI acquires TBPN",
+  "why": "title"
+ },
+ "openai.com/index/openai-amd-strategic-partnership": {
+  "lab": "OpenAI",
+  "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": {
+  "lab": "OpenAI",
+  "title": "Working with the American Psychological Association on youth mental health and AI",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-apple-announce-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Apple announce partnership",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-broadcom-announce-strategic-collaboration": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-foxconn-collaborate": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-future-partner-on-specialist-content": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Future partner on specialist content",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-guardian-media-group-launch-content-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Guardian Media Group launch content partnership",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-journalism": {
+  "lab": "OpenAI",
+  "title": "OpenAI and journalism",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-los-alamos-national-laboratory-work-together": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-microsoft-extend-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Microsoft extend partnership",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-reddit-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Reddit Partnership",
+  "why": "title"
+ },
+ "openai.com/index/openai-and-the-csu-system": {
+  "lab": "OpenAI",
+  "title": "OpenAI and the CSU system bring AI to 500,000 students & faculty",
+  "why": "title"
+ },
+ "openai.com/index/openai-announces-leadership-transition": {
+  "lab": "OpenAI",
+  "title": "OpenAI announces leadership transition",
+  "why": "title"
+ },
+ "openai.com/index/openai-announces-new-members-to-board-of-directors": {
+  "lab": "OpenAI",
+  "title": "OpenAI announces new members to board of directors",
+  "why": "title"
+ },
+ "openai.com/index/openai-anthropic-safety-evaluation": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
+  "why": "title"
+ },
+ "openai.com/index/openai-appoints-denise-dresser": {
+  "lab": "OpenAI",
+  "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+  "why": "title"
+ },
+ "openai.com/index/openai-appoints-retired-us-army-general": {
+  "lab": "OpenAI",
+  "title": "OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors",
+  "why": "title"
+ },
+ "openai.com/index/openai-available-at-fedramp-moderate": {
+  "lab": "OpenAI",
+  "title": "OpenAI available at FedRAMP Moderate",
+  "why": "title"
+ },
+ "openai.com/index/openai-board-forms-safety-and-security-committee": {
+  "lab": "OpenAI",
+  "title": "OpenAI Board Forms Safety and Security Committee",
+  "why": "title"
+ },
+ "openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+  "why": "title"
+ },
+ "openai.com/index/openai-campus-network-student-club-interest-form": {
+  "lab": "OpenAI",
+  "title": "OpenAI Campus Network: Student club interest form",
+  "why": "title"
+ },
+ "openai.com/index/openai-certificate-courses": {
+  "lab": "OpenAI",
+  "title": "Launching our first OpenAI Certifications courses",
+  "why": "title"
+ },
+ "openai.com/index/openai-contract-data-agent": {
+  "lab": "OpenAI",
+  "title": "Turning contracts into searchable data at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/openai-cut-incident-investigation": {
+  "lab": "OpenAI",
+  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/openai-cybersecurity-grant-program": {
+  "lab": "OpenAI",
+  "title": "OpenAI Cybersecurity Grant Program",
+  "why": "title"
+ },
+ "openai.com/index/openai-deutschland": {
+  "lab": "OpenAI",
+  "title": "OpenAI Deutschland",
+  "why": "title"
+ },
+ "openai.com/index/openai-elon-musk": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Elon Musk",
+  "why": "title"
+ },
+ "openai.com/index/openai-en-france": {
+  "lab": "OpenAI",
+  "title": "OpenAI en France",
+  "why": "title"
+ },
+ "openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+  "lab": "OpenAI",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "why": "title"
+ },
+ "openai.com/index/openai-for-healthcare": {
+  "lab": "OpenAI",
+  "title": "OpenAI for Healthcare",
+  "why": "title"
+ },
+ "openai.com/index/openai-for-india": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI for India",
+  "why": "title"
+ },
+ "openai.com/index/openai-for-ireland": {
+  "lab": "OpenAI",
+  "title": "Introducing OpenAI for Ireland",
+  "why": "title"
+ },
+ "openai.com/index/openai-frontier-governance-framework": {
+  "lab": "OpenAI",
+  "title": "OpenAI’s Frontier Governance Framework",
+  "why": "title"
+ },
+ "openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+  "lab": "OpenAI",
+  "title": "OpenAI frontier models and Codex are now available on AWS",
+  "why": "title"
+ },
+ "openai.com/index/openai-grove": {
+  "lab": "OpenAI",
+  "title": "Announcing OpenAI Grove Cohort 2",
+  "why": "title"
+ },
+ "openai.com/index/openai-gtm-assistant": {
+  "lab": "OpenAI",
+  "title": "Driving sales productivity and customer success at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/openai-inbound-sales-assistant": {
+  "lab": "OpenAI",
+  "title": "Converting inbound leads into customers at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/openai-joins-ports-pike-project": {
+  "lab": "OpenAI",
+  "title": "OpenAI joins PORTS-Pike project",
+  "why": "title"
+ },
+ "openai.com/index/openai-launches-the-deployment-company": {
+  "lab": "OpenAI",
+  "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+  "why": "title"
+ },
+ "openai.com/index/openai-models-google-cloud": {
+  "lab": "OpenAI",
+  "title": "OpenAI models are coming to Google Cloud",
+  "why": "title"
+ },
+ "openai.com/index/openai-nask-ai-safety-security-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "why": "title"
+ },
+ "openai.com/index/openai-nvidia-systems-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+  "why": "title"
+ },
+ "openai.com/index/openai-o1-system-card": {
+  "lab": "OpenAI",
+  "title": "OpenAI o1 System Card",
+  "why": "title"
+ },
+ "openai.com/index/openai-on-aws": {
+  "lab": "OpenAI",
+  "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+  "why": "title"
+ },
+ "openai.com/index/openai-on-oracle-cloud": {
+  "lab": "OpenAI",
+  "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+  "why": "title"
+ },
+ "openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models": {
+  "lab": "OpenAI",
+  "title": "OpenAI partners with Scale to provide support for enterprises fine-tuning models",
+  "why": "title"
+ },
+ "openai.com/index/openai-partners-with-schibsted-media-group": {
+  "lab": "OpenAI",
+  "title": "OpenAI partners with Schibsted Media Group",
+  "why": "title"
+ },
+ "openai.com/index/openai-pioneers-program": {
+  "lab": "OpenAI",
+  "title": "OpenAI Pioneers Program",
+  "why": "title"
+ },
+ "openai.com/index/openai-pwc-finance-collaboration": {
+  "lab": "OpenAI",
+  "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+  "why": "title"
+ },
+ "openai.com/index/openai-research-assistant": {
+  "lab": "OpenAI",
+  "title": "Empowering teams to unlock insights faster at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/openai-safety-update": {
+  "lab": "OpenAI",
+  "title": "OpenAI safety practices",
+  "why": "title"
+ },
+ "openai.com/index/openai-servicenow-partnership-expansion": {
+  "lab": "OpenAI",
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "why": "title"
+ },
+ "openai.com/index/openai-submits-confidential-s-1": {
+  "lab": "OpenAI",
+  "title": "Confidential submission of draft S-1 to the SEC",
+  "why": "title"
+ },
+ "openai.com/index/openai-support-model": {
+  "lab": "OpenAI",
+  "title": "Improving support with every interaction at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/openai-to-acquire-astral": {
+  "lab": "OpenAI",
+  "title": "OpenAI to acquire Astral",
+  "why": "title"
+ },
+ "openai.com/index/openai-to-acquire-neptune": {
+  "lab": "OpenAI",
+  "title": "OpenAI to acquire Neptune",
+  "why": "title"
+ },
+ "openai.com/index/openai-to-acquire-ona": {
+  "lab": "OpenAI",
+  "title": "OpenAI to acquire Ona",
+  "why": "title"
+ },
+ "openai.com/index/openai-to-acquire-orchestra-bio": {
+  "lab": "OpenAI",
+  "title": "OpenAI acquires Orchestra Bio",
+  "why": "title"
+ },
+ "openai.com/index/openai-to-acquire-pierre": {
+  "lab": "OpenAI",
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "why": "title"
+ },
+ "openai.com/index/openai-to-acquire-promptfoo": {
+  "lab": "OpenAI",
+  "title": "OpenAI to acquire Promptfoo",
+  "why": "title"
+ },
+ "openai.com/index/openai-welcomes-cfo-cpo": {
+  "lab": "OpenAI",
+  "title": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+  "why": "title"
+ },
+ "openai.com/index/operator-system-card": {
+  "lab": "OpenAI",
+  "title": "Operator System Card",
+  "why": "title"
+ },
+ "openai.com/index/optimizing-chatgpt": {
+  "lab": "OpenAI",
+  "title": "What we’re optimizing ChatGPT for",
+  "why": "title"
+ },
+ "openai.com/index/oracle": {
+  "lab": "OpenAI",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "why": "title"
+ },
+ "openai.com/index/oracle-apps-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/oscar": {
+  "lab": "OpenAI",
+  "title": "Reducing health insurance costs and improving care",
+  "why": "title"
+ },
+ "openai.com/index/our-agreement-with-the-department-of-war": {
+  "lab": "OpenAI",
+  "title": "Our agreement with the Department of War",
+  "why": "title"
+ },
+ "openai.com/index/our-approach-to-advertising-and-expanding-access": {
+  "lab": "OpenAI",
+  "title": "Our approach to advertising and expanding access to ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/our-approach-to-age-prediction": {
+  "lab": "OpenAI",
+  "title": "Our approach to age prediction",
+  "why": "title"
+ },
+ "openai.com/index/our-approach-to-ai-safety": {
+  "lab": "OpenAI",
+  "title": "Our approach to AI safety",
+  "why": "title"
+ },
+ "openai.com/index/our-approach-to-localization": {
+  "lab": "OpenAI",
+  "title": "Making AI work for everyone, everywhere: our approach to localization",
+  "why": "title"
+ },
+ "openai.com/index/our-approach-to-the-model-spec": {
+  "lab": "OpenAI",
+  "title": "Inside our approach to the Model Spec",
+  "why": "title"
+ },
+ "openai.com/index/our-commitment-to-community-safety": {
+  "lab": "OpenAI",
+  "title": "Our commitment to community safety",
+  "why": "title"
+ },
+ "openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+  "lab": "OpenAI",
+  "title": "Our decision on Cursor following its acquisition by SpaceX",
+  "why": "title"
+ },
+ "openai.com/index/our-first-phase-of-embedded-assessments": {
+  "lab": "OpenAI",
+  "title": "Our first phase of embedded assessments",
+  "why": "title"
+ },
+ "openai.com/index/our-new-blog-for-science": {
+  "lab": "OpenAI",
+  "title": "Our new blog for science",
+  "why": "title"
+ },
+ "openai.com/index/our-principles": {
+  "lab": "OpenAI",
+  "title": "Our principles",
+  "why": "title"
+ },
+ "openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
+  "lab": "OpenAI",
+  "title": "Our response to the TanStack npm supply chain attack",
+  "why": "title"
+ },
+ "openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
+  "lab": "OpenAI",
+  "title": "Our views on AI policy and political advocacy",
+  "why": "title"
+ },
+ "openai.com/index/outtake": {
+  "lab": "OpenAI",
+  "title": "Resolving digital threats 100x faster with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/pacific-northwest-national-laboratory": {
+  "lab": "OpenAI",
+  "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+  "why": "title"
+ },
+ "openai.com/index/pacing-model-development-cyber-capabilities": {
+  "lab": "OpenAI",
+  "title": "Pacing model development in an era of cyber-critical capabilities",
+  "why": "title"
+ },
+ "openai.com/index/paf": {
+  "lab": "OpenAI",
+  "title": "Surging developer productivity with custom GPTs",
+  "why": "title"
+ },
+ "openai.com/index/paperbench": {
+  "lab": "OpenAI",
+  "title": "PaperBench: Evaluating AI’s Ability to Replicate AI Research",
+  "why": "title"
+ },
+ "openai.com/index/paradigm": {
+  "lab": "OpenAI",
+  "title": "Using AI to improve patient access to clinical trials",
+  "why": "title"
+ },
+ "openai.com/index/parallel-cuts-time-and-cost-with-astra": {
+  "lab": "OpenAI",
+  "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/parloa": {
+  "lab": "OpenAI",
+  "title": "Parloa builds service agents customers want to talk to",
+  "why": "title"
+ },
+ "openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry": {
+  "lab": "OpenAI",
+  "title": "Partnering with Axios expands OpenAI’s work with the news industry",
+  "why": "title"
+ },
+ "openai.com/index/partnering-with-codeai": {
+  "lab": "OpenAI",
+  "title": "Partnering with CodeAI to prepare the first AI generation",
+  "why": "title"
+ },
+ "openai.com/index/partnering-with-hacktron": {
+  "lab": "OpenAI",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "why": "title"
+ },
+ "openai.com/index/partnership-with-american-journalism-project-to-support-local-news": {
+  "lab": "OpenAI",
+  "title": "Partnership with American Journalism Project to support local news",
+  "why": "title"
+ },
+ "openai.com/index/patch-the-planet": {
+  "lab": "OpenAI",
+  "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+  "why": "title"
+ },
+ "openai.com/index/path-to-astra": {
+  "lab": "OpenAI",
+  "title": "Path to Astra: critical capabilities and frontier safeguards",
+  "why": "title"
+ },
+ "openai.com/index/paul-christiano-joins-openai-foundation-board": {
+  "lab": "OpenAI",
+  "title": "Paul Christiano joins OpenAI Foundation Board",
+  "why": "title"
+ },
+ "openai.com/index/people-first-ai-fund": {
+  "lab": "OpenAI",
+  "title": "A People-First AI Fund: $50M to support nonprofits",
+  "why": "title"
+ },
+ "openai.com/index/people-first-ai-fund-grantees": {
+  "lab": "OpenAI",
+  "title": "Announcing the initial People-First AI Fund grantees",
+  "why": "title"
+ },
+ "openai.com/index/perplexity-improving-accuracy-with-astra": {
+  "lab": "OpenAI",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "why": "title"
+ },
+ "openai.com/index/personal-finance-chatgpt": {
+  "lab": "OpenAI",
+  "title": "A new personal finance experience in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/philips": {
+  "lab": "OpenAI",
+  "title": "How Philips is scaling AI literacy across 70,000 employees",
+  "why": "title"
+ },
+ "openai.com/index/planning-for-agi-and-beyond": {
+  "lab": "OpenAI",
+  "title": "Planning for AGI and beyond",
+  "why": "title"
+ },
+ "openai.com/index/playco-game-prototyping-with-astra": {
+  "lab": "OpenAI",
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/plex-coffee": {
+  "lab": "OpenAI",
+  "title": "Plex Coffee delivers fast, personal service with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/podium": {
+  "lab": "OpenAI",
+  "title": "How Podium is arming 10,000+ SMBs with AI agents",
+  "why": "title"
+ },
+ "openai.com/index/polimill": {
+  "lab": "OpenAI",
+  "title": "Polimill builds Japan's next-generation public AI infrastructure",
+  "why": "title"
+ },
+ "openai.com/index/pollo-ai": {
+  "lab": "OpenAI",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/powering-product-discovery-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Powering product discovery in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/practical-guide-building-gpt-6": {
+  "lab": "OpenAI",
+  "title": "A model guide for the GPT-6 family",
+  "why": "title"
+ },
+ "openai.com/index/practices-for-governing-agentic-ai-systems": {
+  "lab": "OpenAI",
+  "title": "Practices for Governing Agentic AI Systems",
+  "why": "title"
+ },
+ "openai.com/index/praktika": {
+  "lab": "OpenAI",
+  "title": "Inside Praktika's conversational approach to language learning",
+  "why": "title"
+ },
+ "openai.com/index/prc-linked-influence-operations-ai-debates": {
+  "lab": "OpenAI",
+  "title": "PRC-linked influence operations are targeting AI debates in the US",
+  "why": "title"
+ },
+ "openai.com/index/premium-seats-chatgpt-business": {
+  "lab": "OpenAI",
+  "title": "Premium seats are coming to ChatGPT Business",
+  "why": "title"
+ },
+ "openai.com/index/preparing-for-future-ai-capabilities-in-biology": {
+  "lab": "OpenAI",
+  "title": "Preparing for future AI risks in biology",
+  "why": "title"
+ },
+ "openai.com/index/preparing-our-next-security-sprint-to-harden-openai": {
+  "lab": "OpenAI",
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/preply": {
+  "lab": "OpenAI",
+  "title": "How Preply combines AI and human tutors to personalize learning",
+  "why": "title"
+ },
+ "openai.com/index/previewing-gpt-5-6-sol": {
+  "lab": "OpenAI",
+  "title": "Previewing GPT-5.6 Sol: a next-generation model",
+  "why": "title"
+ },
+ "openai.com/index/previewing-ultrafast": {
+  "lab": "OpenAI",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "why": "title"
+ },
+ "openai.com/index/priorities-principles-third-party-assessments": {
+  "lab": "OpenAI",
+  "title": "Priorities and principles for effective third party assessments",
+  "why": "title"
+ },
+ "openai.com/index/proaction": {
+  "lab": "OpenAI",
+  "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+  "why": "title"
+ },
+ "openai.com/index/promega": {
+  "lab": "OpenAI",
+  "title": "Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
+  "why": "title"
+ },
+ "openai.com/index/prompt-injections": {
+  "lab": "OpenAI",
+  "title": "Understanding prompt injections: a frontier security challenge",
+  "why": "title"
+ },
+ "openai.com/index/prover-verifier-games-improve-legibility": {
+  "lab": "OpenAI",
+  "title": "Prover-Verifier Games improve legibility of language model outputs",
+  "why": "title"
+ },
+ "openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce": {
+  "lab": "OpenAI",
+  "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+  "why": "title"
+ },
+ "openai.com/index/public-policy-agenda": {
+  "lab": "OpenAI",
+  "title": "OpenAI public policy agenda",
+  "why": "title"
+ },
+ "openai.com/index/put-ai-to-work-for-your-product-team": {
+  "lab": "OpenAI",
+  "title": "Put AI to work for your product team",
+  "why": "title"
+ },
+ "openai.com/index/put-data-to-work": {
+  "lab": "OpenAI",
+  "title": "Now everyone can put data to work",
+  "why": "title"
+ },
+ "openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
+  "lab": "OpenAI",
+  "title": "Putting frontier cyber models in more trusted hands",
+  "why": "title"
+ },
+ "openai.com/index/pvh-future-of-fashion": {
+  "lab": "OpenAI",
+  "title": "PVH reimagines the future of fashion with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/qodo-codex-plugin": {
+  "lab": "OpenAI",
+  "title": "Qodo builds context into AI code review with Codex",
+  "why": "title"
+ },
+ "openai.com/index/radisson": {
+  "lab": "OpenAI",
+  "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/rakuten": {
+  "lab": "OpenAI",
+  "title": "Rakuten fixes issues twice as fast with Codex",
+  "why": "title"
+ },
+ "openai.com/index/rakuten-2024": {
+  "lab": "OpenAI",
+  "title": "Pairing data with APIs to unlock customer value",
+  "why": "title"
+ },
+ "openai.com/index/ramp": {
+  "lab": "OpenAI",
+  "title": "How Ramp engineers accelerate code review with Codex",
+  "why": "title"
+ },
+ "openai.com/index/reasoning-models-chain-of-thought-controllability": {
+  "lab": "OpenAI",
+  "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+  "why": "title"
+ },
+ "openai.com/index/red-teaming-network": {
+  "lab": "OpenAI",
+  "title": "OpenAI Red Teaming Network",
+  "why": "title"
+ },
+ "openai.com/index/reimagining-advertising-with-ai": {
+  "lab": "OpenAI",
+  "title": "Reimagining advertising with AI",
+  "why": "title"
+ },
+ "openai.com/index/replit": {
+  "lab": "OpenAI",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "why": "title"
+ },
+ "openai.com/index/research-acceleration-jagged-frontier": {
+  "lab": "OpenAI",
+  "title": "Research acceleration: The jagged frontier",
+  "why": "title"
+ },
+ "openai.com/index/research-acceleration-view-inside-openai": {
+  "lab": "OpenAI",
+  "title": "Research acceleration: The view inside OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+  "lab": "OpenAI",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "why": "title"
+ },
+ "openai.com/index/response-to-nyt-data-demands": {
+  "lab": "OpenAI",
+  "title": "How we’re responding to The New York Times’ data demands in order to protect user privacy",
+  "why": "title"
+ },
+ "openai.com/index/responsible-ai-infrastructure-texas": {
+  "lab": "OpenAI",
+  "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+  "why": "title"
+ },
+ "openai.com/index/retell-ai": {
+  "lab": "OpenAI",
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "why": "title"
+ },
+ "openai.com/index/retiring-gpt-4o-and-older-models": {
+  "lab": "OpenAI",
+  "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/retool": {
+  "lab": "OpenAI",
+  "title": "Building AI-powered apps for business",
+  "why": "title"
+ },
+ "openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai": {
+  "lab": "OpenAI",
+  "title": "Review completed & Altman, Brockman to continue to lead OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+  "lab": "OpenAI",
+  "title": "Rewarding defenders with bigger bug bounties",
+  "why": "title"
+ },
+ "openai.com/index/ringcentral": {
+  "lab": "OpenAI",
+  "title": "How RingCentral builds AI-native work from engineering to ops",
+  "why": "title"
+ },
+ "openai.com/index/ringg": {
+  "lab": "OpenAI",
+  "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/rogo": {
+  "lab": "OpenAI",
+  "title": "Using OpenAI o1 for financial analysis",
+  "why": "title"
+ },
+ "openai.com/index/ropes-gray-ai-diligence": {
+  "lab": "OpenAI",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "why": "title"
+ },
+ "openai.com/index/rox": {
+  "lab": "OpenAI",
+  "title": "Rox goes “all in” on OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/running-codex-safely": {
+  "lab": "OpenAI",
+  "title": "Running Codex safely at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/safety-alignment-long-horizon-models": {
+  "lab": "OpenAI",
+  "title": "Safety and alignment in an era of long-horizon models",
+  "why": "title"
+ },
+ "openai.com/index/safety-bug-bounty": {
+  "lab": "OpenAI",
+  "title": "Introducing the OpenAI Safety Bug Bounty program",
+  "why": "title"
+ },
+ "openai.com/index/safety-overview-gpt-6-astra": {
+  "lab": "OpenAI",
+  "title": "Safety overview: GPT-6 Astra",
+  "why": "title"
+ },
+ "openai.com/index/safetykit": {
+  "lab": "OpenAI",
+  "title": "SafetyKit scales risk agents with OpenAI’s most capable models",
+  "why": "title"
+ },
+ "openai.com/index/salesforce": {
+  "lab": "OpenAI",
+  "title": "Enterprise-ready trust and safety",
+  "why": "title"
+ },
+ "openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board": {
+  "lab": "OpenAI",
+  "title": "Sam Altman returns as CEO, OpenAI has a new initial board",
+  "why": "title"
+ },
+ "openai.com/index/sam-altman-un-security-council-remarks": {
+  "lab": "OpenAI",
+  "title": "Sam Altman’s remarks at the United Nations Security Council",
+  "why": "title"
+ },
+ "openai.com/index/samsung-and-sk-join-stargate": {
+  "lab": "OpenAI",
+  "title": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+  "why": "title"
+ },
+ "openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+  "lab": "OpenAI",
+  "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+  "why": "title"
+ },
+ "openai.com/index/san-antonio-spurs": {
+  "lab": "OpenAI",
+  "title": "The San Antonio Spurs use ChatGPT to scale impact on and off the court",
+  "why": "title"
+ },
+ "openai.com/index/scale-the-benefits-of-ai": {
+  "lab": "OpenAI",
+  "title": "New funding to scale the benefits of AI",
+  "why": "title"
+ },
+ "openai.com/index/scaling-ai-for-everyone": {
+  "lab": "OpenAI",
+  "title": "Scaling AI for everyone",
+  "why": "title"
+ },
+ "openai.com/index/scaling-ai-research-for-complex-biological-data": {
+  "lab": "OpenAI",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "why": "title"
+ },
+ "openai.com/index/scaling-codex-to-enterprises-worldwide": {
+  "lab": "OpenAI",
+  "title": "Scaling Codex to enterprises worldwide",
+  "why": "title"
+ },
+ "openai.com/index/scaling-coordinated-vulnerability-disclosure": {
+  "lab": "OpenAI",
+  "title": "Scaling security with responsible disclosure",
+  "why": "title"
+ },
+ "openai.com/index/scaling-git-at-openai": {
+  "lab": "OpenAI",
+  "title": "Scaling Git at OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/scaling-postgresql": {
+  "lab": "OpenAI",
+  "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+  "why": "title"
+ },
+ "openai.com/index/scaling-social-science-research": {
+  "lab": "OpenAI",
+  "title": "Scaling social science research",
+  "why": "title"
+ },
+ "openai.com/index/scaling-storage-one-billion-users-part-one": {
+  "lab": "OpenAI",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "why": "title"
+ },
+ "openai.com/index/scaling-storage-one-billion-users-part-two": {
+  "lab": "OpenAI",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "why": "title"
+ },
+ "openai.com/index/scaling-trusted-access-for-cyber-defense": {
+  "lab": "OpenAI",
+  "title": "Trusted access for the next era of cyber defense",
+  "why": "title"
+ },
+ "openai.com/index/scania": {
+  "lab": "OpenAI",
+  "title": "How Scania accelerates work with AI across its global workforce",
+  "why": "title"
+ },
+ "openai.com/index/schoolai": {
+  "lab": "OpenAI",
+  "title": "SchoolAI builds an AI platform that empowers teachers",
+  "why": "title"
+ },
+ "openai.com/index/science-at-the-frontier": {
+  "lab": "OpenAI",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/scientific-computing-agentic-ai": {
+  "lab": "OpenAI",
+  "title": "Scientific computing in the age of agentic AI",
+  "why": "title"
+ },
+ "openai.com/index/scout24": {
+  "lab": "OpenAI",
+  "title": "How Scout24 is building the next generation of real-estate search with AI",
+  "why": "title"
+ },
+ "openai.com/index/sea-david-chen": {
+  "lab": "OpenAI",
+  "title": "Sea's View on the Future of Agentic Software Development with Codex",
+  "why": "title"
+ },
+ "openai.com/index/searchgpt-prototype": {
+  "lab": "OpenAI",
+  "title": "SearchGPT is a prototype of new AI search features",
+  "why": "title"
+ },
+ "openai.com/index/securing-our-frontier-model-training-environment": {
+  "lab": "OpenAI",
+  "title": "Securing our frontier model training environment",
+  "why": "title"
+ },
+ "openai.com/index/security-on-the-path-to-agi": {
+  "lab": "OpenAI",
+  "title": "Security on the path to AGI",
+  "why": "title"
+ },
+ "openai.com/index/sentinelone": {
+  "lab": "OpenAI",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "why": "title"
+ },
+ "openai.com/index/separating-signal-from-noise-coding-evaluations": {
+  "lab": "OpenAI",
+  "title": "Separating signal from noise in coding evaluations",
+  "why": "title"
+ },
+ "openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai": {
+  "lab": "OpenAI",
+  "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+  "lab": "OpenAI",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "why": "title"
+ },
+ "openai.com/index/sharing-ai-progress-in-mathematics": {
+  "lab": "OpenAI",
+  "title": "Sharing AI progress in mathematics",
+  "why": "title"
+ },
+ "openai.com/index/sharing-the-latest-model-spec": {
+  "lab": "OpenAI",
+  "title": "Sharing the latest Model Spec",
+  "why": "title"
+ },
+ "openai.com/index/shipping-sora-for-android-with-codex": {
+  "lab": "OpenAI",
+  "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+  "why": "title"
+ },
+ "openai.com/index/simplex": {
+  "lab": "OpenAI",
+  "title": "Simplex rethinks software development with Codex",
+  "why": "title"
+ },
+ "openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models": {
+  "lab": "OpenAI",
+  "title": "Simplifying, stabilizing, and scaling continuous-time consistency models",
+  "why": "title"
+ },
+ "openai.com/index/singapore-airlines-travel-work": {
+  "lab": "OpenAI",
+  "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "why": "title"
+ },
+ "openai.com/index/singular-bank": {
+  "lab": "OpenAI",
+  "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+  "why": "title"
+ },
+ "openai.com/index/small-business-ai-jam": {
+  "lab": "OpenAI",
+  "title": "Helping 1,000 small businesses build with AI",
+  "why": "title"
+ },
+ "openai.com/index/snowflake-partnership": {
+  "lab": "OpenAI",
+  "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+  "why": "title"
+ },
+ "openai.com/index/sophos": {
+  "lab": "OpenAI",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "why": "title"
+ },
+ "openai.com/index/sora-2-system-card": {
+  "lab": "OpenAI",
+  "title": "Sora 2 System Card",
+  "why": "title"
+ },
+ "openai.com/index/sora-feed-philosophy": {
+  "lab": "OpenAI",
+  "title": "The Sora feed philosophy",
+  "why": "title"
+ },
+ "openai.com/index/sora-first-impressions": {
+  "lab": "OpenAI",
+  "title": "Sora first impressions",
+  "why": "title"
+ },
+ "openai.com/index/sora-is-here": {
+  "lab": "OpenAI",
+  "title": "Sora is here",
+  "why": "title"
+ },
+ "openai.com/index/sora-lyndon-barrois": {
+  "lab": "OpenAI",
+  "title": "Animator Lyndon Barrois creates new worlds with Sora",
+  "why": "title"
+ },
+ "openai.com/index/sora-minne-atairu": {
+  "lab": "OpenAI",
+  "title": "Minne Atairu & Sora",
+  "why": "title"
+ },
+ "openai.com/index/sora-system-card": {
+  "lab": "OpenAI",
+  "title": "Sora System Card",
+  "why": "title"
+ },
+ "openai.com/index/sora-vallee-duhamel": {
+  "lab": "OpenAI",
+  "title": "Vallée Duhamel & Sora",
+  "why": "title"
+ },
+ "openai.com/index/south-korea-economic-blueprint": {
+  "lab": "OpenAI",
+  "title": "AI in South Korea—OpenAI’s Economic Blueprint",
+  "why": "title"
+ },
+ "openai.com/index/speak-connor-zwick": {
+  "lab": "OpenAI",
+  "title": "Speak is personalizing language learning with AI",
+  "why": "title"
+ },
+ "openai.com/index/speeding-up-agentic-workflows-with-websockets": {
+  "lab": "OpenAI",
+  "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+  "why": "title"
+ },
+ "openai.com/index/spring-update": {
+  "lab": "OpenAI",
+  "title": "Spring Update",
+  "why": "title"
+ },
+ "openai.com/index/stack-overflow-chatgpt-plugin": {
+  "lab": "OpenAI",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "why": "title"
+ },
+ "openai.com/index/stadler": {
+  "lab": "OpenAI",
+  "title": "STADLER reshapes knowledge work at a 230-year-old company",
+  "why": "title"
+ },
+ "openai.com/index/stampli": {
+  "lab": "OpenAI",
+  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "why": "title"
+ },
+ "openai.com/index/stargate-advances-with-partnership-with-oracle": {
+  "lab": "OpenAI",
+  "title": "Stargate advances with 4.5 GW partnership with Oracle",
+  "why": "title"
+ },
+ "openai.com/index/stargate-community": {
+  "lab": "OpenAI",
+  "title": "Stargate Community",
+  "why": "title"
+ },
+ "openai.com/index/stargate-michigan-data-center": {
+  "lab": "OpenAI",
+  "title": "Building the infrastructure for the Intelligence Age in Michigan",
+  "why": "title"
+ },
+ "openai.com/index/stargate-sb-energy-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and SoftBank Group partner with SB Energy",
+  "why": "title"
+ },
+ "openai.com/index/start-using-chatgpt-instantly": {
+  "lab": "OpenAI",
+  "title": "Start using ChatGPT instantly",
+  "why": "title"
+ },
+ "openai.com/index/state-of-minnesota": {
+  "lab": "OpenAI",
+  "title": "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+  "why": "title"
+ },
+ "openai.com/index/statement-on-openai-nonprofit-and-pbc": {
+  "lab": "OpenAI",
+  "title": "Statement on OpenAI’s Nonprofit and PBC",
+  "why": "title"
+ },
+ "openai.com/index/step-toward-defining-the-standard-model": {
+  "lab": "OpenAI",
+  "title": "A step toward defining the Standard Model on a lattice",
+  "why": "title"
+ },
+ "openai.com/index/steuerrecht": {
+  "lab": "OpenAI",
+  "title": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/strategic-content-partnership-with-time": {
+  "lab": "OpenAI",
+  "title": "Strategic Content Partnership with TIME",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories": {
+  "lab": "OpenAI",
+  "title": "Strengthening America’s AI leadership with the U.S. National Laboratories",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations": {
+  "lab": "OpenAI",
+  "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-cyber-resilience": {
+  "lab": "OpenAI",
+  "title": "Strengthening cyber resilience as AI capabilities advance",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-democratic-oversight-in-national-security": {
+  "lab": "OpenAI",
+  "title": "Strengthening democratic oversight in national security",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+  "lab": "OpenAI",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-online-child-safety": {
+  "lab": "OpenAI",
+  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-safety-with-external-testing": {
+  "lab": "OpenAI",
+  "title": "Strengthening our safety ecosystem with external testing",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+  "lab": "OpenAI",
+  "title": "Strengthening societal resilience with Rosalind Biodefense",
+  "why": "title"
+ },
+ "openai.com/index/strengthening-the-us-ai-supply-chain": {
+  "lab": "OpenAI",
+  "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+  "why": "title"
+ },
+ "openai.com/index/stripe": {
+  "lab": "OpenAI",
+  "title": "Stripe",
+  "why": "title"
+ },
+ "openai.com/index/sullivan-cromwell": {
+  "lab": "OpenAI",
+  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "why": "title"
+ },
+ "openai.com/index/summer-health": {
+  "lab": "OpenAI",
+  "title": "Increasing accuracy of pediatric visit notes",
+  "why": "title"
+ },
+ "openai.com/index/superalignment-fast-grants": {
+  "lab": "OpenAI",
+  "title": "Superalignment Fast Grants",
+  "why": "title"
+ },
+ "openai.com/index/superhuman": {
+  "lab": "OpenAI",
+  "title": "Reimagining the email experience with AI",
+  "why": "title"
+ },
+ "openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+  "lab": "OpenAI",
+  "title": "OpenAI supports California’s bill to advance youth AI safety",
+  "why": "title"
+ },
+ "openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
+  "lab": "OpenAI",
+  "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+  "why": "title"
+ },
+ "openai.com/index/supporting-independent-journalism-in-ukraine": {
+  "lab": "OpenAI",
+  "title": "Supporting independent journalism in Ukraine",
+  "why": "title"
+ },
+ "openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+  "lab": "OpenAI",
+  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+  "why": "title"
+ },
+ "openai.com/index/supporting-next-generation-ai-startups-thailand": {
+  "lab": "OpenAI",
+  "title": "Supporting Thailand’s next generation of AI startups",
+  "why": "title"
+ },
+ "openai.com/index/supporting-nonprofit-and-community-innovation": {
+  "lab": "OpenAI",
+  "title": "Supporting nonprofit and community innovation",
+  "why": "title"
+ },
+ "openai.com/index/swe-lancer": {
+  "lab": "OpenAI",
+  "title": "Introducing the SWE-Lancer benchmark",
+  "why": "title"
+ },
+ "openai.com/index/sycophancy-in-gpt-4o": {
+  "lab": "OpenAI",
+  "title": "Sycophancy in GPT-4o: what happened and what we’re doing about it",
+  "why": "title"
+ },
+ "openai.com/index/taisei": {
+  "lab": "OpenAI",
+  "title": "Taisei Corporation shapes the next generation of talent with AI",
+  "why": "title"
+ },
+ "openai.com/index/target-partnership": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Target team up on new AI-powered experiences",
+  "why": "title"
+ },
+ "openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+  "lab": "OpenAI",
+  "title": "Teaching students to think and learn through questions",
+  "why": "title"
+ },
+ "openai.com/index/teaching-with-ai": {
+  "lab": "OpenAI",
+  "title": "Teaching with AI",
+  "why": "title"
+ },
+ "openai.com/index/ted-taylor-restaurant": {
+  "lab": "OpenAI",
+  "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "why": "title"
+ },
+ "openai.com/index/teen-development-research-grants": {
+  "lab": "OpenAI",
+  "title": "Funding grants for new research into AI and teen development",
+  "why": "title"
+ },
+ "openai.com/index/teen-safety-freedom-and-privacy": {
+  "lab": "OpenAI",
+  "title": "Teen safety, freedom, and privacy",
+  "why": "title"
+ },
+ "openai.com/index/teen-safety-policies-gpt-oss-safeguard": {
+  "lab": "OpenAI",
+  "title": "Helping developers build safer AI experiences for teens",
+  "why": "title"
+ },
+ "openai.com/index/teens-learn-and-plan": {
+  "lab": "OpenAI",
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "why": "title"
+ },
+ "openai.com/index/ten-advances-in-mathematics": {
+  "lab": "OpenAI",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "why": "title"
+ },
+ "openai.com/index/ten-tiny-canvases": {
+  "lab": "OpenAI",
+  "title": "Creating nail art with ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/ten-years": {
+  "lab": "OpenAI",
+  "title": "Ten years",
+  "why": "title"
+ },
+ "openai.com/index/terminal-x": {
+  "lab": "OpenAI",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "why": "title"
+ },
+ "openai.com/index/testing-ads-in-chatgpt": {
+  "lab": "OpenAI",
+  "title": "Testing ads in ChatGPT",
+  "why": "title"
+ },
+ "openai.com/index/the-defenders-window": {
+  "lab": "OpenAI",
+  "title": "The Defender’s Window",
+  "why": "title"
+ },
+ "openai.com/index/the-den-family-social": {
+  "lab": "OpenAI",
+  "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+  "why": "title"
+ },
+ "openai.com/index/the-eternal-complement": {
+  "lab": "OpenAI",
+  "title": "The eternal complement",
+  "why": "title"
+ },
+ "openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+  "lab": "OpenAI",
+  "title": "The EU’s next chapter in AI is agentic",
+  "why": "title"
+ },
+ "openai.com/index/the-five-ai-value-models-driving-business-reinvention": {
+  "lab": "OpenAI",
+  "title": "The five AI value models driving business reinvention",
+  "why": "title"
+ },
+ "openai.com/index/the-full-stack-behind-abundant-intelligence": {
+  "lab": "OpenAI",
+  "title": "The full stack behind abundant intelligence",
+  "why": "title"
+ },
+ "openai.com/index/the-future-of-the-firm": {
+  "lab": "OpenAI",
+  "title": "The future of the firm",
+  "why": "title"
+ },
+ "openai.com/index/the-instruction-hierarchy": {
+  "lab": "OpenAI",
+  "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+  "why": "title"
+ },
+ "openai.com/index/the-kings-trust-and-openai": {
+  "lab": "OpenAI",
+  "title": "The King’s Trust and OpenAI launch £1m partnership",
+  "why": "title"
+ },
+ "openai.com/index/the-met-museum": {
+  "lab": "OpenAI",
+  "title": "Awakening Sleeping Beauties at The Met",
+  "why": "title"
+ },
+ "openai.com/index/the-next-chapter-for-ai-in-the-eu": {
+  "lab": "OpenAI",
+  "title": "The next chapter for AI in the EU",
+  "why": "title"
+ },
+ "openai.com/index/the-next-chapter-for-uk-sovereign-ai": {
+  "lab": "OpenAI",
+  "title": "The next chapter for UK sovereign AI",
+  "why": "title"
+ },
+ "openai.com/index/the-next-evolution-of-the-agents-sdk": {
+  "lab": "OpenAI",
+  "title": "The next evolution of the Agents SDK",
+  "why": "title"
+ },
+ "openai.com/index/the-next-phase-of-education-for-countries": {
+  "lab": "OpenAI",
+  "title": "The next phase of OpenAI’s Education for Countries",
+  "why": "title"
+ },
+ "openai.com/index/the-silent-consensus": {
+  "lab": "OpenAI",
+  "title": "The Silent Consensus",
+  "why": "title"
+ },
+ "openai.com/index/the-state-of-enterprise-ai-2025-report": {
+  "lab": "OpenAI",
+  "title": "The state of enterprise AI",
+  "why": "title"
+ },
+ "openai.com/index/the-work-now-within-reach": {
+  "lab": "OpenAI",
+  "title": "The Work Now Within Reach",
+  "why": "title"
+ },
+ "openai.com/index/thinking-with-images": {
+  "lab": "OpenAI",
+  "title": "Thinking with images",
+  "why": "title"
+ },
+ "openai.com/index/third-moment-research": {
+  "lab": "OpenAI",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "why": "title"
+ },
+ "openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+  "lab": "OpenAI",
+  "title": "Third-party cyber evaluations involving OpenAI models",
+  "why": "title"
+ },
+ "openai.com/index/thrive-holdings": {
+  "lab": "OpenAI",
+  "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+  "why": "title"
+ },
+ "openai.com/index/tolan": {
+  "lab": "OpenAI",
+  "title": "How Tolan builds voice-first AI with GPT-5.1",
+  "why": "title"
+ },
+ "openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+  "lab": "OpenAI",
+  "title": "Towards safety cases for frontier AI training",
+  "why": "title"
+ },
+ "openai.com/index/trading-inference-time-compute-for-adversarial-robustness": {
+  "lab": "OpenAI",
+  "title": "Trading inference-time compute for adversarial robustness",
+  "why": "title"
+ },
+ "openai.com/index/travelers": {
+  "lab": "OpenAI",
+  "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/trustbank": {
+  "lab": "OpenAI",
+  "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
+  "why": "title"
+ },
+ "openai.com/index/trusted-access-for-cyber": {
+  "lab": "OpenAI",
+  "title": "Introducing Trusted Access for Cyber",
+  "why": "title"
+ },
+ "openai.com/index/trustworthy-third-party-evaluations-foundations": {
+  "lab": "OpenAI",
+  "title": "A shared playbook for trustworthy third party evaluations",
+  "why": "title"
+ },
+ "openai.com/index/two-years-of-openai-academy": {
+  "lab": "OpenAI",
+  "title": "Two years of OpenAI Academy",
+  "why": "title"
+ },
+ "openai.com/index/typeform": {
+  "lab": "OpenAI",
+  "title": "Evolving online forms into dynamic data",
+  "why": "title"
+ },
+ "openai.com/index/uber": {
+  "lab": "OpenAI",
+  "title": "Uber uses OpenAI to help people earn smarter and book faster",
+  "why": "title"
+ },
+ "openai.com/index/uber-chatgpt-work-rollout": {
+  "lab": "OpenAI",
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/uber-enables-outstanding-experiences": {
+  "lab": "OpenAI",
+  "title": "Uber enables outstanding on-demand experiences with AI",
+  "why": "title"
+ },
+ "openai.com/index/understanding-ai-and-learning-outcomes": {
+  "lab": "OpenAI",
+  "title": "Understanding AI and learning outcomes",
+  "why": "title"
+ },
+ "openai.com/index/understanding-neural-networks-through-sparse-circuits": {
+  "lab": "OpenAI",
+  "title": "Understanding neural networks through sparse circuits",
+  "why": "title"
+ },
+ "openai.com/index/understanding-the-source-of-what-we-see-and-hear-online": {
+  "lab": "OpenAI",
+  "title": "Understanding the source of what we see and hear online",
+  "why": "title"
+ },
+ "openai.com/index/unify": {
+  "lab": "OpenAI",
+  "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
+  "why": "title"
+ },
+ "openai.com/index/unive": {
+  "lab": "OpenAI",
+  "title": "Univé builds an AI-ready workforce",
+  "why": "title"
+ },
+ "openai.com/index/unlocking-new-ways-of-working": {
+  "lab": "OpenAI",
+  "title": "How workers are unlocking new ways of working",
+  "why": "title"
+ },
+ "openai.com/index/unlocking-self-improvement-gpt-red": {
+  "lab": "OpenAI",
+  "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+  "why": "title"
+ },
+ "openai.com/index/unlocking-the-codex-harness": {
+  "lab": "OpenAI",
+  "title": "Unlocking the Codex harness: how we built the App Server",
+  "why": "title"
+ },
+ "openai.com/index/unrolling-the-codex-agent-loop": {
+  "lab": "OpenAI",
+  "title": "Unrolling the Codex agent loop",
+  "why": "title"
+ },
+ "openai.com/index/update-on-mental-health-related-work": {
+  "lab": "OpenAI",
+  "title": "An update on our mental health-related work",
+  "why": "title"
+ },
+ "openai.com/index/update-on-safety-and-security-practices": {
+  "lab": "OpenAI",
+  "title": "An update on our safety & security practices",
+  "why": "title"
+ },
+ "openai.com/index/update-on-the-openai-foundation": {
+  "lab": "OpenAI",
+  "title": "Update on the OpenAI Foundation",
+  "why": "title"
+ },
+ "openai.com/index/updated-model-spec": {
+  "lab": "OpenAI",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "why": "title"
+ },
+ "openai.com/index/updating-model-spec-with-teen-protections": {
+  "lab": "OpenAI",
+  "title": "Updating our Model Spec with teen protections",
+  "why": "title"
+ },
+ "openai.com/index/updating-our-preparedness-framework": {
+  "lab": "OpenAI",
+  "title": "Our updated Preparedness Framework",
+  "why": "title"
+ },
+ "openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model": {
+  "lab": "OpenAI",
+  "title": "Upgrading the Moderation API with our new multimodal moderation model",
+  "why": "title"
+ },
+ "openai.com/index/upwork": {
+  "lab": "OpenAI",
+  "title": "Putting AI to work at Upwork",
+  "why": "title"
+ },
+ "openai.com/index/us-caisi-uk-aisi-ai-update": {
+  "lab": "OpenAI",
+  "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+  "why": "title"
+ },
+ "openai.com/index/us-department-of-energy-collaboration": {
+  "lab": "OpenAI",
+  "title": "Deepening our collaboration with the U.S. Department of Energy",
+  "why": "title"
+ },
+ "openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+  "lab": "OpenAI",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "why": "title"
+ },
+ "openai.com/index/using-codex-to-simulate-black-holes": {
+  "lab": "OpenAI",
+  "title": "How an astrophysicist uses Codex to help simulate black holes",
+  "why": "title"
+ },
+ "openai.com/index/using-gpt-4-for-content-moderation": {
+  "lab": "OpenAI",
+  "title": "Using GPT-4 for content moderation",
+  "why": "title"
+ },
+ "openai.com/index/v7": {
+  "lab": "OpenAI",
+  "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+  "why": "title"
+ },
+ "openai.com/index/vfl-wolfsburg": {
+  "lab": "OpenAI",
+  "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+  "why": "title"
+ },
+ "openai.com/index/viable": {
+  "lab": "OpenAI",
+  "title": "Accurately analyzing large scale qualitative data",
+  "why": "title"
+ },
+ "openai.com/index/video-generation-models-as-world-simulators": {
+  "lab": "OpenAI",
+  "title": "Video generation models as world simulators",
+  "why": "title"
+ },
+ "openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig": {
+  "lab": "OpenAI",
+  "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+  "why": "title"
+ },
+ "openai.com/index/virgin-atlantic": {
+  "lab": "OpenAI",
+  "title": "How Virgin Atlantic ships faster with Codex",
+  "why": "title"
+ },
+ "openai.com/index/virgin-atlantic-oliver-byers": {
+  "lab": "OpenAI",
+  "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+  "why": "title"
+ },
+ "openai.com/index/virgin-atlantic/chatgpt-work": {
+  "lab": "OpenAI",
+  "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+  "why": "title"
+ },
+ "openai.com/index/warp": {
+  "lab": "OpenAI",
+  "title": "Warp’s big bet on building open source with GPT-5.5",
+  "why": "title"
+ },
+ "openai.com/index/wasmer": {
+  "lab": "OpenAI",
+  "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+  "why": "title"
+ },
+ "openai.com/index/wayfair": {
+  "lab": "OpenAI",
+  "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+  "why": "title"
+ },
+ "openai.com/index/wayfair-fiona-tan": {
+  "lab": "OpenAI",
+  "title": "Wayfair is shaping the future of retail with AI",
+  "why": "title"
+ },
+ "openai.com/index/waymark": {
+  "lab": "OpenAI",
+  "title": "Fine-tuning GPT-3 to scale video creation",
+  "why": "title"
+ },
+ "openai.com/index/weak-to-strong-generalization": {
+  "lab": "OpenAI",
+  "title": "Weak-to-strong generalization",
+  "why": "title"
+ },
+ "openai.com/index/what-parameter-golf-taught-us": {
+  "lab": "OpenAI",
+  "title": "What Parameter Golf taught us about AI-assisted research",
+  "why": "title"
+ },
+ "openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+  "lab": "OpenAI",
+  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "why": "title"
+ },
+ "openai.com/index/where-the-goblins-came-from": {
+  "lab": "OpenAI",
+  "title": "Where the goblins came from",
+  "why": "title"
+ },
+ "openai.com/index/whoop": {
+  "lab": "OpenAI",
+  "title": "Delivering LLM-powered health solutions",
+  "why": "title"
+ },
+ "openai.com/index/why-codex-security-doesnt-include-sast": {
+  "lab": "OpenAI",
+  "title": "Why Codex Security Doesn’t Include a SAST Report",
+  "why": "title"
+ },
+ "openai.com/index/why-language-models-hallucinate": {
+  "lab": "OpenAI",
+  "title": "Why language models hallucinate",
+  "why": "title"
+ },
+ "openai.com/index/why-our-structure-must-evolve-to-advance-our-mission": {
+  "lab": "OpenAI",
+  "title": "Why OpenAI’s structure must evolve to advance our mission",
+  "why": "title"
+ },
+ "openai.com/index/why-teens-deserve-access-safe-ai": {
+  "lab": "OpenAI",
+  "title": "Why teens deserve access to safe AI",
+  "why": "title"
+ },
+ "openai.com/index/why-we-no-longer-evaluate-swe-bench-verified": {
+  "lab": "OpenAI",
+  "title": "Why we no longer evaluate SWE-bench Verified",
+  "why": "title"
+ },
+ "openai.com/index/wix": {
+  "lab": "OpenAI",
+  "title": "Creating websites in minutes with AI Website Builder",
+  "why": "title"
+ },
+ "openai.com/index/work-with-codex-from-anywhere": {
+  "lab": "OpenAI",
+  "title": "Work with Codex from anywhere",
+  "why": "title"
+ },
+ "openai.com/index/wrtn": {
+  "lab": "OpenAI",
+  "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+  "why": "title"
+ },
+ "openai.com/index/yabble": {
+  "lab": "OpenAI",
+  "title": "Delivering nuanced insights from customer feedback",
+  "why": "title"
+ },
+ "openai.com/index/zapier": {
+  "lab": "OpenAI",
+  "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+  "why": "title"
+ },
+ "openai.com/index/zelma": {
+  "lab": "OpenAI",
+  "title": "Making education data accessible",
+  "why": "title"
+ },
+ "openai.com/index/zendesk": {
+  "lab": "OpenAI",
+  "title": "Moving from intent-based bots to proactive AI agents",
+  "why": "title"
+ },
+ "openai.com/index/zenken": {
+  "lab": "OpenAI",
+  "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+  "why": "title"
+ },
+ "openai.com/index/zico-kolter-joins-openais-board-of-directors": {
+  "lab": "OpenAI",
+  "title": "Zico Kolter Joins OpenAI’s Board of Directors",
+  "why": "title"
+ }
+}

@@ -1,0 +1,36 @@
+{
+  "include": [
+    { "lab": "Anthropic", "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1", "name": "Claude Fable 5.1 & Mythos 5.1", "date": "2026-09-01" },
+    { "lab": "Anthropic", "url": "https://www.anthropic.com/news/3-5-models-and-computer-use", "name": "Claude 3.5 Sonnet (new) & 3.5 Haiku" },
+    { "lab": "Anthropic", "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2", "name": "Claude Instant 1.2" },
+    { "lab": "Meta", "url": "https://about.fb.com/news/2023/07/llama-2/", "name": "Llama 2" }
+  ],
+  "exclude": [
+    "https://x.ai/news/grok-1212",
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "https://www.kimi.com/en/blog/kimi-k2"
+  ],
+  "names": {
+    "https://www.anthropic.com/news/claude-3-family": "Claude 3",
+    "https://www.anthropic.com/news/claude-sonnet-4-6": "Claude Sonnet 4.6",
+    "https://www.anthropic.com/news/claude-fable-5-mythos-5": "Claude Fable 5 & Mythos 5",
+    "https://openai.com/index/gpt-4-research": "GPT-4",
+    "https://openai.com/index/gpt-4": "GPT-4, announcement",
+    "https://openai.com/index/gpt-5-6": "GPT-5.6",
+    "https://openai.com/index/gpt-6-astra": "GPT-6 Astra",
+    "https://openai.com/index/gpt-6-astra-next-generation-work": "GPT-6 Astra, for work",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/": "Genie 4, available",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available/": "Gemini Embedding 2, available",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-updates-io-2025/": "Gemini 2.5, I/O updates",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-updates-february-2025/": "Gemini 2.0, for everyone",
+    "https://mistral.ai/news/devstral-2-vibe-cli/": "Devstral 2",
+    "https://www.kimi.com/en/blog/kimi-k3": "Kimi K3",
+    "https://www.kimi.com/en/blog/kimi-k2-6": "Kimi K2.6",
+    "https://www.kimi.com/en/blog/kimi-k2-5": "Kimi K2.5"
+  },
+  "dates": {
+    "https://www.kimi.com/en/blog/kimi-k3": "2026-07-16",
+    "https://www.kimi.com/en/blog/kimi-k2-5": "2026-01-27",
+    "https://www.kimi.com/en/blog/kimi-k2-thinking": "2025-11-06"
+  }
+}

@@ -4,22 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Em Dash Index · Joshowaaah</title>
-<meta name="description" content="Every em dash in 22 AI model launch posts from 8 labs, counted and ranked. One lab wrote 47% of them.">
+<meta name="description" content="Every em dash in 159 AI model launch posts from 8 labs since 2023, counted, ranked and updated daily. OpenAI wrote 42% of them.">
 <link rel="canonical" href="https://joshowaaah.com/em-dash-index/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230d0d0c'/%3E%3Crect x='12' y='28' width='40' height='8' rx='4' fill='%23e8622c'/%3E%3C/svg%3E">
 <meta property="og:site_name" content="joshowaaah.com">
 <meta property="og:title" content="The Em Dash Index">
-<meta property="og:description" content="Every em dash in 22 AI model launch posts from 8 labs, counted and ranked. One lab wrote 47% of them.">
+<meta property="og:description" content="Every em dash in 159 AI model launch posts from 8 labs since 2023, counted, ranked and updated daily. OpenAI wrote 42% of them.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://joshowaaah.com/em-dash-index/">
 <meta property="og:image" content="https://joshowaaah.com/og/em-dash-index.png">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="2400">
 <meta property="og:image:height" content="1260">
-<meta property="og:image:alt" content="The Em Dash Index: em dashes per lab across 22 AI launch posts. Anthropic 57, OpenAI 19, Google 18, Mistral 12.">
+<meta property="og:image:alt" content="The Em Dash Index: em dashes per lab across 159 AI launch posts. OpenAI 402, Anthropic 230, Mistral 106, Google 90.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The Em Dash Index">
-<meta name="twitter:description" content="Every em dash in 22 AI model launch posts from 8 labs, counted and ranked. One lab wrote 47% of them.">
+<meta name="twitter:description" content="Every em dash in 159 AI model launch posts from 8 labs since 2023, counted, ranked and updated daily. OpenAI wrote 42% of them.">
 <meta name="twitter:image" content="https://joshowaaah.com/og/em-dash-index.png">
 <!-- The two "not all" tags never apply in a browser; they give link-preview embeds an accent colour. -->
 <meta name="theme-color" content="#e8622c" media="not all">
@@ -246,6 +246,43 @@ td { color: var(--ink-2); }
 td.n { text-align: right; font-family: "JetBrains Mono", monospace; color: var(--ink); }
 td a { color: var(--ink-2); }
 
+/* ---------- period ---------- */
+.period { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; margin: 24px 0 0; }
+.stepper { display: inline-flex; align-items: center; gap: 2px; }
+.stepper[hidden] { display: none; }
+.stepper button {
+  font: 500 15px/1 "Inter", sans-serif; color: var(--ink-2); background: none; border: 1px solid var(--rule);
+  border-radius: 999px; width: 30px; height: 30px; cursor: pointer; padding: 0;
+}
+.stepper button:hover:not(:disabled) { border-color: var(--ink-3); color: var(--ink); }
+.stepper button:disabled { opacity: .35; cursor: default; }
+.stepper .cur { font: 500 13px/1 "Inter", sans-serif; color: var(--ink); min-width: 118px; text-align: center; }
+.range { font: 400 11.5px/1 "JetBrains Mono", monospace; color: var(--ink-3); margin-left: auto; white-space: nowrap; }
+
+/* ---------- timeline ---------- */
+.tl-wrap { margin: 18px 0 0; }
+.tl-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px;
+  font: 500 10.5px/1 "JetBrains Mono", monospace; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); margin-bottom: 8px; }
+.tl { display: flex; align-items: stretch; gap: 2px; height: 92px; border-bottom: 1px solid var(--rule); }
+.tl button {
+  flex: 1 1 0; min-width: 0; padding: 0; border: 0; background: none; cursor: pointer; position: relative;
+  display: flex; flex-direction: column-reverse; border-radius: 3px 3px 0 0; opacity: .3; transition: opacity .15s;
+}
+.tl button.in { opacity: 1; }
+.tl button:hover { opacity: 1; background: var(--hover); }
+.tl button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.tl button i { display: block; width: 100%; background: var(--c); }
+.tl button i:last-child { border-radius: 2px 2px 0 0; }
+.tl button i + i { margin-bottom: 1px; }
+.tl-axis { position: relative; height: 16px; margin-top: 5px; font: 400 10.5px/1 "JetBrains Mono", monospace; color: var(--ink-3); }
+.tl-axis span { position: absolute; top: 0; padding-left: 4px; border-left: 1px solid var(--rule); height: 12px; line-height: 12px; }
+
+.more { display: block; width: 100%; margin: 14px 0 0; padding: 11px; cursor: pointer;
+  font: 500 12.5px/1 "Inter", sans-serif; color: var(--ink-2); background: none; border: 1px solid var(--rule); border-radius: 10px; }
+.more:hover { border-color: var(--ink-3); color: var(--ink); }
+.more[hidden] { display: none; }
+.empty { padding: 34px 0; text-align: center; color: var(--ink-3); font-size: 13.5px; border-bottom: 1px solid var(--rule); }
+
 @media (max-width: 640px) {
   body.standalone { padding: 16px 16px 40px; }
   body.standalone .viz { padding: 22px 16px 18px; border-radius: 16px; }
@@ -259,16 +296,41 @@ td a { color: var(--ink-2); }
   .who { grid-area: who; } .strip { grid-area: strip; } .val { grid-area: val; font-size: 24px; }
   .lab { grid-template-columns: 92px 1fr; }
   .lab .fig { grid-column: 1 / -1; text-align: left; margin-top: -4px; }
+  .period .seg { width: 100%; }
+  .period .seg button { flex: 1; padding: 8px 6px; }
+  .range { margin-left: 0; }
+  .tl { gap: 1px; height: 76px; }
 }
-@media (prefers-reduced-motion: reduce) { .strip i { animation: none; } }
+@media (prefers-reduced-motion: reduce) { .strip i { animation: none; } .tl button { transition: none; } }
 </style>
 </head>
 <body class="standalone">
 <div class="viz">
   <a href="../" style="display:inline-block;margin-bottom:22px;font:500 11px/1 'JetBrains Mono',ui-monospace,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);text-decoration:none">&larr; joshowaaah.com</a>
-  <div class="kicker"><span class="glyph">&mdash;</span> AI launch posts &middot; 10 Sep &ndash; 10 Nov 2026</div>
+  <div class="kicker"><span class="glyph">&mdash;</span> <span id="kicker">AI launch posts &middot; updated daily</span></div>
   <h1>The Em Dash Index</h1>
-  <p class="dek">How many em dashes each AI lab put in its model launch posts over the last two months: 22 posts from 8 labs. Each mark below is one em dash. Bracketed ranks are ties.</p>
+  <p class="dek" id="dek">How many em dashes AI labs put in their model launch posts, counted by script and updated daily. Each mark below is one em dash. Bracketed ranks are ties.</p>
+
+  <div class="period">
+    <div class="seg" role="group" aria-label="Period">
+      <button type="button" data-period="90d" aria-pressed="true">Last 90 days</button>
+      <button type="button" data-period="month" aria-pressed="false">Month</button>
+      <button type="button" data-period="year" aria-pressed="false">Year</button>
+      <button type="button" data-period="all" aria-pressed="false">All time</button>
+    </div>
+    <div class="stepper" id="stepper" hidden>
+      <button type="button" id="prev" aria-label="Earlier">&lsaquo;</button>
+      <span class="cur" id="cur" aria-live="polite"></span>
+      <button type="button" id="next" aria-label="Later">&rsaquo;</button>
+    </div>
+    <span class="range" id="range"></span>
+  </div>
+
+  <div class="tl-wrap">
+    <div class="tl-head"><span>Em dashes per month</span><span id="tlMax"></span></div>
+    <div class="tl" id="tl" role="group" aria-label="Em dashes per month. Choose a month to see its posts."></div>
+    <div class="tl-axis" id="tlAxis" aria-hidden="true"></div>
+  </div>
 
   <div class="tiles" id="tiles"></div>
 
@@ -281,15 +343,17 @@ td a { color: var(--ink-2); }
   </div>
 
   <div class="axis" aria-hidden="true"><span>Rank</span><span>Launch post</span><span id="axisLabel">One mark = one em dash</span><span class="r" id="axisUnit">Count</span></div>
-  <div class="list" id="list"></div>
+  <div class="list" id="list"><div class="empty">Loading the counts&hellip;</div></div>
+  <button type="button" class="more" id="more" hidden></button>
 
   <h2>By lab</h2>
-  <p class="sub">Average em dashes per launch post. Anthropic averages <span id="mult"></span> as many as the rest of the field.</p>
+  <p class="sub" id="labSub">Average em dashes per launch post.</p>
   <div class="labs" id="labs"></div>
 
   <div class="notes">
-    <p><b>Method.</b> Each post's article body was downloaded and its U+2014 characters counted by script; navigation, footers and cookie banners are excluded. En dashes (&ndash;) and hyphens don't count. Dashes inside customer quotes and table cells do. On the posts both cover, this method matches the original tally exactly: Fable 5 &amp; Mythos 5 = 26, Opus 5.5 = 18, Opus 4.7 = 17, Sonnet 4.5 = 14, Fable 5.1 = 12.</p>
-    <p><b>Window.</b> Model launch posts on each lab's own site from 10 Sep to 10 Nov 2026. Just outside: GPT-6 Astra (3 Sep, 5 dashes) and Claude Fable 5.1 &amp; Mythos 5.1 (1 Sep, 12). Labs without a launch post on their own site (Qwen, MiniMax, Z.ai) aren't included.</p>
+    <p><b>Method.</b> Each post's article body is downloaded and its U+2014 characters counted by script; navigation, footers and cookie banners are excluded. En dashes (&ndash;) and hyphens don't count. Dashes inside customer quotes and table cells do, including the lone dashes that stand for empty cells<span id="blankNote"></span>.</p>
+    <p><b>What's tracked.</b> Model launch posts on each lab's own site since January 2023, found from the lab's feed or sitemap. Coverage of older posts is uneven: Google's before December 2024 and Meta's Llama 3 and 4 were published elsewhere and aren't here. Labs without launch posts on their own site (Qwen, MiniMax, Z.ai) aren't included.</p>
+    <p><b>Updates.</b> A script checks every lab once a day and adds new launch posts. Posts from the last three weeks are recounted on each run, since launch posts get edited after they go up.</p>
     <p><b>Per 1,000 words.</b> Posts under 500 words are marked <i>short</i>; one dash moves their rate a long way. xAI's pages have no article tag, so their word counts include some page chrome.</p>
     <details>
       <summary>Data table and sources</summary>
@@ -300,35 +364,125 @@ td a { color: var(--ink-2); }
 <div class="tip" id="tip" role="tooltip"></div>
 
 <script>
+// Counts live in data.json, rewritten daily by scripts/em-dash-index/update.mjs.
+const COUNT_BLANK_CELLS = true;    // false leaves out the lone dashes that stand for empty table cells
+const LIMIT = 20;                  // rows shown before "Show all"
 const LABS = {
   Anthropic: "var(--anthropic)", OpenAI: "var(--openai)", Google: "var(--google)", Mistral: "var(--mistral)",
   Moonshot: "var(--moonshot)", DeepSeek: "var(--deepseek)", Meta: "var(--meta)", xAI: "var(--xai)"
 };
-const RAW = [["Anthropic","Claude Fable 5.2 & Mythos 5.2","2026-11-09",29,6512,"https://www.anthropic.com/claude-fable-and-mythos-5-2"],["Anthropic","Claude Opus 5.5","2026-09-22",18,6337,"https://www.anthropic.com/claude-opus-5-5"],["Anthropic","Claude Sonnet 5.5","2026-09-28",6,3002,"https://www.anthropic.com/claude-sonnet-5-5"],["Anthropic","Claude Haiku 5.5","2026-10-07",4,1798,"https://www.anthropic.com/claude-haiku-5-5"],["OpenAI","GPT-6 Sol & Luna","2026-09-22",7,2114,"https://openai.com/index/introducing-gpt-6-sol-and-luna/"],["OpenAI","GPT-6.1 Sol","2026-09-29",3,1255,"https://openai.com/index/introducing-gpt-6-1-sol/"],["OpenAI","GPT-6.1 Terra","2026-10-26",1,859,"https://openai.com/index/introducing-gpt-6-1-terra/"],["OpenAI","Images 2.6","2026-11-04",5,1073,"https://openai.com/index/introducing-images-2-6/"],["OpenAI","GPT-6 Cyber","2026-11-05",3,3003,"https://openai.com/index/introducing-gpt-6-cyber/"],["Google","Gemini 4 Argon","2026-09-30",1,1572,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"],["Google","Gemini 4 Argon, for everyone","2026-10-13",7,2801,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"],["Google","Genie 4","2026-10-27",0,269,"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"],["Google","Gemini 4 Carbon","2026-10-28",5,1011,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"],["Google","Gemini 4 Carbon, available","2026-11-10",5,2361,"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"],["xAI","Grok 4.7","2026-09-21",0,1327,"https://x.ai/news/grok-4-7"],["xAI","Grok Voice 3.0","2026-10-14",1,724,"https://x.ai/news/grok-voice-3"],["Mistral","Mistral Large 4","2026-10-06",9,2240,"https://mistral.ai/news/mistral-large-4/"],["Mistral","Mistral Large 4, open weights","2026-10-29",3,3727,"https://mistral.ai/news/mistral-large-4-oss/"],["Meta","Muse Wonder","2026-10-12",1,625,"https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"],["Moonshot","Kimi K3.1 Pro","2026-10-23",10,3011,"https://www.kimi.com/en/blog/kimi-k3-1-pro"],["DeepSeek","DeepSeek V4.1 Flash","2026-09-10",0,368,"https://api-docs.deepseek.com/news/news260910"],["DeepSeek","DeepSeek V4.1 Flash 1017","2026-10-17",3,264,"https://api-docs.deepseek.com/news/news261017"]];
-const POSTS = RAW.map(([lab, name, date, n, words, url]) => ({ lab, name, date, n, words, url, rate: n / words * 1000, short: words < 500 }));
-
-const state = { mode: "count", labs: new Set(Object.keys(LABS)) };
+const LAB_NAMES = Object.keys(LABS);
 const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-const fmtDate = d => { const [, m, day] = d.split("-"); return `${+day} ${MON[+m - 1]}`; };
+const MONTH = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+const sum = (a, f) => a.reduce((s, x) => s + f(x), 0);
+const ymd = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+const fmtDate = d => { const [y, m, day] = d.split("-"); return `${+day} ${MON[+m - 1]} ${y}`; };
+const fmtMonth = ym => `${MONTH[+ym.slice(5) - 1]} ${ym.slice(0, 4)}`;
+const TODAY = ymd(new Date());
+
+let POSTS = [], MONTHS = [], FIRST = TODAY;
+const state = { mode: "count", labs: new Set(LAB_NAMES), period: { kind: "90d" }, all: false };
+
 const val = p => state.mode === "count" ? p.n : p.rate;
 const show = v => state.mode === "count" ? String(v) : v.toFixed(1);
 const key = v => state.mode === "count" ? v : Math.round(v * 10); // ties at displayed precision
 
+/* ----- periods ----- */
+function bounds(p = state.period) {
+  if (p.kind === "all") return [FIRST, TODAY];
+  if (p.kind === "year") return [`${p.y}-01-01`, `${p.y}-12-31`];
+  if (p.kind === "month") return [`${p.ym}-01`, `${p.ym}-31`];
+  const d = new Date(); d.setDate(d.getDate() - 90);
+  return [ymd(d), TODAY];
+}
+const inPeriod = p => { const [a, b] = bounds(); return p.date >= a && p.date <= b; };
+const shift = (ym, by) => { const d = new Date(+ym.slice(0, 4), +ym.slice(5) - 1 + by, 1); return ymd(d).slice(0, 7); };
+
+function setPeriod(p) {
+  state.period = p; state.all = false;
+  const hash = p.kind === "all" ? "#all" : p.kind === "year" ? `#${p.y}` : p.kind === "month" ? `#${p.ym}` : "";
+  history.replaceState(null, "", hash || location.pathname + location.search);
+  render();
+}
+function fromHash() {
+  const h = location.hash.slice(1);
+  if (h === "all") return { kind: "all" };
+  if (/^\d{4}$/.test(h) && h >= FIRST.slice(0, 4) && h <= TODAY.slice(0, 4)) return { kind: "year", y: h };
+  if (/^\d{4}-\d\d$/.test(h) && MONTHS.includes(h)) return { kind: "month", ym: h };
+  return { kind: "90d" };
+}
+
+document.querySelectorAll("[data-period]").forEach(b => b.onclick = () => {
+  const k = b.dataset.period;
+  setPeriod(k === "month" ? { kind: k, ym: TODAY.slice(0, 7) } : k === "year" ? { kind: k, y: TODAY.slice(0, 4) } : { kind: k });
+});
+function step(by) {
+  const p = state.period;
+  if (p.kind === "month") setPeriod({ kind: "month", ym: shift(p.ym, by) });
+  if (p.kind === "year") setPeriod({ kind: "year", y: String(+p.y + by) });
+}
+$("prev").onclick = () => step(-1);
+$("next").onclick = () => step(1);
+
+function renderPeriod() {
+  const p = state.period, [a, b] = bounds();
+  document.querySelectorAll("[data-period]").forEach(x => x.setAttribute("aria-pressed", x.dataset.period === p.kind));
+  const stepped = p.kind === "month" || p.kind === "year";
+  $("stepper").hidden = !stepped;
+  if (stepped) {
+    $("cur").textContent = p.kind === "month" ? fmtMonth(p.ym) : p.y;
+    $("prev").disabled = p.kind === "month" ? p.ym <= MONTHS[0] : p.y <= FIRST.slice(0, 4);
+    $("next").disabled = p.kind === "month" ? p.ym >= TODAY.slice(0, 7) : p.y >= TODAY.slice(0, 4);
+  }
+  $("range").textContent = p.kind === "90d" ? `${fmtDate(a)} – ${fmtDate(b)}` : p.kind === "all" ? `since ${fmtMonth(FIRST.slice(0, 7))}` : "";
+}
+
+/* ----- timeline: one column per month, stacked by lab ----- */
+const tl = $("tl");
+function renderTimeline() {
+  const [a, b] = bounds();
+  const cols = MONTHS.map(ym => {
+    const ps = POSTS.filter(p => p.date.startsWith(ym) && state.labs.has(p.lab));
+    return { ym, ps, n: sum(ps, p => p.n), by: LAB_NAMES.map(lab => [lab, sum(ps.filter(p => p.lab === lab), p => p.n)]).filter(x => x[1]) };
+  });
+  const max = Math.max(...cols.map(c => c.n), 1);
+  $("tlMax").textContent = `peak ${max}`;
+  tl.innerHTML = cols.map((c, i) => {
+    const on = `${c.ym}-31` >= a && `${c.ym}-01` <= b;
+    const segs = c.by.map(([lab, n]) => `<i style="--c:${LABS[lab]};height:${(n / max * 100).toFixed(2)}%"></i>`).join("");
+    return `<button type="button" class="${on ? "in" : ""}" data-i="${i}" aria-label="${fmtMonth(c.ym)}: ${c.n} em dashes in ${c.ps.length} post${c.ps.length === 1 ? "" : "s"}">${segs}</button>`;
+  }).join("");
+  tl._cols = cols;
+  // a year label at each January, and at the first column when there's room before the next one
+  $("tlAxis").innerHTML = MONTHS.map((ym, i) => ym.endsWith("-01") || (i === 0 && +ym.slice(5) <= 10)
+    ? `<span style="left:${(i / MONTHS.length * 100).toFixed(2)}%">${ym.slice(0, 4)}</span>` : "").join("");
+}
+tl.addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  const ym = MONTHS[+b.dataset.i], p = state.period;
+  setPeriod(p.kind === "month" && p.ym === ym ? { kind: "all" } : { kind: "month", ym });
+});
+
 /* ----- tiles ----- */
-(function tiles() {
-  const total = POSTS.reduce((s, p) => s + p.n, 0);
-  const anth = POSTS.filter(p => p.lab === "Anthropic");
-  const anthN = anth.reduce((s, p) => s + p.n, 0);
-  const top = [...POSTS].sort((a, b) => b.n - a.n)[0];
-  const rivals = ["OpenAI", "Google"].map(l => POSTS.filter(p => p.lab === l).reduce((s, p) => s + p.n, 0));
-  document.getElementById("tiles").innerHTML = `
-    <div class="tile"><div class="big">${total}<small>em dashes</small></div><div class="lbl">across ${POSTS.length} launch posts from ${Object.keys(LABS).length} labs</div></div>
-    <div class="tile"><div class="big">${Math.round(anthN / total * 100)}%<small>Anthropic</small></div><div class="lbl">of every dash, from ${anth.length} of the ${POSTS.length} posts</div></div>
-    <div class="tile"><div class="big">${top.n}<small>in one post</small></div><div class="lbl">${top.name.replace(" & ", " &amp; ")}: more than OpenAI's five posts (${rivals[0]}) or Google's five (${rivals[1]}) put together</div></div>`;
-})();
+function renderTiles(posts) {
+  const total = sum(posts, p => p.n);
+  const labs = LAB_NAMES.map(lab => { const ps = posts.filter(p => p.lab === lab); return { lab, posts: ps.length, n: sum(ps, p => p.n) }; })
+    .filter(l => l.posts).sort((x, y) => y.n - x.n);
+  const top = [...posts].sort((x, y) => y.n - x.n || y.date.localeCompare(x.date))[0];
+  const s = n => n === 1 ? "" : "s";
+  $("tiles").innerHTML = !posts.length ? `
+    <div class="tile"><div class="big">0<small>em dashes</small></div><div class="lbl">no launch posts in this period</div></div>
+    <div class="tile"><div class="big">&ndash;</div><div class="lbl">no lab posted</div></div>
+    <div class="tile"><div class="big">&ndash;</div><div class="lbl">try another month, or the whole year</div></div>` : `
+    <div class="tile"><div class="big">${total}<small>em dash${total === 1 ? "" : "es"}</small></div><div class="lbl">across ${posts.length} launch post${s(posts.length)} from ${labs.length} lab${s(labs.length)}</div></div>
+    <div class="tile"><div class="big">${total ? Math.round(labs[0].n / total * 100) + "%" : "&ndash;"}<small>${total ? labs[0].lab : ""}</small></div><div class="lbl">${total ? `of every dash, from ${labs[0].posts} of the ${posts.length} post${s(posts.length)}` : "not one em dash in the period"}</div></div>
+    <div class="tile"><div class="big">${top.n}<small>in one post</small></div><div class="lbl">${esc(top.name)} &middot; ${top.lab}, ${fmtDate(top.date)}</div></div>`;
+}
 
 /* ----- chips ----- */
-const chips = document.getElementById("chips");
+const chips = $("chips");
 Object.entries(LABS).forEach(([lab, c]) => {
   const b = document.createElement("button");
   b.className = "chip"; b.type = "button"; b.style.setProperty("--c", c);
@@ -336,18 +490,18 @@ Object.entries(LABS).forEach(([lab, c]) => {
   b.innerHTML = `<span class="sw"></span>${lab}`;
   b.onclick = () => {
     const on = state.labs.has(lab);
-    if (on && state.labs.size === Object.keys(LABS).length) { state.labs = new Set([lab]); } // first click isolates
-    else if (on) { state.labs.delete(lab); if (!state.labs.size) state.labs = new Set(Object.keys(LABS)); }
+    if (on && state.labs.size === LAB_NAMES.length) { state.labs = new Set([lab]); } // first click isolates
+    else if (on) { state.labs.delete(lab); if (!state.labs.size) state.labs = new Set(LAB_NAMES); }
     else state.labs.add(lab);
-    syncChips(); render();
+    chips.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", state.labs.has(x.dataset.lab)));
+    render();
   };
   chips.appendChild(b);
 });
-function syncChips() { chips.querySelectorAll(".chip").forEach(b => b.setAttribute("aria-pressed", state.labs.has(b.dataset.lab))); }
 
-document.querySelectorAll(".seg button").forEach(b => b.onclick = () => {
+document.querySelectorAll("[data-mode]").forEach(b => b.onclick = () => {
   state.mode = b.dataset.mode;
-  document.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  document.querySelectorAll("[data-mode]").forEach(x => x.setAttribute("aria-pressed", x === b));
   render();
 });
 
@@ -359,7 +513,7 @@ function strip(p, maxCount, maxRate, delayBase) {
   // longest strip matches the top rate, and the last mark is cut to the exact length.
   const span = units(maxCount);
   const marks = state.mode === "count" ? p.n : p.rate / maxRate * maxCount;
-  if (marks === 0) return `<span class="none">none</span>`;
+  if (marks === 0 || !maxCount) return `<span class="none">none</span>`;
   const whole = Math.floor(marks), frac = marks - whole;
   let out = "";
   const pos = i => (i + Math.floor(i / 5) * GAP5) / span * 100;
@@ -373,18 +527,23 @@ function strip(p, maxCount, maxRate, delayBase) {
 }
 
 /* ----- ranked list ----- */
-const list = document.getElementById("list");
-function render() {
-  const posts = POSTS.filter(p => state.labs.has(p.lab))
+const list = $("list");
+function renderList(inRange) {
+  const posts = inRange.filter(p => state.labs.has(p.lab))
     .sort((a, b) => val(b) - val(a) || b.date.localeCompare(a.date));
-  const maxCount = Math.max(...POSTS.map(p => p.n));
+  const maxCount = Math.max(...inRange.map(p => p.n), 0);
   const maxRate = Math.max(...posts.map(p => p.rate), 0.001);
-  document.getElementById("axisLabel").textContent = state.mode === "count" ? "One mark = one em dash" : "Em dashes per 1,000 words";
-  document.getElementById("axisUnit").textContent = state.mode === "count" ? "Count" : "Per 1k";
+  $("axisLabel").textContent = state.mode === "count" ? "One mark = one em dash" : "Em dashes per 1,000 words";
+  $("axisUnit").textContent = state.mode === "count" ? "Count" : "Per 1k";
+
+  const more = $("more"), shown = state.all ? posts : posts.slice(0, LIMIT);
+  more.hidden = posts.length <= LIMIT;
+  more.textContent = state.all ? `Show the top ${LIMIT}` : `Show all ${posts.length} posts`;
+  if (!posts.length) { list.innerHTML = `<div class="empty">No launch posts ${inRange.length ? "from the selected labs " : ""}in this period.</div>`; return; }
 
   // competition ranking: ties share a rank, the next rank skips (1, 2, 3=, 3=, 5)
   const groups = [];
-  posts.forEach((p, i) => {
+  shown.forEach((p, i) => {
     const g = groups[groups.length - 1];
     if (g && g.key === key(val(p))) g.items.push(p);
     else groups.push({ key: key(val(p)), rank: i + 1, items: [p] });
@@ -395,9 +554,9 @@ function render() {
     const tie = g.items.length > 1;
     const rows = g.items.map(p => {
       const html = `<div class="row" data-i="${POSTS.indexOf(p)}" style="--c:${LABS[p.lab]}">
-        <div class="who"><a href="${p.url}" target="_blank" rel="noopener">${p.name.replace(" & ", " &amp; ")}</a>
+        <div class="who"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.name)}</a>
           <div class="meta"><span class="dot"></span>${p.lab} &middot; ${fmtDate(p.date)}${state.mode === "rate" && p.short ? ` <span class="flag">short</span>` : ""}</div></div>
-        <div class="strip">${strip(p, maxCount, maxRate, rowIndex * 28)}</div>
+        <div class="strip">${strip(p, maxCount, maxRate, Math.min(rowIndex, 24) * 28)}</div>
         <div class="val${state.mode === "rate" ? " dec" : ""}">${show(val(p))}</div></div>`;
       rowIndex++;
       return html;
@@ -407,9 +566,18 @@ function render() {
       <div class="rows">${rows}</div></div>`;
   }).join("");
 }
+$("more").onclick = () => { state.all = !state.all; render(); if (!state.all) $("list").scrollIntoView({ block: "nearest" }); };
 
-/* ----- tooltip ----- */
-const tip = document.getElementById("tip");
+/* ----- tooltips ----- */
+const tip = $("tip");
+function place(e) {
+  const r = tip.getBoundingClientRect();
+  let x = e.clientX + 16, y = e.clientY + 16;
+  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 16;
+  if (y + r.height > innerHeight - 8) y = e.clientY - r.height - 16;
+  tip.style.left = Math.max(8, x) + "px"; tip.style.top = Math.max(8, y) + "px";
+  tip.classList.add("on");
+}
 list.addEventListener("pointermove", e => {
   const row = e.target.closest(".row");
   list.querySelectorAll(".row.focus").forEach(r => r !== row && r.classList.remove("focus"));
@@ -417,44 +585,75 @@ list.addEventListener("pointermove", e => {
   row.classList.add("focus");
   const p = POSTS[+row.dataset.i];
   tip.style.setProperty("--c", LABS[p.lab]);
-  tip.innerHTML = `<div class="t">${p.name.replace(" & ", " &amp; ")}</div>
-    <div class="s"><span class="dot"></span>${p.lab} &middot; ${fmtDate(p.date)} 2026</div>
+  tip.innerHTML = `<div class="t">${esc(p.name)}</div>
+    <div class="s"><span class="dot"></span>${p.lab} &middot; ${fmtDate(p.date)}</div>
     <dl><dt>Em dashes</dt><dd>${p.n}</dd><dt>Words</dt><dd>${p.words.toLocaleString("en-US")}</dd>
-    <dt>Per 1,000 words</dt><dd>${p.rate.toFixed(2)}</dd><dt>One every</dt><dd>${p.n ? Math.round(p.words / p.n).toLocaleString("en-US") + " words" : "never"}</dd></dl>`;
-  const r = tip.getBoundingClientRect();
-  let x = e.clientX + 16, y = e.clientY + 16;
-  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 16;
-  if (y + r.height > innerHeight - 8) y = e.clientY - r.height - 16;
-  tip.style.left = Math.max(8, x) + "px"; tip.style.top = Math.max(8, y) + "px";
-  tip.classList.add("on");
+    <dt>Per 1,000 words</dt><dd>${p.rate.toFixed(2)}</dd><dt>One every</dt><dd>${p.n ? Math.round(p.words / p.n).toLocaleString("en-US") + " words" : "never"}</dd>
+    ${p.blank ? `<dt>Of which blank table cells</dt><dd>${p.blank}${COUNT_BLANK_CELLS ? "" : " not counted"}</dd>` : ""}</dl>`;
+  place(e);
 });
 list.addEventListener("pointerleave", () => { tip.classList.remove("on"); list.querySelectorAll(".row.focus").forEach(r => r.classList.remove("focus")); });
+tl.addEventListener("pointermove", e => {
+  const b = e.target.closest("button");
+  if (!b || e.pointerType === "touch") { tip.classList.remove("on"); return; }
+  const c = tl._cols[+b.dataset.i];
+  tip.innerHTML = `<div class="t">${fmtMonth(c.ym)}</div>
+    <div class="s">${c.n} em dash${c.n === 1 ? "" : "es"} in ${c.ps.length} post${c.ps.length === 1 ? "" : "s"}</div>
+    <dl>${c.by.map(([lab, n]) => `<dt><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${LABS[lab]};margin-right:6px"></span>${lab}</dt><dd>${n}</dd>`).join("")}</dl>`;
+  place(e);
+});
+tl.addEventListener("pointerleave", () => tip.classList.remove("on"));
 
 /* ----- by lab ----- */
-(function labs() {
-  const rows = Object.keys(LABS).map(lab => {
-    const ps = POSTS.filter(p => p.lab === lab);
-    const n = ps.reduce((s, p) => s + p.n, 0), w = ps.reduce((s, p) => s + p.words, 0);
-    return { lab, posts: ps.length, n, avg: n / ps.length, rate: n / w * 1000 };
-  }).sort((a, b) => b.avg - a.avg);
-  const max = rows[0].avg;
-  const rest = POSTS.filter(p => p.lab !== "Anthropic");
-  const restAvg = rest.reduce((s, p) => s + p.n, 0) / rest.length;
-  document.getElementById("mult").textContent = (rows.find(r => r.lab === "Anthropic").avg / restAvg).toFixed(1) + "×";
-  document.getElementById("labs").innerHTML = rows.map(r => `
+function renderLabs(posts) {
+  const rows = LAB_NAMES.map(lab => {
+    const ps = posts.filter(p => p.lab === lab);
+    return { lab, posts: ps.length, n: sum(ps, p => p.n), avg: ps.length ? sum(ps, p => p.n) / ps.length : 0 };
+  }).filter(r => r.posts).sort((a, b) => b.avg - a.avg);
+  const max = Math.max(rows[0]?.avg || 0, 0.001);
+  let sub = "Average em dashes per launch post.";
+  if (rows.length > 1 && rows[0].avg > 0) {
+    const rest = posts.filter(p => p.lab !== rows[0].lab), restAvg = sum(rest, p => p.n) / rest.length;
+    sub += restAvg > 0 ? ` ${rows[0].lab} averages ${(rows[0].avg / restAvg).toFixed(1)}× as many as the rest of the field.`
+      : ` ${rows[0].lab} is the only lab that used any.`;
+  }
+  $("labSub").textContent = sub;
+  $("labs").innerHTML = rows.map(r => `
     <div class="lab" style="--c:${LABS[r.lab]}">
       <div class="nm"><span class="dot"></span>${r.lab}</div>
       <div class="bar"><span class="fill" style="width:${(r.avg / max * 82).toFixed(2)}%"></span><span class="avg" style="left:calc(${(r.avg / max * 82).toFixed(2)}% + 8px)">${r.avg.toFixed(1)}</span></div>
       <div class="fig"><b>${r.n}</b> in ${r.posts} post${r.posts > 1 ? "s" : ""}</div>
-    </div>`).join("");
-})();
+    </div>`).join("") || `<div class="empty">No launch posts in this period.</div>`;
+}
 
 /* ----- table ----- */
-document.querySelector("#table tbody").innerHTML = [...POSTS].sort((a, b) => b.n - a.n || b.rate - a.rate).map(p => `
-  <tr><td><a href="${p.url}" target="_blank" rel="noopener">${p.name.replace(" & ", " &amp; ")}</a></td><td>${p.lab}</td><td>${fmtDate(p.date)}</td>
-  <td class="n">${p.n}</td><td class="n">${p.words.toLocaleString("en-US")}</td><td class="n">${p.rate.toFixed(2)}</td></tr>`).join("");
+function renderTable(posts) {
+  document.querySelector("#table tbody").innerHTML = [...posts].sort((a, b) => b.n - a.n || b.rate - a.rate).map(p => `
+    <tr><td><a href="${p.url}" target="_blank" rel="noopener">${esc(p.name)}</a></td><td>${p.lab}</td><td>${fmtDate(p.date)}</td>
+    <td class="n">${p.n}</td><td class="n">${p.words.toLocaleString("en-US")}</td><td class="n">${p.rate.toFixed(2)}</td></tr>`).join("");
+}
 
-render();
+function render() {
+  const inRange = POSTS.filter(inPeriod);
+  renderPeriod(); renderTimeline(); renderTiles(inRange); renderList(inRange); renderLabs(inRange); renderTable(inRange);
+}
+
+/* ----- load ----- */
+fetch("data.json", { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
+  POSTS = data.posts.filter(p => LABS[p.lab]).map(p => {
+    const n = p.n + (COUNT_BLANK_CELLS ? p.blank || 0 : 0);
+    return { ...p, n, rate: n / p.words * 1000, short: p.words < 500 };
+  });
+  FIRST = POSTS.reduce((m, p) => p.date < m ? p.date : m, TODAY);
+  for (let ym = FIRST.slice(0, 7); ym <= TODAY.slice(0, 7); ym = shift(ym, 1)) MONTHS.push(ym);
+  const blanks = sum(data.posts, p => p.blank || 0);
+  $("kicker").innerHTML = `AI launch posts &middot; updated ${fmtDate(data.updated)}`;
+  $("dek").textContent = `How many em dashes AI labs put in their model launch posts: ${POSTS.length} posts from ${new Set(POSTS.map(p => p.lab)).size} labs since ${fmtMonth(FIRST.slice(0, 7))}, counted by script and updated daily. Each mark below is one em dash. Bracketed ranks are ties.`;
+  if (blanks && COUNT_BLANK_CELLS) $("blankNote").textContent = ` (${blanks} of those across all posts)`;
+  state.period = fromHash();
+  addEventListener("hashchange", () => { state.period = fromHash(); state.all = false; render(); });
+  render();
+}).catch(() => { list.innerHTML = `<div class="empty">Couldn't load the counts. Try reloading the page.</div>`; });
 </script>
 </body>
 </html>
