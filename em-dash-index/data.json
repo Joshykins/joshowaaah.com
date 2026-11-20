@@ -7,7 +7,7 @@
 {"lab":"Google","name":"Gemini 4 Carbon, available","date":"2026-11-10","n":5,"words":2286,"url":"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/","blank":0},
 {"lab":"Anthropic","name":"Claude Fable 5.2 & Mythos 5.2","date":"2026-11-09","n":19,"words":6214,"url":"https://www.anthropic.com/claude-fable-and-mythos-5-2","blank":10},
 {"lab":"Meta","name":"Muse Ember","date":"2026-11-09","n":0,"blank":0,"words":1907,"url":"https://research.meta.ai/blog/muse-ember"},
-{"lab":"OpenAI","name":"GPT-6 Cyber","date":"2026-11-05","n":3,"words":2884,"url":"https://openai.com/index/introducing-gpt-6-cyber/","blank":0},
+{"lab":"OpenAI","name":"GPT-6 Cyber","date":"2026-11-05","n":3,"words":2885,"url":"https://openai.com/index/introducing-gpt-6-cyber/","blank":0},
 {"lab":"OpenAI","name":"Images 2.6","date":"2026-11-04","n":5,"words":1015,"url":"https://openai.com/index/introducing-images-2-6/","blank":0},
 {"lab":"Mistral","name":"Mistral Large 4, open weights","date":"2026-10-29","n":3,"words":3455,"url":"https://mistral.ai/news/mistral-large-4-oss/","blank":0},
 {"lab":"Google","name":"Gemini 4 Carbon","date":"2026-10-28","n":5,"words":1023,"url":"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/","blank":0},
