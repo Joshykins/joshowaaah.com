@@ -104,6 +104,11 @@
   "title": "Give Your Muse a Voice",
   "why": "title"
  },
+ "about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control": {
+  "lab": "Meta",
+  "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+  "why": "title"
+ },
  "about.fb.com/news/2026/11/introducing-spaces-customize-muse-app": {
   "lab": "Meta",
   "title": "Design the Muse App, Just for You",
@@ -117,6 +122,11 @@
  "about.fb.com/news/2026/11/muse-is-now-available-in-australia": {
   "lab": "Meta",
   "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+  "why": "title"
+ },
+ "about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control": {
+  "lab": "Meta",
+  "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
   "why": "title"
  },
  "api-docs.deepseek.com/news/news0725": {
@@ -195,6 +205,11 @@
  "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders": {
   "lab": "Google",
   "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders": {
+  "lab": "Google",
+  "title": "See what 5 builders are making with Gemini 4 Neon",
   "why": "title"
  },
  "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate": {
@@ -350,6 +365,11 @@
  "blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-universal-ai-assistant": {
   "lab": "Google",
   "title": "Our vision for building a universal AI assistant",
+  "why": "title"
+ },
+ "blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam": {
+  "lab": "Google",
+  "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
   "why": "title"
  },
  "blog.google/innovation-and-ai/models-and-research/google-deepmind/imagine-if": {
@@ -4881,6 +4901,11 @@
  "openai.com/index/searchgpt-prototype": {
   "lab": "OpenAI",
   "title": "SearchGPT is a prototype of new AI search features",
+  "why": "title"
+ },
+ "openai.com/index/searching-for-distant-planets-with-astra": {
+  "lab": "OpenAI",
+  "title": "Searching for distant planets with Astra",
   "why": "title"
  },
  "openai.com/index/securing-our-frontier-model-training-environment": {

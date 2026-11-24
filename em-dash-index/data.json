@@ -1,5 +1,6 @@
 {"updated":"2026-11-24","since":"2023-01-01","posts":[
-{"lab":"Google","name":"Gemini 4 Neon","date":"2026-11-18","n":10,"words":1918,"url":"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/","blank":0},
+{"lab":"OpenAI","name":"GPT-6 models demonstrate intrinsic protein-design capabilities","date":"2026-11-24","n":4,"blank":0,"words":4282,"url":"https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"},
+{"lab":"Google","name":"Gemini 4 Neon","date":"2026-11-18","n":10,"words":1924,"url":"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/","blank":0},
 {"lab":"Google","name":"Genie 4, now available","date":"2026-11-18","n":1,"words":1247,"url":"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/","blank":0},
 {"lab":"OpenAI","name":"GPT-6.2 Astra & Sol","date":"2026-11-17","n":1,"words":2471,"url":"https://openai.com/index/introducing-gpt-6-2-astra-sol","blank":0},
 {"lab":"Google","name":"Gemini 4 Hydrogen","date":"2026-11-12","n":13,"words":1897,"url":"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/","blank":0},
