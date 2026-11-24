@@ -192,6 +192,11 @@
   "title": "Gemini 3.8 text-to-speech says hello",
   "why": "title"
  },
+ "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders": {
+  "lab": "Google",
+  "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+  "why": "title"
+ },
  "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate": {
   "lab": "Google",
   "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
@@ -3216,6 +3221,11 @@
  "openai.com/index/introducing-prism": {
   "lab": "OpenAI",
   "title": "Introducing Prism",
+  "why": "title"
+ },
+ "openai.com/index/introducing-shirudo": {
+  "lab": "OpenAI",
+  "title": "OpenAI and Cisco introduce Shirudo",
   "why": "title"
  },
  "openai.com/index/introducing-simpleqa": {
